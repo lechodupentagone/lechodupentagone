@@ -260,7 +260,7 @@ def image_reel(texte, categorie, date, chemin, marque, premiere=False):
         d.rounded_rectangle([M, haut, M + w + 48, haut + 64], radius=32, fill=blanc)
         texte_espace(d, (M + 24, haut + 12), cat, f_cat, fond, 2)
         haut += 120
-    f, lignes, pas = _bloc(d, texte, "InterDisplay-Black.otf", range(104, 54, -4), LR - 2 * M, bas - haut, 1.08)
+    f, lignes, pas = _bloc(d, texte, "InterDisplay-Black.otf", range(136, 54, -4), LR - 2 * M, bas - haut, 1.08)
     y = haut + (bas - haut - len(lignes) * pas) / 2
     for l_ in lignes:
         d.text((M, y), l_, font=f, fill=blanc if not premiere else blanc)

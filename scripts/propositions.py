@@ -58,23 +58,27 @@ def bouton_copier(texte, ident):
             f'<button onclick="copier(\'{ident}\', this)">Copier</button></div>')
 
 
-def carte(s, rel, n):
+DEPOT = "https://raw.githubusercontent.com/lechodupentagone/lechodupentagone/main/propositions"
+
+
+def carte(s, rel, n, jour):
+    brut = f"{DEPOT}/{jour}/{rel}"   # téléchargement depuis GitHub (le cadre de la page bloque <a download>)
     srcs = " · ".join(f'<a href="{html.escape(x["lien"])}" target="_blank">{html.escape(x["nom"])}</a>'
                       for x in s["sources"])
-    diapos = "".join(f'<a href="{rel}/{f}" download><img src="{rel}/{f}" alt=""></a>' for f in s["_carrousel"])
+    diapos = "".join(f'<a href="{brut}/{f}" target="_blank"><img src="{rel}/{f}" alt=""></a>' for f in s["_carrousel"])
     return f"""
 <section class="sujet">
   <p class="cat">{html.escape(s['categorie'])}</p>
   <h2>{n}. {html.escape(s['titre'])}</h2>
   <p class="sources">Sources : {srcs}</p>
   <div class="grille">
-    <div><h3>Visuel</h3><a href="{rel}/visuel.jpg" download><img src="{rel}/visuel.jpg" alt=""></a>
-      <a class="dl" href="{rel}/visuel.jpg" download>Télécharger</a></div>
+    <div><h3>Visuel</h3><img src="{rel}/visuel.jpg" alt="">
+      <a class="dl" href="{brut}/visuel.jpg" target="_blank">Télécharger ↗</a></div>
     <div><h3>Reel</h3><video src="{rel}/reel.mp4" controls playsinline muted></video>
-      <a class="dl" href="{rel}/reel.mp4" download>Télécharger la vidéo</a>
+      <a class="dl" href="{brut}/reel.mp4" target="_blank">Télécharger la vidéo ↗</a>
       <p class="astuce">Ajoute une musique dans Instagram au moment de poster.</p></div>
   </div>
-  <h3>Carrousel ({len(s['_carrousel'])} images, dans l'ordre)</h3>
+  <h3>Carrousel ({len(s['_carrousel'])} images, dans l'ordre — clique sur une image pour la télécharger)</h3>
   <div class="carrousel">{diapos}</div>
   <h3>Légende Instagram</h3>{bouton_copier(s['legende_instagram'], f'ig{n}')}
   <h3>Texte Facebook</h3>{bouton_copier(s['texte_facebook'], f'fb{n}')}
@@ -132,7 +136,7 @@ def main(chemin_brouillon):
     for n, s in enumerate(sujets, start=1):
         slug = slugifier(s["titre"], 50)
         d = dossier_jour / f"{n:02d}-{slug}"
-        source_visuel = s["sources"][0]["nom"] if len(s["sources"]) == 1 else "L'Écho du Pentagone"
+        source_visuel = ", ".join(x["nom"] for x in s["sources"])
         generer(s["titre"], s["categorie"], source_visuel, date, d / "visuel.jpg", marque)
         # carrousel : couverture = visuel, puis diapos, puis appel à s'abonner
         total = len(s["carrousel"]) + 2
@@ -145,7 +149,7 @@ def main(chemin_brouillon):
         fichiers.append(f"carrousel-{total:02d}.jpg")
         s["_carrousel"] = fichiers
         reel(s["reel"], s["categorie"], date, d, marque)
-        cartes.append(carte(s, d.name, n))
+        cartes.append(carte(s, d.name, n, dossier_jour.name))
         sources = " · ".join(x["nom"] for x in s["sources"])
         liens = "\n".join(f"- [{x['nom']}]({x['lien']})" for x in s["sources"])
         a_importer.append({
