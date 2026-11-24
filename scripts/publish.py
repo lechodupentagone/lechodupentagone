@@ -115,7 +115,9 @@ def publier_instagram(texte, url_image):
     ou META_PAGE_TOKEN (Instagram relié à la page Facebook)."""
     ig = os.environ["IG_USER_ID"].strip()
     if os.environ.get("IG_TOKEN"):
-        base, jeton = API_IG, os.environ["IG_TOKEN"].strip().strip('"')
+        jeton = os.environ["IG_TOKEN"].strip().strip('"')
+        # jeton « IGAA… » (connexion Instagram) ou « EAA… » (connexion Facebook)
+        base = API if jeton.startswith("EAA") else API_IG
     else:
         base, jeton = API, os.environ["META_PAGE_TOKEN"]
     r = requests.post(f"{base}/{ig}/media", data={
