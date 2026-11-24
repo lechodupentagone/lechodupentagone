@@ -3,6 +3,8 @@ layout: default
 title: Mentions légales
 permalink: /mentions-legales/
 ---
+<section class="bloc texte" markdown="1">
+
 # Mentions légales
 
 **Éditeur** : L'Écho du Pentagone, site d'information édité à titre non professionnel.
@@ -19,3 +21,5 @@ Conformément à l'article 6, III, 2 de la loi n° 2004-575 du 21 juin 2004 pour
 **Droit de réponse et signalement** : écrire à l'adresse de contact ci-dessus. Toute demande de droit de réponse est traitée dans les délais prévus par la loi.
 
 **Données personnelles** : ce site ne dépose pas de cookie et ne collecte aucune donnée de ses visiteurs.
+
+</section>

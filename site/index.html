@@ -1,13 +1,65 @@
 ---
 layout: default
 ---
-<section class="grille">
-{% for post in site.posts limit:60 %}
-  <a class="carte" href="{{ post.url | relative_url }}">
-    {% if post.image %}<img src="{{ post.image | relative_url }}" alt="" loading="lazy">{% endif %}
-    <span class="cat">{{ post.categorie }}</span>
-    <h2>{{ post.title }}</h2>
-    <p class="meta">{{ post.date | date: "%d/%m/%Y" }} · {{ post.source }}</p>
-  </a>
-{% endfor %}
+{% assign une = site.posts | slice: 0, 3 %}
+<section class="une" aria-label="À la une">
+  <div class="une-piste" id="une">
+  {% for post in une %}
+    {% capture coul %}{% include couleur.html cat=post.categorie %}{% endcapture %}{% assign coul = coul | strip %}
+    <article class="une-diapo" style="--c:{{ coul }}">
+      <div class="une-texte">
+        <p class="etiquettes"><span class="tag-une">À la une</span><span class="tag-cat" style="background:{{ coul }}">{{ post.categorie }}</span></p>
+        <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
+        {% assign resume = post.excerpt | strip_html | strip_newlines | strip %}{% if resume != post.title %}<p class="chapeau">{{ resume | truncate: 260 }}</p>{% endif %}
+        <p class="meta">{{ post.date | date: "%d/%m/%Y" }} · <a href="{{ post.url | relative_url }}">Lire l'article →</a></p>
+      </div>
+      {% if post.image %}<a class="une-visuel" href="{{ post.url | relative_url }}"><img src="{{ post.image | relative_url }}" alt=""></a>{% endif %}
+    </article>
+  {% endfor %}
+  </div>
+  {% if une.size > 1 %}<div class="points">{% for post in une %}<button type="button" data-i="{{ forloop.index0 }}" aria-label="Sujet {{ forloop.index }}"></button>{% endfor %}</div>{% endif %}
 </section>
+
+{% assign videos = site.posts | where_exp: "p", "p.video" %}
+{% if videos.size > 0 %}
+<section class="bloc">
+  <div class="bloc-titre"><h2>Les vidéos</h2><a href="{{ '/videos/' | relative_url }}">Tout voir →</a></div>
+  <p class="sous">Formats courts, l'essentiel en 20 secondes.</p>
+  <div class="videos">
+  {% for post in videos limit:8 %}{% include video.html post=post %}{% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="bloc">
+  <div class="bloc-titre"><h2>Les dernières actualités</h2><a href="{{ '/actualites/' | relative_url }}">Tout voir →</a></div>
+  <div class="grille">
+  {% for post in site.posts limit:12 offset:3 %}{% include carte.html post=post %}{% endfor %}
+  {% if site.posts.size <= 3 %}<p class="vide">Les prochains articles arrivent ici.</p>{% endif %}
+  </div>
+</section>
+
+{% for r in site.data.rubriques %}
+{% assign liste = site.posts | where: "categorie", r.nom %}
+{% if liste.size > 0 %}
+<section class="bloc">
+  <div class="bloc-titre"><h2><i class="puce" style="background:{{ r.couleur }}"></i>{{ r.nom }}</h2><a href="{{ '/rubriques/' | append: r.slug | append: '/' | relative_url }}">Tout voir →</a></div>
+  <div class="grille">{% for post in liste limit:4 %}{% include carte.html post=post %}{% endfor %}</div>
+</section>
+{% endif %}
+{% endfor %}
+
+<script>
+{
+  const piste = document.getElementById('une');
+  const points = [...document.querySelectorAll('.points button')];
+  if (piste && points.length) {
+    const aller = i => piste.scrollTo({left: piste.clientWidth * i, behavior: 'smooth'});
+    const marquer = () => { const i = Math.round(piste.scrollLeft / piste.clientWidth); points.forEach((b, k) => b.classList.toggle('on', k === i)); };
+    points.forEach(b => b.addEventListener('click', () => aller(+b.dataset.i)));
+    piste.addEventListener('scroll', marquer, {passive: true}); marquer();
+    let auto = setInterval(() => { const i = Math.round(piste.scrollLeft / piste.clientWidth); aller((i + 1) % points.length); }, 7000);
+    piste.addEventListener('pointerdown', () => clearInterval(auto), {once: true});
+  }
+}
+</script>

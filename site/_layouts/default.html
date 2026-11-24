@@ -4,24 +4,58 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
-  {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}">{% endif %}
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 160 }}">
+  <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}">{% else %}<meta property="og:image" content="{{ '/assets/identite/logo.png' | absolute_url }}">{% endif %}
+  <meta name="theme-color" content="#071528">
   <link rel="icon" href="{{ '/assets/identite/logo.png' | relative_url }}">
+  <link rel="preload" href="{{ '/assets/fonts/InterDisplay-Black.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
 </head>
 <body>
-  <header class="bandeau">
-    <a class="marque" href="{{ '/' | relative_url }}"><img src="{{ '/assets/identite/logo.png' | relative_url }}" alt="">{{ site.title }}</a>
-    <span class="accroche">{{ site.description }}</span>
+<input type="checkbox" id="menu" class="menu-case" aria-hidden="true">
+<aside class="lateral">
+  <a class="marque" href="{{ '/' | relative_url }}">
+    <img src="{{ '/assets/identite/logo.png' | relative_url }}" alt="">
+    <span><b>L'Écho du</b><strong>Pentagone</strong></span>
+  </a>
+  <p class="slogan">{{ site.description }}</p>
+  <nav>
+    <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="actif"{% endif %}>Accueil</a>
+    <a href="{{ '/actualites/' | relative_url }}" {% if page.url == '/actualites/' %}class="actif"{% endif %}>Toute l'actualité</a>
+    <a href="{{ '/videos/' | relative_url }}" {% if page.url == '/videos/' %}class="actif"{% endif %}>Vidéos</a>
+    <p class="titre-nav">Rubriques</p>
+    {% for r in site.data.rubriques %}
+    <a href="{{ '/rubriques/' | append: r.slug | append: '/' | relative_url }}" class="rub{% if page.rubrique == r.nom %} actif{% endif %}"><i style="background:{{ r.couleur }}"></i>{{ r.nom }}</a>
+    {% endfor %}
+  </nav>
+  <div class="bas-nav">
+    <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    <a href="{{ '/mentions-legales/' | relative_url }}">Mentions légales</a>
+    <a href="{{ '/feed.xml' | relative_url }}">Flux RSS</a>
+    <p class="reseaux"><a href="https://www.instagram.com/lechodupentagone/">Instagram</a> · <a href="https://www.facebook.com/profile.php?id=61596729337569">Facebook</a></p>
+  </div>
+</aside>
+<div class="page">
+  <header class="haut">
+    <label for="menu" class="burger" aria-label="Menu"><span></span></label>
+    <a class="marque-mobile" href="{{ '/' | relative_url }}"><img src="{{ '/assets/identite/logo.png' | relative_url }}" alt="">L'Écho du Pentagone</a>
+    <div class="continu">
+      <span class="pastille">En continu</span>
+      <div class="defile"><div class="piste">
+        {% for i in (1..2) %}{% for p in site.posts limit:8 %}<a href="{{ p.url | relative_url }}"><em>{{ p.categorie }}</em>{{ p.title }}</a>{% endfor %}{% endfor %}
+      </div></div>
+    </div>
   </header>
   <main>{{ content }}</main>
-  <footer>
-    {% if site.facebook != "" %}<a href="{{ site.facebook }}">Facebook</a> · {% endif %}
-    {% if site.instagram != "" %}<a href="{{ site.instagram }}">Instagram</a> · {% endif %}
-    <a href="{{ '/mentions-legales/' | relative_url }}">Mentions légales</a> ·
-    <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+  <footer class="pied">
+    <span>© {{ site.time | date: "%Y" }} {{ site.title }} — {{ site.description }}</span>
+    <span><a href="{{ '/contact/' | relative_url }}">Contact</a> · <a href="{{ '/mentions-legales/' | relative_url }}">Mentions légales</a> · <a href="{{ '/feed.xml' | relative_url }}">RSS</a></span>
   </footer>
+</div>
+<label for="menu" class="voile" aria-hidden="true"></label>
 </body>
 </html>

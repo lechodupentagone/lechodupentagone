@@ -1,0 +1,1 @@
+{% assign rub = site.data.rubriques | where: "nom", include.cat | first %}{% if rub %}{{ rub.couleur }}{% else %}#0B1F3A{% endif %}

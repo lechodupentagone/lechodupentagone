@@ -1,9 +1,35 @@
 ---
 layout: default
 ---
+{% capture coul %}{% include couleur.html cat=page.categorie %}{% endcapture %}{% assign coul = coul | strip %}
+{% assign url_abs = page.url | absolute_url %}{% capture texte_wa %}{{ page.title }} {{ url_abs }}{% endcapture %}
+{% assign rub = site.data.rubriques | where: "nom", page.categorie | first %}
 <article class="article">
-  <p class="meta"><span class="cat">{{ page.categorie }}</span> {{ page.date | date: "%d/%m/%Y" }}</p>
-  <h1>{{ page.title }}</h1>
-  {% if page.image %}<img src="{{ page.image | relative_url }}" alt="">{% endif %}
-  {{ content }}
+  <header class="art-tete">
+    <p class="etiquettes">{% if rub %}<a class="tag-cat" style="background:{{ coul }}" href="{{ '/rubriques/' | append: rub.slug | append: '/' | relative_url }}">{{ page.categorie }}</a>{% endif %}</p>
+    <h1>{{ page.title }}</h1>
+    <p class="meta">Publié le {{ page.date | date: "%d/%m/%Y à %Hh%M" }}{% if page.source != "" %} · Source : {{ page.source }}{% endif %}</p>
+  </header>
+  <div class="art-grille">
+    <div class="art-corps">
+      {{ content }}
+      {% if page.lien_source != "" %}<p class="art-source">Source principale : <a href="{{ page.lien_source }}" rel="noopener">{{ page.source | default: "lien" }} ↗</a></p>{% endif %}
+      <p class="partage">Partager :
+        <a href="https://www.facebook.com/sharer/sharer.php?u={{ url_abs | url_encode }}" rel="noopener">Facebook</a>
+        <a href="https://wa.me/?text={{ texte_wa | url_encode }}" rel="noopener">WhatsApp</a>
+        <a href="mailto:?subject={{ page.title | url_encode }}&body={{ url_abs | url_encode }}">E-mail</a>
+      </p>
+    </div>
+    <aside class="art-media">
+      {% if page.video %}<video src="{{ page.video | relative_url }}" poster="{{ page.image | relative_url }}" preload="none" controls playsinline muted></video>
+      {% elsif page.image %}<img src="{{ page.image | relative_url }}" alt="">{% endif %}
+    </aside>
+  </div>
 </article>
+{% assign autres = site.posts | where: "categorie", page.categorie %}
+{% if autres.size > 1 %}
+<section class="bloc">
+  <div class="bloc-titre"><h2>À lire aussi</h2></div>
+  <div class="grille">{% assign n = 0 %}{% for post in autres %}{% if post.url != page.url and n < 4 %}{% include carte.html post=post %}{% assign n = n | plus: 1 %}{% endif %}{% endfor %}</div>
+</section>
+{% endif %}

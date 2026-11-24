@@ -1,0 +1,12 @@
+---
+layout: default
+title: "Vidéos"
+permalink: /videos/
+---
+{% assign videos = site.posts | where_exp: "p", "p.video" %}
+<section class="bloc">
+  <div class="bloc-titre"><h1>Vidéos</h1></div>
+  <p class="sous">Formats courts, l'essentiel en 20 secondes.</p>
+  <div class="videos mur">{% for post in videos %}{% include video.html post=post %}{% endfor %}</div>
+  {% if videos.size == 0 %}<p class="vide">Les premières vidéos arrivent bientôt.</p>{% endif %}
+</section>

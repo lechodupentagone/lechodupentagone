@@ -9,6 +9,7 @@
   python scripts/publish.py identite   → photo de profil + bannière Facebook
 """
 import json
+import shutil
 import os
 import sys
 import time
@@ -40,7 +41,7 @@ def texte_de(e):
     return (e.get("texte à publier") or e.get("titre") or "").strip()
 
 
-def ecrire_article(e, slug, date, image_rel, cfg):
+def ecrire_article(e, slug, date, image_rel, cfg, video_rel=""):
     dossier = RACINE / "site" / "_posts"
     dossier.mkdir(parents=True, exist_ok=True)
     titre = e["titre"].replace('"', "'")
@@ -53,7 +54,7 @@ categorie: "{e.get('catégorie', '')}"
 source: "{e.get('source', '')}"
 lien_source: "{e.get('lien', '')}"
 image: "/{image_rel}"
----
+{('video: "/' + video_rel + '"' + chr(10)) if video_rel else ''}---
 {corps}
 
 Source : [{e.get('source', '')}]({e.get('lien', '')})
@@ -76,7 +77,8 @@ def preparer():
             slug = e.get("url site", "").rstrip("/").rsplit("/", 1)[-1]
             if slug:
                 for f in list((RACINE / "site" / "_posts").glob(f"*-{slug}.md")) + \
-                         list((RACINE / "site" / "assets" / "visuels").glob(f"*-{slug}.jpg")):
+                         list((RACINE / "site" / "assets" / "visuels").glob(f"*-{slug}.jpg")) + \
+                         list((RACINE / "site" / "assets" / "videos").glob(f"*-{slug}.mp4")):
                     f.unlink()
             file_attente = [x for x in file_attente if x.get("ligne") != i]
             maj(onglet, i, {"statut": "retiré", "url site": ""})
@@ -92,7 +94,14 @@ def preparer():
         image_rel = f"assets/visuels/{date:%Y-%m-%d}-{slug}.jpg"
         generer(e["titre"], e.get("catégorie") or "Info", e.get("source", ""),
                 f"{date:%d/%m/%Y}", RACINE / "site" / image_rel, marque)
-        ecrire_article(e, slug, date, image_rel, cfg)
+        video_rel = ""
+        reels_f = RACINE / "data" / "reels.json"
+        reels = json.loads(reels_f.read_text()) if reels_f.exists() else {}
+        if e.get("id") in reels and (RACINE / reels[e["id"]]).exists():
+            video_rel = f"assets/videos/{date:%Y-%m-%d}-{slug}.mp4"
+            (RACINE / "site" / "assets" / "videos").mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(RACINE / reels[e["id"]], RACINE / "site" / video_rel)
+        ecrire_article(e, slug, date, image_rel, cfg, video_rel)
         url_article = f"{marque['site_url']}/{date:%Y/%m}/{slug}/"
         maj(onglet, i, {"statut": "en ligne (site)", "url site": url_article})
         file_attente.append({"ligne": i, "texte": texte_de(e), "source": e.get("source", ""),

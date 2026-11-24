@@ -1,0 +1,8 @@
+- { nom: "Municipal", slug: "municipal", couleur: "#1D4ED8" }
+- { nom: "Agglo", slug: "agglo", couleur: "#0F766E" }
+- { nom: "Vendée", slug: "vendee", couleur: "#15803D" }
+- { nom: "Société", slug: "societe", couleur: "#475569" }
+- { nom: "Économie", slug: "economie", couleur: "#6D28D9" }
+- { nom: "Sport", slug: "sport", couleur: "#C2410C" }
+- { nom: "Culture", slug: "culture", couleur: "#BE185D" }
+- { nom: "Faits divers", slug: "faits-divers", couleur: "#B91C1C" }

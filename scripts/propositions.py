@@ -24,6 +24,7 @@ from common import RACINE, config, identifiant, slugifier
 from visual import diapo, diapo_fin, generer, image_reel
 
 IMPORT = RACINE / "data" / "propositions_a_importer.json"
+REELS = RACINE / "data" / "reels.json"      # id de la ligne → Reel, repris sur le site à la publication
 
 
 def reel(phrases, categorie, date, dossier, marque):
@@ -132,6 +133,7 @@ def main(chemin_brouillon):
     jour = datetime.strptime(dossier_jour.name, "%Y-%m-%d")
     date = f"{jour:%d/%m/%Y}"
     a_importer = json.loads(IMPORT.read_text()) if IMPORT.exists() else []
+    reels = json.loads(REELS.read_text()) if REELS.exists() else {}
     cartes = []
     for n, s in enumerate(sujets, start=1):
         slug = slugifier(s["titre"], 50)
@@ -152,8 +154,10 @@ def main(chemin_brouillon):
         cartes.append(carte(s, d.name, n, dossier_jour.name))
         sources = " · ".join(x["nom"] for x in s["sources"])
         liens = "\n".join(f"- [{x['nom']}]({x['lien']})" for x in s["sources"])
+        ident = identifiant(s["sources"][0]["lien"], s["titre"])
+        reels[ident] = str((d / "reel.mp4").relative_to(RACINE))
         a_importer.append({
-            "id": identifiant(s["sources"][0]["lien"], s["titre"]),
+            "id": ident,
             "source": sources, "type": "proposition Écho", "catégorie": s["categorie"],
             "titre": s["titre"], "lien": s["sources"][0]["lien"],
             "texte à publier": f"{s['article'].strip()}\n\n**Sources :**\n{liens}",
@@ -164,6 +168,7 @@ def main(chemin_brouillon):
     (dossier_jour / "index.html").write_text(page, encoding="utf-8")
     IMPORT.parent.mkdir(exist_ok=True)
     IMPORT.write_text(json.dumps(a_importer, ensure_ascii=False, indent=1), encoding="utf-8")
+    REELS.write_text(json.dumps(reels, ensure_ascii=False, indent=1), encoding="utf-8")
     print("Page :", dossier_jour / "index.html")
 
 

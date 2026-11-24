@@ -1,0 +1,14 @@
+{% capture coul %}{% include couleur.html cat=include.post.categorie %}{% endcapture %}{% assign coul = coul | strip %}
+<a class="carte" href="{{ include.post.url | relative_url }}">
+  <div class="vignette" style="--c:{{ coul }}">
+    <svg viewBox="0 0 200 120" aria-hidden="true"><g fill="none" stroke="#fff"><path d="M150 18 186 44 172 86H128L114 44Z" stroke-opacity=".35" stroke-width="3"/><path d="M150 -2 207 39 185 106H115L93 39Z" stroke-opacity=".2" stroke-width="3"/><path d="M150 -22 228 34 198 126H102L72 34Z" stroke-opacity=".1" stroke-width="3"/></g></svg>
+    <span class="vig-cat">{{ include.post.categorie }}</span>
+    {% if include.post.video %}<span class="vig-video">▶ Vidéo</span>{% endif %}
+  </div>
+  <div class="corps">
+    <p class="cat" style="color:{{ coul }}">{{ include.post.categorie }}</p>
+    <h3>{{ include.post.title }}</h3>
+    {% assign resume = include.post.excerpt | strip_html | strip_newlines | strip %}{% if resume != include.post.title %}<p class="resume">{{ resume | truncate: 130 }}</p>{% endif %}
+    <p class="meta">{{ include.post.date | date: "%d/%m/%Y" }}</p>
+  </div>
+</a>

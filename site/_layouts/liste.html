@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% if page.rubrique %}{% assign liste = site.posts | where: "categorie", page.rubrique %}{% else %}{% assign liste = site.posts %}{% endif %}
+<section class="bloc">
+  <div class="bloc-titre"><h1>{% if page.rubrique %}{% capture coul %}{% include couleur.html cat=page.rubrique %}{% endcapture %}<i class="puce" style="background:{{ coul | strip }}"></i>{% endif %}{{ page.title }}</h1></div>
+  <p class="sous">{{ liste.size }} article{% if liste.size > 1 %}s{% endif %}</p>
+  <div class="grille">
+  {% for post in liste %}{% include carte.html post=post %}{% endfor %}
+  {% if liste.size == 0 %}<p class="vide">Aucun article dans cette rubrique pour l'instant.</p>{% endif %}
+  </div>
+</section>
