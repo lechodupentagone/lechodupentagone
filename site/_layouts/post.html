@@ -13,7 +13,7 @@ layout: default
   <div class="art-grille">
     <div class="art-corps">
       {{ content }}
-      {% if page.lien_source != "" %}<p class="art-source">Source principale : <a href="{{ page.lien_source }}" rel="noopener">{{ page.source | default: "lien" }} ↗</a></p>{% endif %}
+      {% unless content contains "Sources" %}{% if page.lien_source and page.lien_source != "" %}<p class="art-source">Source principale : <a href="{{ page.lien_source }}" rel="noopener">{{ page.source | default: "lien" }} ↗</a></p>{% endif %}{% endunless %}
       <p class="partage">Partager :
         <a href="https://www.facebook.com/sharer/sharer.php?u={{ url_abs | url_encode }}" rel="noopener">Facebook</a>
         <a href="https://wa.me/?text={{ texte_wa | url_encode }}" rel="noopener">WhatsApp</a>
