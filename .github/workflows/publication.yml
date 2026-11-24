@@ -39,7 +39,6 @@ jobs:
     needs: preparer
     if: needs.preparer.outputs.nouveau == 'oui' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
-    environment: { name: github-pages }
     steps:
       - uses: actions/checkout@v4
         with: { ref: main }
@@ -47,10 +46,19 @@ jobs:
       - uses: actions/jekyll-build-pages@v1
         with: { source: ./site, destination: ./_site }
       - uses: actions/upload-pages-artifact@v3
-      - uses: actions/deploy-pages@v4
+
+  deploiement:
+    needs: site
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - id: deploiement
+        uses: actions/deploy-pages@v4
 
   reseaux:
-    needs: [preparer, site]
+    needs: [preparer, deploiement]
     if: always() && needs.preparer.result == 'success'
     runs-on: ubuntu-latest
     steps:
