@@ -132,7 +132,7 @@ def main(chemin_brouillon):
     dossier_jour = brouillon.parent
     sujets = json.loads(brouillon.read_text(encoding="utf-8"))
     marque = config()["marque"]
-    jour = datetime.strptime(dossier_jour.name, "%Y-%m-%d")
+    jour = datetime.strptime(dossier_jour.name[:10], "%Y-%m-%d")
     date = f"{jour:%d/%m/%Y}"
     a_importer = json.loads(IMPORT.read_text()) if IMPORT.exists() else []
     reels = json.loads(REELS.read_text()) if REELS.exists() else {}
