@@ -49,9 +49,18 @@ def marque_logo(d, x, y, taille, couleur):
         d.line(pts + [pts[0]], fill=couleur, width=w, joint="curve")
 
 
+def insecable(texte):
+    """Pas de coupure dans « 18 429 », « 2-0 », ni avant « : » ou après « « »."""
+    import re
+    texte = re.sub(r"(\d) (\d{3})", "\\1\u00a0\\2", texte)
+    return re.sub(r" ([:;!?»€%])", "\u00a0\\1", texte).replace("« ", "«\u00a0")
+
+
 def couper(d, texte, fnt, largeur):
     lignes, ligne = [], ""
-    for mot in texte.split():
+    for mot in insecable(texte).split(" "):
+        if not mot:
+            continue
         essai = f"{ligne} {mot}".strip()
         if d.textlength(essai, font=fnt) <= largeur:
             ligne = essai
