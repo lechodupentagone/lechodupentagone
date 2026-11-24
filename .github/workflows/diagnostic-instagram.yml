@@ -1,0 +1,25 @@
+name: Diagnostic Instagram
+on: workflow_dispatch
+jobs:
+  verifier:
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: |
+          python3 - <<'PY'
+          import os, json, urllib.request, urllib.parse
+          t = os.environ.get("IG_TOKEN", ""); u = os.environ.get("IG_USER_ID", "")
+          print("Jeton : longueur", len(t), "| début", repr(t[:4]),
+                "| espaces/retours", any(c.isspace() for c in t), "| guillemets", any(c in t for c in "\"'"))
+          print("IG_USER_ID : longueur", len(u), "| que des chiffres", u.strip().isdigit())
+          t = t.strip().strip('"\'')
+          url = "https://graph.instagram.com/v25.0/me?" + urllib.parse.urlencode(
+              {"fields": "user_id,username", "access_token": t})
+          try:
+              r = json.load(urllib.request.urlopen(url))
+              print("Compte vu par Instagram :", r.get("username"), "| user_id identique :", r.get("user_id") == u.strip())
+          except urllib.error.HTTPError as e:
+              print("Erreur Instagram :", e.read().decode()[:300])
+          PY
