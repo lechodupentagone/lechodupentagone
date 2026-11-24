@@ -21,7 +21,9 @@ from common import COLONNES, RACINE, config, feuille, slugifier
 from visual import couverture, generer, logo
 
 FICHIER_FILE = RACINE / "data" / "a_publier.json"
-API = "https://graph.facebook.com/" + os.environ.get("META_API_VERSION", "v23.0")
+VERSION = os.environ.get("META_API_VERSION", "v25.0")
+API = f"https://graph.facebook.com/{VERSION}"          # Facebook (jeton de page)
+API_IG = f"https://graph.instagram.com/{VERSION}"     # Instagram seul (connexion Instagram)
 OUI = {"TRUE", "VRAI", "OUI", "X", "1"}
 
 
@@ -109,18 +111,24 @@ def publier_facebook(texte, url_image):
 
 
 def publier_instagram(texte, url_image):
-    ig, jeton = os.environ["IG_USER_ID"], os.environ["META_PAGE_TOKEN"]
-    r = requests.post(f"{API}/{ig}/media", data={
+    """Deux modes : IG_TOKEN (connexion Instagram, sans page Facebook)
+    ou META_PAGE_TOKEN (Instagram relié à la page Facebook)."""
+    ig = os.environ["IG_USER_ID"]
+    if os.environ.get("IG_TOKEN"):
+        base, jeton = API_IG, os.environ["IG_TOKEN"]
+    else:
+        base, jeton = API, os.environ["META_PAGE_TOKEN"]
+    r = requests.post(f"{base}/{ig}/media", data={
         "image_url": url_image, "caption": texte, "access_token": jeton}, timeout=60)
     r.raise_for_status()
     creation = r.json()["id"]
     for _ in range(30):                       # attendre que Meta ait traité l'image
-        etat = requests.get(f"{API}/{creation}", params={
+        etat = requests.get(f"{base}/{creation}", params={
             "fields": "status_code", "access_token": jeton}, timeout=30).json()
         if etat.get("status_code") == "FINISHED":
             break
         time.sleep(5)
-    r = requests.post(f"{API}/{ig}/media_publish", data={
+    r = requests.post(f"{base}/{ig}/media_publish", data={
         "creation_id": creation, "access_token": jeton}, timeout=60)
     r.raise_for_status()
     return r.json()["id"]
@@ -144,7 +152,7 @@ def reseaux():
         try:
             if os.environ.get("META_PAGE_ID"):
                 res["facebook"] = publier_facebook(legende, item["url_image"])
-            if os.environ.get("IG_USER_ID"):
+            if os.environ.get("IG_USER_ID") and (os.environ.get("IG_TOKEN") or os.environ.get("META_PAGE_TOKEN")):
                 # les liens ne sont pas cliquables sur Instagram : on renvoie vers le site
                 res["instagram"] = publier_instagram(
                     f"{item['texte']}\n\nSource : {item['source']}\nArticle complet : lien en bio",
@@ -168,6 +176,17 @@ if __name__ == "__main__":
         chemin = generer(titre, cat, src, datetime.now().strftime("%d/%m/%Y"),
                          RACINE / "essai.jpg", config()["marque"])
         print("Visuel généré :", chemin)
+    elif action == "jeton":
+        # Prolonge le jeton Instagram (60 jours) ; à lancer au moins une fois par mois
+        r = requests.get("https://graph.instagram.com/refresh_access_token", params={
+            "grant_type": "ig_refresh_token", "access_token": os.environ["IG_TOKEN"]}, timeout=30)
+        r.raise_for_status()
+        d = r.json()
+        jours = int(d.get("expires_in", 0)) // 86400
+        print(f"Jeton Instagram prolongé : valable {jours} jours.")
+        if d.get("access_token") and d["access_token"] != os.environ["IG_TOKEN"]:
+            print("ATTENTION : Meta a renvoyé un nouveau jeton. Remplacez le secret IG_TOKEN.")
+            sys.exit(1)
     elif action == "identite":
         m = config()["marque"]
         print(logo(RACINE / "site" / "assets" / "identite" / "logo.png", m))

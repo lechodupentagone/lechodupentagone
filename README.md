@@ -60,6 +60,17 @@ Après la première collecte, l'onglet « File de validation » apparaît. Séle
 
 Sans ces trois secrets, la chaîne fonctionne quand même : le site est publié, les réseaux sont simplement sautés.
 
+## 4 bis. Variante : Instagram seul, sans page Facebook
+
+L'« API Instagram avec connexion Instagram » permet de publier sans passer par la page Facebook :
+
+1. developers.facebook.com › Mes apps › Créer une app › cas d'utilisation « Gérer les messages et le contenu sur Instagram » › type Entreprise.
+2. Rôles de l'app › ajoutez @lechodupentagone comme **testeur Instagram**, puis acceptez l'invitation dans Instagram (Paramètres › Apps et sites web).
+3. Cas d'utilisation › Personnaliser › « Configuration de l'API avec la connexion Instagram » › **Générer des jetons d'accès** › connectez @lechodupentagone.
+4. Secrets GitHub : `IG_TOKEN` (le jeton affiché) et `IG_USER_ID` (l'identifiant du compte affiché à côté).
+
+Ce jeton dure 60 jours ; l'automatisation « Jeton Instagram » le prolonge le 1er et le 15 de chaque mois.
+
 ## 5. Premier essai
 
 1. Onglet **Actions** du dépôt › **Collecte** › *Run workflow*. Au bout d'une minute, la Google Sheet se remplit. Le journal indique les sources en erreur : désactivez-les dans `config.yaml` (mettre `#` devant les lignes).
