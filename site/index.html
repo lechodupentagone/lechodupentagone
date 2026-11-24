@@ -34,8 +34,8 @@ layout: default
 <section class="bloc">
   <div class="bloc-titre"><h2>Les dernières actualités</h2><a href="{{ '/actualites/' | relative_url }}">Tout voir →</a></div>
   <div class="grille">
-  {% for post in site.posts limit:12 offset:3 %}{% include carte.html post=post %}{% endfor %}
-  {% if site.posts.size <= 3 %}<p class="vide">Les prochains articles arrivent ici.</p>{% endif %}
+  {% if site.posts.size > 6 %}{% assign decal = 3 %}{% else %}{% assign decal = 0 %}{% endif %}
+  {% for post in site.posts limit:12 offset:decal %}{% include carte.html post=post %}{% endfor %}
   </div>
 </section>
 

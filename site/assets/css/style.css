@@ -145,7 +145,7 @@ main{flex:1;padding:24px clamp(16px,3vw,40px) 40px;max-width:1400px;width:100%}
   .continu{flex-basis:100%;border-top:1px solid var(--ligne);height:40px}
   .pastille{margin:0 10px}
   .une-diapo{grid-template-columns:1fr;gap:20px}
-  .une-visuel img{max-width:260px;margin:0}
+  .une-visuel{display:none}
   .art-grille{grid-template-columns:1fr}
   .art-media{position:static;max-width:360px;order:-1}
 }
