@@ -1,5 +1,8 @@
 name: Publication
 on:
+  push:                             # modification d'un article (Pages CMS, GitHub) → remise en ligne
+    branches: [main]
+    paths: ["site/**"]
   schedule:
     - cron: "0,30 6-21 * * *"      # toutes les 30 min de 7 h à 22 h (heure de Paris, hiver)
   workflow_dispatch:
@@ -37,7 +40,7 @@ jobs:
 
   site:
     needs: preparer
-    if: needs.preparer.outputs.nouveau == 'oui' || github.event_name == 'workflow_dispatch'
+    if: needs.preparer.outputs.nouveau == 'oui' || github.event_name != 'schedule'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

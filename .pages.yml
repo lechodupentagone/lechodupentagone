@@ -1,0 +1,25 @@
+# Pages CMS (https://app.pagescms.org) : édition des articles du site depuis le navigateur
+media:
+  input: site/assets/visuels
+  output: /assets/visuels
+content:
+  - name: articles
+    label: Articles
+    type: collection
+    path: site/_posts
+    filename: { template: "{year}-{month}-{day}-{primary}.md", field: create }
+    view: { primary: title, sort: date, order: desc }
+    fields:
+      - { name: layout, label: Mise en page, type: string, default: post }
+      - { name: title, label: Titre, type: string, required: true }
+      - { name: date, label: Date, type: date }
+      - name: categorie
+        label: Rubrique
+        type: select
+        options:
+          values: [Municipal, Agglo, Vendée, Société, Économie, Sport, Culture, Faits divers]
+      - { name: source, label: Source (nom), type: string }
+      - { name: lien_source, label: Lien de la source, type: string }
+      - { name: image, label: Visuel, type: image }
+      - { name: video, label: Vidéo (chemin, facultatif), type: string }
+      - { name: body, label: Texte de l'article, type: rich-text }
