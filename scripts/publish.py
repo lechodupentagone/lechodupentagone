@@ -160,6 +160,9 @@ def reseaux():
             res.update({"statut": "publié", "publié le": datetime.now().strftime("%Y-%m-%d %H:%M")})
         except requests.HTTPError as exc:
             res["statut"] = f"erreur réseaux : {exc.response.text[:200]}"
+            item["essais"] = item.get("essais", 0) + 1
+            if item["essais"] < 3:            # nouvel essai aux prochains passages
+                restants.append(item)
         maj(onglet, item["ligne"], res)
         print("Publié :", item["texte"][:60], res)
     FICHIER_FILE.write_text(json.dumps(restants, ensure_ascii=False, indent=1))
