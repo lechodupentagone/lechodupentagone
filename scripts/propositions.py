@@ -49,6 +49,7 @@ def reel(phrases, categorie, date, dossier, marque):
     cmd += ["-filter_complex", ";".join(filtres), "-map", "[out]", "-c:v", "libx264",
             "-preset", "veryfast", "-crf", "21", "-movflags", "+faststart", str(sortie)]
     subprocess.run(cmd, check=True)
+    (dossier / "reel-poster.jpg").write_bytes(images[0].read_bytes())   # affiche de la vidéo sur le site
     for img in images:
         img.unlink()
     return sortie

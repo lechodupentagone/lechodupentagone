@@ -21,7 +21,7 @@ layout: default
       </p>
     </div>
     <aside class="art-media">
-      {% if page.video %}<video src="{{ page.video | relative_url }}" poster="{{ page.image | relative_url }}" preload="none" controls playsinline muted></video>
+      {% if page.video %}<video src="{{ page.video | relative_url }}" poster="{{ page.video | replace: ".mp4", ".jpg" | relative_url }}" preload="none" controls playsinline muted></video>
       {% elsif page.image %}<img src="{{ page.image | relative_url }}" alt="">{% endif %}
     </aside>
   </div>

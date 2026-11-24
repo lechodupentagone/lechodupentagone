@@ -101,7 +101,7 @@ def generer(titre, categorie, source, date, chemin, marque):
         f_titre = police("InterDisplay-Black.otf", taille)
         lignes = couper(d, titre, f_titre, L - 2 * M)
         pas = int(taille * 1.08)
-        if len(lignes) * pas <= bas - haut:
+        if len(lignes) * pas <= bas - haut and max(d.textlength(x, font=f_titre) for x in lignes) <= L - 2 * M:
             break
     y = haut
     for ligne in lignes:
@@ -174,7 +174,7 @@ def _bloc(d, texte, nom_police, tailles, largeur, hauteur, interligne=1.12):
         for para in texte.split("\n"):
             lignes += couper(d, para, fnt, largeur) or [""]
         pas = int(taille * interligne)
-        if len(lignes) * pas <= hauteur:
+        if len(lignes) * pas <= hauteur and max(d.textlength(x, font=fnt) for x in lignes) <= largeur:
             break
     return fnt, lignes, pas
 

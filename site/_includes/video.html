@@ -1,4 +1,4 @@
 <figure class="video">
-  <video src="{{ include.post.video | relative_url }}" poster="{{ include.post.image | relative_url }}" preload="none" controls playsinline muted></video>
+  <video src="{{ include.post.video | relative_url }}" poster="{{ include.post.video | replace: ".mp4", ".jpg" | relative_url }}" preload="none" controls playsinline muted></video>
   <figcaption><a href="{{ include.post.url | relative_url }}">{{ include.post.title | truncate: 70 }}</a></figcaption>
 </figure>

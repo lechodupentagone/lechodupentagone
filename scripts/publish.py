@@ -78,7 +78,7 @@ def preparer():
             if slug:
                 for f in list((RACINE / "site" / "_posts").glob(f"*-{slug}.md")) + \
                          list((RACINE / "site" / "assets" / "visuels").glob(f"*-{slug}.jpg")) + \
-                         list((RACINE / "site" / "assets" / "videos").glob(f"*-{slug}.mp4")):
+                         list((RACINE / "site" / "assets" / "videos").glob(f"*-{slug}.*")):
                     f.unlink()
             file_attente = [x for x in file_attente if x.get("ligne") != i]
             maj(onglet, i, {"statut": "retiré", "url site": ""})
@@ -101,6 +101,9 @@ def preparer():
             video_rel = f"assets/videos/{date:%Y-%m-%d}-{slug}.mp4"
             (RACINE / "site" / "assets" / "videos").mkdir(parents=True, exist_ok=True)
             shutil.copyfile(RACINE / reels[e["id"]], RACINE / "site" / video_rel)
+            affiche = (RACINE / reels[e["id"]]).with_name("reel-poster.jpg")
+            if affiche.exists():
+                shutil.copyfile(affiche, RACINE / "site" / video_rel.replace(".mp4", ".jpg"))
         ecrire_article(e, slug, date, image_rel, cfg, video_rel)
         url_article = f"{marque['site_url']}/{date:%Y/%m}/{slug}/"
         maj(onglet, i, {"statut": "en ligne (site)", "url site": url_article})
