@@ -1,5 +1,65 @@
 [
  {
+  "id": "a4db04841d49",
+  "date": "2026-11-24 19:27",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "O Marais By Isnor",
+  "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFpMemtScm95SGRRY1NBY01vU2cyXzZUcktIMzJxN0VRXzlwUld1bURQZjNhVXg3RjM1OUFwQ0x3NXBiczFzSFktd3p0NE84QTBfWHZTQzItNmtxbE1sdFdwYzd1RW1hM253aHNhcGJYQUN1VTI3VkxDbEZoNkRGOWZKcDNFdnVaQXlDUTVuQ2diaWVDeDZYSzBqQ2x5aDkwV2ZDT0hVNU5ORS0tOWo4?oc=5",
+  "pdf": "",
+  "résumé": "O Marais By Isnor &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "733d86a90d84",
+  "date": "2026-11-24 19:12",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "Des photos compromettantes de lui, nu : un homme porte plainte pour chantage, une « mule » relaxée",
+  "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZGc3YUxyeFozV3I1clUxN2tXdzg5Sm5sdWl4RXNPR3duT0lVYTA1SWxNRjZmVEQzTXZ1ckFPQXVJTUpNNDJpbFFkOEl4eVlORy1ieXdtN1lxS3JSSTNRWHdOQnNNdmJpSl9XeUVvWGdOY2FZNDRqLWxfdWU4TTV4cEtXLXRCcTMweHlxVS1DV1pDbTRZbGlOalY5dFBpaUhpbFpnZkdQNWphMVoxVjlya3p5RjJUWFpINUJPSzNOcDBqOE5XV0I5ZnVWNVlTeks4d0VNVHZhNE5HT1VvUnlmUThMNA?oc=5",
+  "pdf": "",
+  "résumé": "Des photos compromettantes de lui, nu : un homme porte plainte pour chantage, une « mule » relaxée &nbsp;&nbsp; Actu.fr"
+ },
+ {
+  "id": "ca69f87e4af7",
+  "date": "2026-11-24 18:52",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Au fil des pages (club lecture) Missé",
+  "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkI3OFNTQm1lR0VkWU1WVEhZN1pVdmhpNnMzaGJZX1NGbHJHazFtODFLTmY3Z3VIN3VpVl9Sc1pmT1JZMVFZV3c1VE9sTmZlaWZVdjBidTZnMkFjSmlIQ1pYUVpVQVllOHFsQ3N3UFNWcU5jTmNBNmFDQWg3UGdoMktWaWdmQlIzM00zTjR2RGJ4QUU4WnZLLWxnVHRCcjZjekVFaGRyQXpIU0dlU2N0eXpfSi05LUlfWk1EYldwNA?oc=5",
+  "pdf": "",
+  "résumé": "Au fil des pages (club lecture) Missé &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "33e09765e76d",
+  "date": "2026-11-24 18:44",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Quelaines-Saint-Gault inaugure le nouvel axe majeur de la commune",
+  "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQXBUU3lZY3B2dGo5Q3lpd3A3YXkxeTYtV204Qy1SSjR4ZFZhRDFOQWpGTmR5NHU1WFJjRE1JMnlUdy1fbElDTEg2aElEYy1zOHZTMlhFZWR2VWdEYUlyYkxQdDNOQkViQ1hpVnd3cnFXWDFKbmxac2tvdmF4bmdnZ3hWUlp0MnhJQmQ3TGVHaTFDRmNXeW1zaVgyZ1lQVVNQazBFM2t6Q3JRbVp5bjhHcWZqS0xpaFZCa2FhdUFoMmRHcVZCUTZldUoxWHdoejhVeWlaOXhkQWxnd1FyTHhQVGhGMzFLeWdKYWtydHgzTVgwY051QVFneTFWbkx3T0E4bFNOUlRn?oc=5",
+  "pdf": "",
+  "résumé": "Quelaines-Saint-Gault inaugure le nouvel axe majeur de la commune &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "371c2f8772c4",
+  "date": "2026-11-24 18:26",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Cyclisme. « C’était Total ou rien » : Alan Jousseaume, d’une fin de carrière envisagée à une prolongation chez XEFI",
+  "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRFcxNHBZcTJpU0VQMjFRUUtQN0RaLVd5TjZqX0d1THlqNEtXb2IyZzYtb1R1M01kaTJOS0lJSGRZV3QyVy1raGZMUzdCdDlvaC1lRG9GUEJqZHlGTDRMeVhEN0NXYmhsMktVRVdGc2dwbzhWR2EwY0JEMHZOSXpRYk94TzZ4dC1ycW95S3VFeE1XR3k5QkxjMF9EY1JSXzUwWG9ZRmh4M1p3bE5KSnNfTkhaOERFM3ZtQXhmZlRoOXpMUDlGbWFUV25jcnhqajJGRDRDb3NPMjFnUUNiR0xzSWYyNm1QaUFRNnFIY3hhRTNhb0VSVVdsVDdJcFVtX3Y1aHJV?oc=5",
+  "pdf": "",
+  "résumé": "Cyclisme. « C’était Total ou rien » : Alan Jousseaume, d’une fin de carrière envisagée à une prolongation chez XEFI &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "d19633e7412c",
+  "date": "2026-11-24 18:20",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Talons, maquillage, perruque et véritable show caricatural : deux drag-queens se lancent aux Sables-d’Olonne",
+  "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOT2pvZ2ZDVjFpajJwWUlWeC1kUkcwaGI5dlZYLWdzTXYyNkZBTUtvUWIyRTcybVZWb1FEM2Zsc0g0VTVKNndnSWxWeVFmeUVnLTVMZ2VRVkJQSmRMbHdqa0RzZHFibFVRSXUyNlpTUGNIZGFMbzNfRzZySlVweUVLTl90ank2SzZOTk1FaE82cDZnNml1cFViSnZKd1cxRm85UFBucXo1YTAxbmNkblAyc3Z3LXRjb1o3SXk0M2EzTkxFcjdSNlpWX2t2VFJQX1JodUN3ZlVMU0RvYndHQWZBcy1mSGN0N1BfNWhxdUlUbWFiLWEwdVE3Z3VCcllWdVZLUkdURGpxQ3dXRnRZS3c?oc=5",
+  "pdf": "",
+  "résumé": "Talons, maquillage, perruque et véritable show caricatural : deux drag-queens se lancent aux Sables-d’Olonne &nbsp;&nbsp; Ouest-France"
+ },
+ {
   "id": "993eb63d9165",
   "date": "2026-11-24 17:52",
   "source": "Google News — La Roche-sur-Yon",
@@ -40,6 +100,16 @@
   "résumé": "Un moratoire sur la pêche de loisir de l’anguille crée la polémique : cette association de Vendée dénonce un scandale &nbsp;&nbsp; Actu.fr"
  },
  {
+  "id": "65a1c89db5d9",
+  "date": "2026-11-24 17:45",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "L'arbre, cet hôte fabuleux !",
+  "lien": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaVh4SmNZd3E5S01NY3d2bmxqaTR3VGEwVksyX2FHc0NrSXV5UkI3TS0yU1A0S3lHV0VxaU1sZFNRTW4zcTFyQXhOSlNuajYwN2ViWTBjX0FGamxVU1BHR1hlN2tpSDJlY2N1aDBKSHFFZEQ2eERBX0xXQUdTVE1ZVFdkMXA4dW1VTEQzVU5fVHlrR0Vobl9RQURmN2xGNXZ6WWw1NzZ6Sm11VU9xeHN2QTgzNmlGUnNueUtWQ0ZyMkg1WVNORlB1SkUyczJpYlFnYVE?oc=5",
+  "pdf": "",
+  "résumé": "L'arbre, cet hôte fabuleux ! &nbsp;&nbsp; Infolocale"
+ },
+ {
   "id": "c42872e5cf31",
   "date": "2026-11-24 17:43",
   "source": "Ouest-France — La Roche-sur-Yon",
@@ -50,6 +120,16 @@
   "résumé": "Marche de l'amicale laïque &nbsp;&nbsp; Infolocale"
  },
  {
+  "id": "641b3210322e",
+  "date": "2026-11-24 17:41",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "INFO OUEST-FRANCE. Victime d’une tentative de meurtre en Vendée, le sexagénaire finalement mis en examen pour viol",
+  "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdjFpcHJXcnhocHdkYUphVFpqUWk3WlU4REsyZHpzTDJWOFBnTF9ZWjIxOFdWTkdDdDR1VTR3bEdEY1QxMEV0OHZzN0EzRTZ2ODY0SzI0emtTQ1pjUGE5NXhwZU9UNzg1ekZTZlJ4akZxdkVzbmxMUmVrY3dZQlZtcFJFTjhpSE5lZ2xkdEVaNUl6NlZhdzI5TllDa0RqaVBuUXI0Y1pVU0pBTGYtYjNCSEZzRExpN2FKRkU1bXJPRkp0Tkt1TW9mUFJORG5DT0MySEVfaHpVQ3VuaFhPWlQzUnoyc0FQMkxiME9wd0gyQVJvN29xZklEdDViLVdFYlVMdlRaTg?oc=5",
+  "pdf": "",
+  "résumé": "INFO OUEST-FRANCE. Victime d’une tentative de meurtre en Vendée, le sexagénaire finalement mis en examen pour viol &nbsp;&nbsp; maville.com"
+ },
+ {
   "id": "f41915b9104e",
   "date": "2026-11-24 17:32",
   "source": "Google News — La Roche-sur-Yon",
@@ -58,6 +138,16 @@
   "lien": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON05kR0FJYlMzRERDSXhHekRaaHRidkFEQldZa0NOXzVwV1hVNHhVWDJnR1JXSW9JZjdtc1BLQV9HYzNWQlB0TU1KQ3VqTWR6WHVTM2R4VGEzbWFJMGRGUW5aQ202Vm9USVFHVGxQMUxteFdnN0xvS2Z5ZmJ5QzA4SHZWZlFlSDhJaDAxNHJaQ3JzdzQ?oc=5",
   "pdf": "",
   "résumé": "Noël au Haras de la Vendée : animations gratuites et spectacle équestre à La Roche-sur-Yon &nbsp;&nbsp; infos-media-nantes.fr"
+ },
+ {
+  "id": "aa75332af35c",
+  "date": "2026-11-24 17:30",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "La France face à ses prisons et si on é-changeait nos regards",
+  "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQX3dNcHY0U28tcVhHQlE0c1p5cWZEaFE5WVlORXBWSlVUMEhJZmdvN2FtM3FIcGsyblYxOEpRaHRnV3N5RS1DdnZua2RGeDVsXzNqTG9USWw2QnFfak5lblRMVG1hTW95X09kc0hEZnpNWV9oVDVNTzR0anh3TEZyNFJzTGpjZVNMVGVxOXA1YlRVMHpWSkREcENUakVUaGdJeXhzMmdEYndJSjBCb3M2LVBETnZRQlVmTXB3dEdnYUpmVng4SldfWlJTcXlIc0VCR2VuRFpFc2Q2emlHS0llTU80VkRtc1BCbzE1cVVtQzBHbkk5N0dXdURoQ3RERGJKazY3MVBsdlQtdWlUODRJeA?oc=5",
+  "pdf": "",
+  "résumé": "La France face à ses prisons et si on é-changeait nos regards &nbsp;&nbsp; Infolocale"
  },
  {
   "id": "b4cd2536e087",
@@ -230,6 +320,16 @@
   "résumé": "Les élus d'Aizenay ont validé les plans définitifs du futur groupe scolaire Louis-Buton. Un chantier à 12,5 M€ qui verra le jour à compter de l'été 2027."
  },
  {
+  "id": "5e1fb3b4c1c5",
+  "date": "2026-11-24 15:29",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Intelligence artificielle : c’est quoi un robot conversationnel ?",
+  "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ0tmSlQ5aDhmeUd0OXJvYUUyZTY3Unp5SnN6M19fOGl1UVJWNkhMWGVzMkZVUFR2VG9jOXRNNWlEbEUxaldLNDBFMEhiTUw1dWFkSUhSRHM4OW1pQjctVEZ3TS1KRXFPcE5uaG1JWU5ySlJ6Q1l4N2xNMlItekp2WlltVDRCZXp2azNNa2J6TV9DLTN2Q0NxbDFWYTZzRDYyanBTYThmaXdfc0g0ZXhVeXFvU3ZFdVhVcGkyVjJxc1hHT1ZJSlREdnlNQVI?oc=5",
+  "pdf": "",
+  "résumé": "Intelligence artificielle : c’est quoi un robot conversationnel ? &nbsp;&nbsp; maville.com"
+ },
+ {
   "id": "cbd4f301f503",
   "date": "2026-11-24 15:21",
   "source": "Ouest-France — La Roche-sur-Yon",
@@ -350,6 +450,16 @@
   "résumé": "Vente de sapins de Noël type Nordmann &nbsp;&nbsp; Infolocale"
  },
  {
+  "id": "fc091afd8d22",
+  "date": "2026-11-24 14:40",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "EN IMAGES. Près de 90 assistantes maternelles réunies dans le Cotentin pendant deux jours",
+  "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdU42ZzJvT1dqbzZST09TbEJtcjB3eC1oWWRGSmZfMzNTbmg0MTV1VHkyODFRRk10ZUlBS0JobndSRFNSRV9PbzNjU1NDZ08tMERZWUNkZWlDTmdYTjNPSkVwOF9qYkc4T210NWtZTWZza05KWFB4YXVCVGx3RXZUUURlNjBtWDcyV09HNVJZVDlrUGlMS01KNTVfSXBsQm9hdGktaG91TnB6aFZYOHJhNGxibng3aFRGNmx6ZXRmTnFjSXZDcTA0Z2UwWGdFUWllZk12NzlCWWpwSnZq?oc=5",
+  "pdf": "",
+  "résumé": "EN IMAGES. Près de 90 assistantes maternelles réunies dans le Cotentin pendant deux jours &nbsp;&nbsp; Actu.fr"
+ },
+ {
   "id": "98781b6ba64a",
   "date": "2026-11-24 14:21",
   "source": "Google News — La Roche-sur-Yon",
@@ -448,6 +558,16 @@
   "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd3RQQ0Y0cjRCU25kUHREc0xpdjUwM3JzeURGQXNjNlAzVjh5RzJJRC10TzctS1J3VkliSzRpS3h1MWY2OEo2bU9uWnZ4czExcXQydm9RM1pFSGVZcDRteno2WkFyWGM3dkVsT1prbVdHNTdSVHZwaXlld3E4Rlp3MzFiX29hRmdLVnFBVzYyYmRYX1RNZ0M4RW1iQUFIakRBUUNiWWpqdGowOW54cmljSWxRRG5McmpBb0JKbWVIdV9zTzh2QUNXWDhSc0NTcGIwWmlr?oc=5",
   "pdf": "",
   "résumé": "Vendée : 24 communes reconnues en catastrophe naturelle pour la sécheresse 2026 &nbsp;&nbsp; Ma Ville Solidaire"
+ },
+ {
+  "id": "394f4b7913e4",
+  "date": "2026-11-24 12:31",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "Votre région va-t-elle perdre des habitants ? Voici combien elle en comptera ces prochaines années, selon l'Insee",
+  "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUFpFUDU3QmdNTTNmaFdqbzVGYm1qNkRQdWdVWUxTYkVfYzd6c2pBY0hpb2VGVU11eTdBbFNCUmpQSUhFLXZHcld4bmJ2M1U1WHF1WGlleGd2NHBMeE9XWFVXckQtNmJXbnIzcTFfbzhfbHU1b2VHbnNCVzhtZmRlNXphZm5CY0tQZzF4Q1pNanNlRUk0MFp1b01leVVXT0RVZ010YnJDREwxQ3M0OHJ4WmppeDRGU2V2c29WY3FVcURqRzdlY2N1a01UUjlrRU5YX190SGNRd2RySV84VDNMRGlR?oc=5",
+  "pdf": "",
+  "résumé": "Votre région va-t-elle perdre des habitants ? Voici combien elle en comptera ces prochaines années, selon l'Insee &nbsp;&nbsp; Actu.fr"
  },
  {
   "id": "a5adad84fc4e",
@@ -980,6 +1100,16 @@
   "résumé": "Stand up par le Tonnerre Comedy Club &nbsp;&nbsp; Infolocale"
  },
  {
+  "id": "20bdd0ce5736",
+  "date": "2026-11-24 08:39",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "Pourquoi ce SUV de BYD est désormais interdit en France (et dans toute l'UE) ?",
+  "lien": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZWF3dGJMTXBCd1YyMGJFOTVvZjJoNE82S3ZueUhCZjNtVVIxWG8wZWMySDNSOVRMOUV6aU5US05IaWxaLUpvcl82YTRqLUNCWVM1bDZrbWRidTg4SEpoc05nMnF3UF84ci1YV2FNMlVpbnEwVDUwdnA4VFUtZjBlQXZKWkdBZXkwSzVwbS1acldyVVdFVy0xMkVKZ19UeFR6SHB6NE42TzhMU2IzX1l0M3R3?oc=5",
+  "pdf": "",
+  "résumé": "Pourquoi ce SUV de BYD est désormais interdit en France (et dans toute l'UE) ? &nbsp;&nbsp; Actu.fr"
+ },
+ {
   "id": "9cc7909fd8ef",
   "date": "2026-11-24 08:05",
   "source": "Actes administratifs LRSY",
@@ -1098,6 +1228,16 @@
   "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUS13NXB1UkF2bFFXa1EzSW1wQ1k4NlNfVXRIWGVrOFptakhKQVVITW9OS2c1VnNFSEJ5T3ZlUVdacVhFSDJ6S3ZMSGp2WmgzVHQ2STJ0YTZHdE1QRmNXdWs1SWdCRnprb0MtWjVCd2tMLUNLTU5KUy1CMXBLTzRXTS1tOVJoZDRwdjd3a3h5MXFQem1SZFhVUk92TjgzRmJOS0RMNlQ3WkdxdHItdU5jc1hkekU5ZjJJb2s3TGx2VGhYdlBYcHhPbXhHS0pOZ2o0OTE5WHp2ajlFNTZwXzlv?oc=5",
   "pdf": "",
   "résumé": "FIFA. \"De la corruption en direct\" : Christophe Dugarry s'indigne du soutien de la CAF à Gianni Infantino &nbsp;&nbsp; Actu.fr"
+ },
+ {
+  "id": "c5497f773390",
+  "date": "2026-11-24 07:17",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "Pour un litige de 10 euros, ils allument un feu dans un immeuble d’Avranches",
+  "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVJLbUJiTDQtcXg3WFRLZ2hwVTNUZ3Fsb1NkZ2s4UWM5cFZRazF6aWFLSHVtb19RaVRaWnZBVkhIaDV0YnU5Z2pzODhyeTN3YVNMYmp3aHJTQjdOVF9xc3p5MnVNRjlnV01yUmFIZktFZVhmWVZsNWpFYkhKdFYzTk9GTmFoeS1PWVlVT0VaaUZOZHZYVU1vVW9pZkR6eXRlMU5yWXQ2ejNIeEdwWkdGdXMzQ0VxZTBU?oc=5",
+  "pdf": "",
+  "résumé": "Pour un litige de 10 euros, ils allument un feu dans un immeuble d’Avranches &nbsp;&nbsp; Actu.fr"
  },
  {
   "id": "b11a33a0e03d",
@@ -1250,6 +1390,16 @@
   "résumé": "La Garnache. 27 familles ont planté un arbre &nbsp;&nbsp; maville.com"
  },
  {
+  "id": "d844e5e37cc6",
+  "date": "2026-11-24 06:22",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "Michel Dumas, cuisinier star des réseaux sociaux, est mort : il était connu pour son expression \"super nickel\"",
+  "lien": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZTVvVTRPZHhvQ1pCZVBYWTZVbHpqUWliTTFFekNESmtncDA2TnROV3BaUjg4ZFFnZHJaZm8yVk9LTk81akVYUG5iZ0FabWhNRUswSzUwaFhER1FYWkJNMWZmQ2R6bDBKNUZ2UTNIX3BCb0Z0RHRyeDA5Rmxhdmh6ekJWMllMUEt5UmRFQkhJdWp0TlhqLUF6QWFtb09VU3dDa2V5bDUyOS1kMi1qOE44bkJzaTNsY2Y1enJkaEVoU2JCVFpCa0JXMjEzeUpLdU04NUZVdlZEWWJGQQ?oc=5",
+  "pdf": "",
+  "résumé": "Michel Dumas, cuisinier star des réseaux sociaux, est mort : il était connu pour son expression \"super nickel\" &nbsp;&nbsp; Actu.fr"
+ },
+ {
   "id": "b04d735eb6e3",
   "date": "2026-11-24 06:18",
   "source": "actu.fr — Vendée",
@@ -1338,6 +1488,16 @@
   "lien": "https://actu.fr/pays-de-la-loire/moutiers-les-mauxfaits_85156/une-nouvelle-boutique-de-pret-a-porter-feminin-a-moutiers-les-mauxfaits_65089793.html",
   "pdf": "",
   "résumé": "Georgette Moderne est un nouveau magasin de prêt-à-porter féminin qui a ouvert à Moutiers-les-Mauxfaits. pour les femmes, mais aussi les jeunes filles."
+ },
+ {
+  "id": "41cd381cd9a3",
+  "date": "2026-11-24 05:45",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "En pleine expansion économique, un nouveau bâtiment va sortir de terre à Cherbourg",
+  "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRWNoOHZrTDJ0aDhUWVFETVhFYm9mbTRUemJRejMtTnUxZnowR2t1WTBWMG1NcWptMTBsRTFERUlYSjZZalI3czMtLWZpN0w4X2FxOWlwWDVSRFY5NHB6eVFmR2JobWFjODlhVmp4eEdEU2dlbkdtLVFJano1SGEtRVlRc1FhNUFoTmVkV3RPcUI5SGpaNTRFS2ZvelgzQ0M3ZWJkMlBHSm9XX2dpaXpaR1o4VWx0U3pRRkxoZVVENklfd3pQTE9NN2k0aU9wNXFpZVVXYXdVbFUybjh5c0JONHAtdw?oc=5",
+  "pdf": "",
+  "résumé": "En pleine expansion économique, un nouveau bâtiment va sortir de terre à Cherbourg &nbsp;&nbsp; Actu.fr"
  },
  {
   "id": "172c706f212f",
@@ -1518,6 +1678,16 @@
   "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNUTdOZ0VnbUVQWHhYUVVobU5QODF5VVpHMnRBZWZIRGlaeFRQZGs5VWFJbklQczlvM0hwOUlIYkR2cDIxQ3NUdWRXQjZjZmZYR1MtT2dZZHNIOFJZQ3RCbXFHbEQ2UE5zZTdsT3V2ZWJpVTNGeTBtR2c5cndRbG9oRWxqbThwQkxEbF9oODJxS3ZBSW54TVBMR2E5eThzTzNyRW9HZmF3Ylptb0hpaDJ6ZlFaXzhlOGQ0cDg4RzlQbFAxOXpLN1FTNzJfdm9tUW5wdFZ4WDRTc1hEMlJCOWVlaUUtY2FwbzRuRTBoajBKN3doRGVwQXBrSzVyRWhybmd3ZEJYMFlWNzNNVFNM?oc=5",
   "pdf": "",
   "résumé": "Bain-de-Bretagne. Une nouvelle présidente à la tête de la Retraite sportive bainaise &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "a0df9ea3bb0a",
+  "date": "2026-11-24 05:04",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "Vous avez eu la grippe l'hiver dernier ? Vous pouvez attraper le virus de nouveau… à une différence près",
+  "lien": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYWZDdDNFbEJFY05Db3dTNkNRT3BsR1hNS1d5Z0NXeXFYNS1BSTZVVDh2cktHYWluSnROaEl1SVJyZThCaXhaMEVrOUQ0V3RCOXZEbTc0dEhTdVY2UHFNZ1RRMjM5NmdOa3NQZXF0UU42bm5NRDVSdENCT2UyMkZnQk1iRGxJSnFEZTMzdkhfYUdwMFJudnJ2bGw5eEZiaHZpc25NdDBFUVhOb0ZucUZTQWNPN2tSSjlmOXdONk5kWHNTUXFDX3ZMMEk1Nm16bVVsWnlhcF9n?oc=5",
+  "pdf": "",
+  "résumé": "Vous avez eu la grippe l'hiver dernier ? Vous pouvez attraper le virus de nouveau… à une différence près &nbsp;&nbsp; Actu.fr"
  },
  {
   "id": "fc92e2659835",
@@ -1948,6 +2118,16 @@
   "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNRFJhWmZiaDhNRnd6VHRaSUk4MmRqNW9zYW1WNU1JMFpXOTF5aFRnTFNJUWpoZnYzLXhLU3RxZDlwaHdZUENZUmRwZERkZjVZemppcGR4X2xFOHNjZ3A5dUlaTk9zWjJTeHlCa1g1cDUyeWhMNFkwakRYLUtGdW9hWThnZ3NJS3M1YzFJVHItcDhwVU55TkZ6WkY0dlZ3ck10OTFxbHBTVFE2cU9fWERZTV9PTUtKZ01lMkh4SWpZbkYxa0MySFM3UGt6ak9xX3l3Q1ByRk1IWXk2Q0R1eXRHV1E3S0RhcURFbU9aUWszVzJhUzhGenphS2dOWi1JMjhvNGdaOTZWQWdyV2x0OFNUbWYyQ29kZw?oc=5",
   "pdf": "",
   "résumé": "« Le cancer avait pris tout l’utérus »: pendant six mois, la gynécologue de cette Vendéenne diagnostiquait une infection &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "43320a0ee313",
+  "date": "2026-11-23 17:26",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "Les oiseaux sont trop nombreux : ce parc de Cherbourg-en-Cotentin fermé au public",
+  "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX2oyaE9aZkxwcDhrWkM0ZGptRFFVSFlsQ2RINXpOd0VEUHhsSk5TYm5NSjJfRXl6S3gxb0ZybTdfVFNFd2paVGMwUm42X3RqY1VobU5POW1Weld6V3NSbzI4dXZORkpoUmQtUnp6V0hrNENQY2VEMS11S2xScTJ3WEQxM2Y3Vkp3cmZEZmdFVGo4N2VtNnJndjZZM0lqVU5vRTFtdkxiSXZ4Yzd3ak1MTG5SbHNMMWxENmlXWHNxNW1GLVN6dWNSVC1nRHhPaWlzTXpZckd6UEpJa0hpbnhkeQ?oc=5",
+  "pdf": "",
+  "résumé": "Les oiseaux sont trop nombreux : ce parc de Cherbourg-en-Cotentin fermé au public &nbsp;&nbsp; Actu.fr"
  },
  {
   "id": "cb4701a47bd8",
@@ -2470,6 +2650,16 @@
   "résumé": "À La Ferrière, le réaménagement d’une rue entraîne l’abattage des arbres. Cette décision divise, entre riverains favorables et défenseurs écologistes face au changement climatique."
  },
  {
+  "id": "2c64de4b59f1",
+  "date": "2026-11-23 09:17",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "Miley Cyrus s'est mariée ce week-end : qui est Maxx Morando, son nouvel époux âgé de 28 ans ?",
+  "lien": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFvQVJBZWNfd1dGcGJaWFVDc1UtYmtVZXVBbm9GZVFhUG91elI0R1A3QXRwdXJzYTctMXBPTzVMbDRGWmUtX1FlZ2pLSVpuY19ERGxNemNOU2dlWmFUb2ZvY3ptRWo5c1JVSjRuaUVDVE5zenA2bDQ1ay1DaEhhVmdZOXR6UkRVcjlVdlFKLV94bUVKWTlaQWRvUTczNmJZbTlsdTItdXFPSVE4NHdhSWNCcUN0ZXBMbGxaS19EOGlGRUc4ZGdUSmdEZWJyeXM?oc=5",
+  "pdf": "",
+  "résumé": "Miley Cyrus s'est mariée ce week-end : qui est Maxx Morando, son nouvel époux âgé de 28 ans ? &nbsp;&nbsp; Actu.fr"
+ },
+ {
   "id": "01388731b6b2",
   "date": "2026-11-23 09:15",
   "source": "Google News — La Roche-sur-Yon",
@@ -2678,6 +2868,16 @@
   "lien": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcVBYMVFPTUllUUhTNFZNdGlkMEwycW5IUHRoVmlBaDVqc3J4Z1lEZnU4cGNVdG8tZDhKWmZscFN0eFV4Q2RzS3lXeEJicFVidWF3dWR5QVgxQk1ZbDhBY3JHVkNPZEJwckdvYnBLRGlxM3d5aHBxblpON2pubEphYk5XaWpjUExTeFY4RkhHLTdBT0lNVDNSYWxwZXp1eWZSYVdpOVMyeVQ0NVZhc3hhb0dTWnVPLWNhMjJRMm1UdDVOUVpjNnBlaDhWTmdKeE5Z?oc=5",
   "pdf": "",
   "résumé": "Mouilleron-le-Captif. Une docteur junior accueillie au pôle médical &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "d24c45e2ff0e",
+  "date": "2026-11-23 06:11",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "L'Hermenault. Lilou Theillout reprend Instant coiffure",
+  "lien": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeVVBbUk0VzRrMVQ3dDUtOUpuRTlFWDRWaEoyRFBQT25TSWg3dUZJRTNlb0VNcXlRWllDMF8tU2pPeUlZSlctSF9HZXpPQTNPNGpVZjhDWWc3Q2xpMlVlcUhQbnJuOGRPcE9SQ29FRjY4M09qcUtjd2lVR1E3SldHT2l3THJPNmJhbDZ3OXNjamd6djRIc2RyMno5UnotcmhPQTB2bTVNZjkyYzJRM0JOeXl6MDBGeFBJMnhadEZIRQ?oc=5",
+  "pdf": "",
+  "résumé": "L'Hermenault. Lilou Theillout reprend Instant coiffure &nbsp;&nbsp; maville.com"
  },
  {
   "id": "c805e6931b52",
@@ -3068,6 +3268,16 @@
   "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONFBrSmxrRXY0YkljNUY0ZkFtNS1uSzBjQURJWlN0S1FVbFN6YU8xZUsteDhOVVhnaTNrOGJqUGpScjZwelluVHNsOXEyd3lvWDVEMnRia09tZHdaRmhPU1B0NXVTdm9fdExfZGw0VDhLczBOQ0hyenk1YkNWMWNYWm5PdVcyWGIxXzRIeDZLcHE1aVNCOGNpU1dybVRxc2FCeFEyZGY1V05EQklnQmlSUWZZNjlLUktaYWMyZEtVb3V3V2JIVXp4UlJnZkttUW9CLWxZQW8zLUVsbkIyNUYxenJwLW5XLUUzM0lBTzhNOHpfY0NJaDlKak5DU0o?oc=5",
   "pdf": "",
   "résumé": "Football. « C’est assez rare en Ligue 3 » : Résilient, le Vendée FC La Roche conforte sa position de leader &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "d7bb82e3ba62",
+  "date": "2026-11-22 13:28",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "Des pommes de terre rappelées dans plus de 500 Lidl : elles peuvent provoquer des diarrhées et des vomissements",
+  "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOVowSm1xZzJCTkhLOWJKQ3g1QkUtZkp2MVlyeHlxbzFicWJrYVpuaXV6Z0VmZ01POXBGR0JlSjlRUmFwM0pTY2tmeGZLRWUtVEtoeTZLYm15eVh5QTAzTkhyR3FxTG1OaU9XaWp4WTdQMGtTbHRRWE5vSTh2VUFJTkwwNmJYeFlGVkR1U2JocldRUGVDbW0yejBBWnd2MDJTcVVKZEVUSGpZVE9GSDdnX1M4cUh0ZGQwamIwY2R2cTQweTVSWjBDcEJSLW83LXBhUXp1VGJReUkxLXdfM3pKb0tB?oc=5",
+  "pdf": "",
+  "résumé": "Des pommes de terre rappelées dans plus de 500 Lidl : elles peuvent provoquer des diarrhées et des vomissements &nbsp;&nbsp; Actu.fr"
  },
  {
   "id": "fb19773e9396",
