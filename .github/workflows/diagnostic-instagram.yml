@@ -22,4 +22,16 @@ jobs:
               print("Compte vu par Instagram :", r.get("username"), "| user_id identique :", r.get("user_id") == u.strip())
           except urllib.error.HTTPError as e:
               print("Erreur Instagram :", e.read().decode()[:300])
+          for chemin, champs in (("me", "id,name"), (u.strip(), "id,username"), ("me/permissions", "")):
+              q = {"access_token": t}
+              if champs: q["fields"] = champs
+              try:
+                  r = json.load(urllib.request.urlopen(f"https://graph.facebook.com/v25.0/{chemin}?" + urllib.parse.urlencode(q)))
+                  if chemin == "me/permissions":
+                      r = [p["permission"] for p in r.get("data", []) if p.get("status") == "granted"]
+                  elif chemin == "me":
+                      r = {"type": "compte Facebook"}
+                  print("Facebook", "/compte-IG" if chemin == u.strip() else "/" + chemin, ":", r)
+              except urllib.error.HTTPError as e:
+                  print("Facebook", chemin[:3], ": erreur", e.read().decode()[:200])
           PY
