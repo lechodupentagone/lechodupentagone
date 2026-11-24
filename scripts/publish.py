@@ -69,7 +69,10 @@ def preparer():
 
     for i, brut in enumerate(lignes, start=2):
         e = dict(zip(entete, brut + [""] * (len(entete) - len(brut))))
-        if e.get("publier", "").strip().upper() not in OUI or e.get("statut") != "à valider":
+        # lignes de la collecte (« à valider ») ou ajoutées à la main (statut vide)
+        if e.get("publier", "").strip().upper() not in OUI or e.get("statut", "").strip() not in ("à valider", ""):
+            continue
+        if not e.get("titre", "").strip():
             continue
         date = datetime.now()
         slug = slugifier(e["titre"])

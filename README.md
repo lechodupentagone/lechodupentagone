@@ -74,6 +74,19 @@ Ensuite tout tourne seul : collecte toutes les 2 h, publication toutes les 30 mi
 - Pour chaque élément retenu : titre propre, texte à publier, case cochée. Le reste : laissez la case vide.
 - Les PDF des actes retenus sont archivés dans `archives/actes/` (le portail de la Ville retire ses actes au bout de deux mois).
 
+## Ajouter une info à la main (Facebook, Instagram, terrain…)
+
+Les comptes Facebook et Instagram des autres ne peuvent pas être lus automatiquement (Meta l'interdit sans autorisation spéciale). Pour publier une info vue sur un réseau social, ou apprise sur le terrain, ajoutez une ligne dans la Google Sheet, y compris depuis l'application mobile :
+
+- **source** : ex. « Page Facebook de la Ville » ;
+- **catégorie** : Municipal, Agglo, Vendée… (elle donne la couleur du visuel) ;
+- **titre** : le titre du visuel ;
+- **lien** : l'adresse de la publication d'origine ;
+- **texte à publier** : votre texte ;
+- **publier** : cochez. Laissez **statut** vide.
+
+La publication suivante la traite comme les autres.
+
 ## Règles éditoriales (à respecter, c'est vous le directeur de publication)
 
 - **Presse** : jamais de reprise d'article ni de photo. Titre et texte réécrits par vous, lien vers la source (droit voisin des éditeurs de presse, loi n° 2019-775).
