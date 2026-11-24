@@ -5,6 +5,7 @@ Usage :  python scripts/collect.py            (écrit dans la Google Sheet)
          python scripts/collect.py --essai    (affiche sans rien écrire)
 """
 import re
+import json
 import sys
 import time
 from datetime import datetime, timedelta, timezone
@@ -88,7 +89,7 @@ def archiver_pdf(url):
 
 def collecter(cfg, vus):
     limite = datetime.now(timezone.utc) - timedelta(days=cfg["collecte"]["max_age_jours"])
-    nouveaux, erreurs = [], []
+    nouveaux, erreurs, frais = [], [], []
     titres_vus = set(vus["titres"])
     ids_vus = set(vus["ids"])
 
@@ -109,6 +110,12 @@ def collecter(cfg, vus):
                     continue
                 uid = identifiant(lien, titre)
                 cle_titre = normaliser_titre(titre)
+                resume = re.sub(r"<[^>]+>", " ", e.get("summary", ""))
+                frais.append({"id": uid, "date": date_entree(e).strftime("%Y-%m-%d %H:%M"),
+                              "source": src["nom"], "type": src["type"], "titre": titre_propre(titre)
+                              if src["type"] != "actes" else titre, "lien": lien,
+                              "pdf": lien_pdf(e) if src["type"] == "actes" else "",
+                              "résumé": re.sub(r"\s+", " ", resume).strip()[:600]})
                 if uid in ids_vus or cle_titre in titres_vus:
                     continue
                 ids_vus.add(uid)
@@ -141,14 +148,14 @@ def collecter(cfg, vus):
                         "catégorie": categorie_presse(titre), "titre": propre, "lien": lien,
                         "pdf": "", "texte à publier": "",
                     })
-    return nouveaux, erreurs
+    return nouveaux, erreurs, frais
 
 
 def main():
     essai = "--essai" in sys.argv
     cfg = config()
     vus = charger_vus()
-    nouveaux, erreurs = collecter(cfg, vus)
+    nouveaux, erreurs, frais = collecter(cfg, vus)
     maintenant = datetime.now().strftime("%Y-%m-%d %H:%M")
     lignes = []
     for n in nouveaux:
@@ -162,8 +169,27 @@ def main():
         for n in nouveaux:
             print(f"  [{n['type']}] {n['titre']}  ->  {n['lien']}")
         return
+    # Matière première pour la rédaction des propositions du matin (7 derniers jours)
+    veille_f = RACINE / "data" / "veille.json"
+    veille = json.loads(veille_f.read_text()) if veille_f.exists() else []
+    limite = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
+    connus = {v["id"] for v in veille}
+    veille = [v for v in veille if v["date"] >= limite] + [f for f in frais if f["id"] not in connus]
+    veille.sort(key=lambda v: v["date"], reverse=True)
+    if not essai:
+        veille_f.write_text(json.dumps(veille, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    # Articles rédigés dans les propositions du jour → Google Sheet (« à valider »)
+    import_f = RACINE / "data" / "propositions_a_importer.json"
+    props = json.loads(import_f.read_text()) if import_f.exists() else []
+    for pr in props:
+        pr.update({"collecté le": maintenant, "publier": False, "statut": "à valider"})
+        lignes.append([pr.get(c, "") for c in COLONNES])
     if lignes:
         feuille().append_rows(lignes, value_input_option="USER_ENTERED")
+    if props:
+        import_f.write_text("[]")
+        print(f"{len(props)} proposition(s) importée(s) dans la Sheet")
     sauver_vus(vus)
 
 

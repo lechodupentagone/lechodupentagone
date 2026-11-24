@@ -153,3 +153,119 @@ def couverture(chemin, marque, l=1640, h=624):
     chemin.parent.mkdir(parents=True, exist_ok=True)
     img.convert("RGB").save(chemin, "PNG")
     return chemin
+
+
+# ------------------------------------------------------------------
+#  Carrousel (1080 × 1350) et Reel (1080 × 1920)
+# ------------------------------------------------------------------
+def _entete(d, marque, blanc, largeur, droite=""):
+    marque_logo(d, M - 6, 66, 64, blanc)
+    texte_espace(d, (M + 74, 80), marque["nom"].upper(), police("InterDisplay-ExtraBold.otf", 30), blanc, 2)
+    if droite:
+        f = police("InterDisplay-Medium.otf", 28)
+        d.text((largeur - M - d.textlength(droite, font=f), 82), droite, font=f, fill=blanc)
+
+
+def _bloc(d, texte, nom_police, tailles, largeur, hauteur, interligne=1.12):
+    """Plus grande taille de police qui fait tenir le texte dans la zone."""
+    for taille in tailles:
+        fnt = police(nom_police, taille)
+        lignes = []
+        for para in texte.split("\n"):
+            lignes += couper(d, para, fnt, largeur) or [""]
+        pas = int(taille * interligne)
+        if len(lignes) * pas <= hauteur:
+            break
+    return fnt, lignes, pas
+
+
+def diapo(numero, total, sous_titre, texte, categorie, chemin, marque):
+    """Diapo intérieure du carrousel : fond bleu nuit, numéro, intertitre jaune, texte."""
+    fond = hex_rgb(marque["couleur_fond"])
+    accent = hex_rgb(marque["couleur_accent"])
+    teinte = hex_rgb(couleur_categorie(categorie, marque))
+    img = Image.new("RGBA", (L, H), fond + (255,))
+    echo(img, L + 40, -40, [260, 400, 540], 8, 0.10)
+    d = ImageDraw.Draw(img)
+    blanc = (255, 255, 255)
+    _entete(d, marque, blanc, L, f"{numero}/{total}")
+    d.rectangle([M, 230, M + 120, 240], fill=teinte if teinte != fond else accent)
+    y = 290
+    if sous_titre:
+        f, lignes, pas = _bloc(d, sous_titre, "InterDisplay-Black.otf", range(80, 46, -4), L - 2 * M, 300)
+        for l_ in lignes:
+            d.text((M, y), l_, font=f, fill=accent)
+            y += pas
+        y += 40
+    f, lignes, pas = _bloc(d, texte, "InterDisplay-Medium.otf", range(62, 28, -2), L - 2 * M, H - 200 - y, 1.32)
+    for l_ in lignes:
+        d.text((M, y), l_, font=f, fill=blanc)
+        y += pas
+    f_c = police("InterDisplay-Bold.otf", 30)
+    compte = marque.get("compte", "")
+    d.text((L - M - d.textlength(compte, font=f_c), H - 132), compte, font=f_c, fill=blanc)
+    if numero < total:
+        d.text((M, H - 132), "Glissez →", font=police("InterDisplay-Medium.otf", 30), fill=accent)
+    chemin.parent.mkdir(parents=True, exist_ok=True)
+    img.convert("RGB").save(chemin, "JPEG", quality=92)
+    return chemin
+
+
+def diapo_fin(categorie, chemin, marque, l=L, h=H):
+    """Dernière diapo / dernière image du Reel : appel à s'abonner."""
+    fond = hex_rgb(couleur_categorie(categorie, marque))
+    accent = hex_rgb(marque["couleur_accent"])
+    img = Image.new("RGBA", (l, h), fond + (255,))
+    echo(img, l / 2, h / 2 - 120, [220, 330, 440, 550], 8, 0.16)
+    d = ImageDraw.Draw(img)
+    blanc = (255, 255, 255)
+    t = 300
+    marque_logo(d, l / 2 - t / 2, h / 2 - 120 - t / 2, t, blanc)
+    d.polygon(pentagone(l / 2, h / 2 - 120 + t * 0.04, t * 0.22), fill=accent)
+    y = h / 2 + 110
+    for texte, nom, taille, couleur in (("Suivez", "InterDisplay-Medium.otf", 48, blanc),
+                                        (marque.get("compte", ""), "InterDisplay-Black.otf", 76, blanc),
+                                        (marque["accroche"], "InterDisplay-Medium.otf", 38, accent)):
+        f = police(nom, taille)
+        for l_ in couper(d, texte, f, l - 2 * M):
+            d.text(((l - d.textlength(l_, font=f)) / 2, y), l_, font=f, fill=couleur)
+            y += int(taille * 1.25)
+        y += 14
+    chemin.parent.mkdir(parents=True, exist_ok=True)
+    img.convert("RGB").save(chemin, "JPEG", quality=92)
+    return chemin
+
+
+LR, HR = 1080, 1920   # Reel
+
+
+def image_reel(texte, categorie, date, chemin, marque, premiere=False):
+    """Une image du Reel : texte centré dans la zone sûre (hors interface Instagram)."""
+    fond = hex_rgb(couleur_categorie(categorie, marque))
+    accent = hex_rgb(marque["couleur_accent"])
+    img = Image.new("RGBA", (LR, HR), fond + (255,))
+    echo(img, LR - 40, HR - 420, [300, 460, 620, 780], 10, 0.20)
+    d = ImageDraw.Draw(img)
+    blanc = (255, 255, 255)
+    # en-tête descendu pour éviter la barre du haut d'Instagram
+    marque_logo(d, M - 6, 226, 64, blanc)
+    texte_espace(d, (M + 74, 240), marque["nom"].upper(), police("InterDisplay-ExtraBold.otf", 30), blanc, 2)
+    f_date = police("InterDisplay-Medium.otf", 28)
+    d.text((LR - M - d.textlength(date, font=f_date), 242), date, font=f_date, fill=blanc)
+    haut, bas = 420, HR - 520
+    if premiere:
+        f_cat = police("InterDisplay-Bold.otf", 34)
+        cat = categorie.upper()
+        w = sum(d.textlength(c, font=f_cat) + 2 for c in cat)
+        d.rounded_rectangle([M, haut, M + w + 48, haut + 64], radius=32, fill=blanc)
+        texte_espace(d, (M + 24, haut + 12), cat, f_cat, fond, 2)
+        haut += 120
+    f, lignes, pas = _bloc(d, texte, "InterDisplay-Black.otf", range(104, 54, -4), LR - 2 * M, bas - haut, 1.08)
+    y = haut + (bas - haut - len(lignes) * pas) / 2
+    for l_ in lignes:
+        d.text((M, y), l_, font=f, fill=blanc if not premiere else blanc)
+        y += pas
+    d.rectangle([M, bas + 30, M + 90, bas + 38], fill=accent)
+    chemin.parent.mkdir(parents=True, exist_ok=True)
+    img.convert("RGB").save(chemin, "JPEG", quality=92)
+    return chemin

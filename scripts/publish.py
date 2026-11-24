@@ -142,6 +142,10 @@ def reseaux():
     file_attente = json.loads(FICHIER_FILE.read_text())
     if not file_attente:
         return
+    if not config().get("reseaux_auto", False):
+        # Instagram et Facebook sont postés à la main depuis la page de propositions
+        FICHIER_FILE.write_text("[]")
+        return
     onglet = feuille()
     restants = []
     for item in file_attente:

@@ -22,6 +22,9 @@ marque:
     Culture: "#BE185D"
     Société: "#0B1F3A"
 
+# Publication automatique sur Instagram/Facebook (false = je poste moi-même)
+reseaux_auto: false
+
 collecte:
   max_age_jours: 3          # on ignore les éléments plus anciens
   pages_actes: 3            # nb de pages du flux des actes à lire (10 actes / page)
