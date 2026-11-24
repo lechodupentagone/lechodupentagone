@@ -1,0 +1,76 @@
+# ============================================================
+#  Configuration du média — à adapter
+# ============================================================
+
+marque:
+  nom: "L'Écho du Pentagone"
+  accroche: "L'info de La Roche-sur-Yon et de la Vendée"
+  compte: "@lechodupentagone"           # affiché sur chaque visuel
+  couleur_fond: "#0B1F3A"               # bleu nuit (logo, site)
+  couleur_accent: "#FFC233"             # jaune (logo, site)
+  site_url: "https://lechodupentagone.github.io/lechodupentagone"   # sans / final
+  directeur_publication: "Prénom Nom"
+  contact: "contact@exemple.fr"
+  # Une couleur de fond par catégorie (texte blanc lisible sur chacune)
+  categories:
+    Municipal: "#1D4ED8"
+    Agglo: "#0F766E"
+    Vendée: "#15803D"
+    Faits divers: "#B91C1C"
+    Économie: "#6D28D9"
+    Sport: "#C2410C"
+    Culture: "#BE185D"
+    Société: "#0B1F3A"
+
+collecte:
+  max_age_jours: 3          # on ignore les éléments plus anciens
+  pages_actes: 3            # nb de pages du flux des actes à lire (10 actes / page)
+
+# ------------------------------------------------------------
+#  Sources RSS. type = presse | actes | institution
+#  Statuts du tableau « Sources » : seules les lignes vérifiées
+#  ou au format standard sont activées ; les autres sont en commentaire.
+# ------------------------------------------------------------
+sources:
+  - nom: "Actes administratifs LRSY"
+    type: actes
+    url: "https://actes.larochesuryon.fr/feed/"
+  - nom: "Google News — La Roche-sur-Yon"
+    type: presse
+    url: "https://news.google.com/rss/search?q=%22La+Roche-sur-Yon%22&hl=fr&gl=FR&ceid=FR:fr"
+  - nom: "Google News — communes de l'agglo"
+    type: presse
+    url: "https://news.google.com/rss/search?q=%22pays+yonnais%22+OR+%22Mouilleron-le-Captif%22+OR+%22Aubigny-Les+Clouzeaux%22+OR+%22Venansault%22+OR+%22Dompierre-sur-Yon%22&hl=fr&gl=FR&ceid=FR:fr"
+  - nom: "Ouest-France — La Roche-sur-Yon"
+    type: presse
+    url: "https://news.google.com/rss/search?q=%22La+Roche-sur-Yon%22+site%3Aouest-france.fr&hl=fr&gl=FR&ceid=FR:fr"
+  - nom: "actu.fr — Vendée"
+    type: presse
+    url: "https://news.google.com/rss/search?q=Vend%C3%A9e+site%3Aactu.fr&hl=fr&gl=FR&ceid=FR:fr"
+  - nom: "Journal du Pays Yonnais"
+    type: presse
+    url: "https://actu.fr/le-journal-du-pays-yonnais/rss.xml"
+  - nom: "France 3 — Vendée"
+    type: presse
+    url: "https://france3-regions.franceinfo.fr/pays-de-la-loire/vendee/rss"
+  # - nom: "FSU 85"
+  #   type: institution
+  #   url: "https://fsu85.fsu.fr/feed/"
+
+# ------------------------------------------------------------
+#  Actes municipaux : seuls les actes dont l'intitulé contient
+#  un de ces mots-clés sont proposés (le reste est ignoré).
+#  Tiré de l'onglet « Actes municipaux » du tableau.
+# ------------------------------------------------------------
+actes_mots_cles:
+  Finances: [emprunt, garantie, tresorerie, fongibilite, virement-de-credits, tarif]
+  Subventions: [subvention]
+  Foncier: [desaffectation, cession, servitude, alignement, preemption]
+  Urbanisme: [plu]
+  Élus et gouvernance: [retrait, deport, designation, presidence]
+  Police du maire: [mise-en-securite, mainlevee, friche, interdiction]
+
+archiver_pdf_actes: true    # copie les PDF retenus dans archives/actes/
+
+# Catégories proposées dans la file de validation
+categories: [Municipal, Agglo, Vendée, Faits divers, Économie, Sport, Culture, Société]

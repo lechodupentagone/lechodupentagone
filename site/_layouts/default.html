@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
+  {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}">{% endif %}
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <link rel="icon" href="{{ '/assets/identite/logo.png' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | relative_url }}">
+</head>
+<body>
+  <header class="bandeau">
+    <a class="marque" href="{{ '/' | relative_url }}"><img src="{{ '/assets/identite/logo.png' | relative_url }}" alt="">{{ site.title }}</a>
+    <span class="accroche">{{ site.description }}</span>
+  </header>
+  <main>{{ content }}</main>
+  <footer>
+    {% if site.facebook != "" %}<a href="{{ site.facebook }}">Facebook</a> · {% endif %}
+    {% if site.instagram != "" %}<a href="{{ site.instagram }}">Instagram</a> · {% endif %}
+    <a href="{{ '/mentions-legales/' | relative_url }}">Mentions légales</a> ·
+    <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+  </footer>
+</body>
+</html>

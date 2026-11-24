@@ -1,0 +1,74 @@
+name: Publication
+on:
+  schedule:
+    - cron: "0,30 6-21 * * *"      # toutes les 30 min de 7 h à 22 h (heure de Paris, hiver)
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency: depot
+jobs:
+  preparer:
+    runs-on: ubuntu-latest
+    outputs:
+      nouveau: ${{ steps.commit.outputs.nouveau }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+      - name: Visuels et articles des éléments cochés
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+        run: python scripts/publish.py preparer
+      - id: commit
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add site data
+          if git diff --cached --quiet; then
+            echo "nouveau=non" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Publication $(date +'%F %H:%M')" && git push
+            echo "nouveau=oui" >> "$GITHUB_OUTPUT"
+          fi
+
+  site:
+    needs: preparer
+    if: needs.preparer.outputs.nouveau == 'oui' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    environment: { name: github-pages }
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/configure-pages@v5
+      - uses: actions/jekyll-build-pages@v1
+        with: { source: ./site, destination: ./_site }
+      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/deploy-pages@v4
+
+  reseaux:
+    needs: [preparer, site]
+    if: always() && needs.preparer.result == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+      - name: Facebook et Instagram
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python scripts/publish.py reseaux
+      - run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -m "Réseaux $(date +'%F %H:%M')" && git push)

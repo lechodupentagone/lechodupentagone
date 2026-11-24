@@ -1,0 +1,13 @@
+# Site du média — GitHub Pages (Jekyll)
+title: "L'Écho du Pentagone"
+description: "L'info de La Roche-sur-Yon et de la Vendée"
+lang: fr
+# Si le site est servi sur https://compte.github.io/depot, mettre baseurl: "/depot"
+# Avec un nom de domaine personnalisé, mettre baseurl: ""
+baseurl: "/lechodupentagone"
+url: "https://lechodupentagone.github.io"
+permalink: /:year/:month/:title/
+timezone: Europe/Paris
+paginate: 30
+facebook: ""
+instagram: ""

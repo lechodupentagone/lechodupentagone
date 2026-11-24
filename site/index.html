@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<section class="grille">
+{% for post in site.posts limit:60 %}
+  <a class="carte" href="{{ post.url | relative_url }}">
+    {% if post.image %}<img src="{{ post.image | relative_url }}" alt="" loading="lazy">{% endif %}
+    <span class="cat">{{ post.categorie }}</span>
+    <h2>{{ post.title }}</h2>
+    <p class="meta">{{ post.date | date: "%d/%m/%Y" }} · {{ post.source }}</p>
+  </a>
+{% endfor %}
+</section>
