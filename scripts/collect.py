@@ -42,6 +42,8 @@ def lien_pdf(e):
 
 def categorie_acte(titre, cfg):
     slug = slugifier(titre, 200)
+    if any(x in slug for x in cfg.get("actes_exclure", [])):
+        return None
     for cat, mots in cfg["actes_mots_cles"].items():
         if any(m in slug for m in mots):
             return cat
@@ -131,6 +133,8 @@ def collecter(cfg, vus):
                         "pdf": pdf, "texte à publier": "",
                     })
                 else:
+                    if any(x.lower() in titre.lower() for x in cfg.get("presse_exclure", [])):
+                        continue
                     propre = titre_propre(titre)
                     nouveaux.append({
                         "id": uid, "source": src["nom"], "type": src["type"],

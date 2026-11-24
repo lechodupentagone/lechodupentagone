@@ -70,6 +70,12 @@ actes_mots_cles:
   Élus et gouvernance: [retrait, deport, designation, presidence]
   Police du maire: [mise-en-securite, mainlevee, friche, interdiction]
 
+# Actes écartés même s'ils contiennent un mot-clé (arrêtés préfectoraux relayés)
+actes_exclure: [ddtm85, sidpc, cab-sidpc, influenza]
+
+# Titres de presse écartés (bruit)
+presse_exclure: ["météo", "meteo", "tous les avis", "les notes des", "horoscope", "match terminé", "en direct"]
+
 archiver_pdf_actes: true    # copie les PDF retenus dans archives/actes/
 
 # Catégories proposées dans la file de validation
