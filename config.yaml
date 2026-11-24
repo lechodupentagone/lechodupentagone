@@ -8,7 +8,7 @@ marque:
   compte: "@lechodupentagone"           # affiché sur chaque visuel
   couleur_fond: "#0B1F3A"               # bleu nuit (logo, site)
   couleur_accent: "#FFC233"             # jaune (logo, site)
-  site_url: "https://lechodupentagone.github.io/lechodupentagone"   # sans / final
+  site_url: "https://lechodupentagone.fr"   # sans / final
   directeur_publication: "Prénom Nom"
   contact: "contact@exemple.fr"
   # Une couleur de fond par catégorie (texte blanc lisible sur chacune)
