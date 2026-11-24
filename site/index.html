@@ -40,11 +40,12 @@ layout: default
 </section>
 
 {% for r in site.data.rubriques %}
-{% assign liste = site.posts | where: "categorie", r.nom %}
-{% if liste.size > 0 %}
+{% assign n = 0 %}
+{% capture cartes %}{% for post in site.posts %}{% if n < 4 %}{% if post.categorie == r.nom or post.rubriques contains r.nom %}{% include carte.html post=post %}{% assign n = n | plus: 1 %}{% endif %}{% endif %}{% endfor %}{% endcapture %}
+{% if n > 0 %}
 <section class="bloc">
   <div class="bloc-titre"><h2><i class="puce" style="background:{{ r.couleur }}"></i>{{ r.nom }}</h2><a href="{{ '/rubriques/' | append: r.slug | append: '/' | relative_url }}">Tout voir →</a></div>
-  <div class="grille">{% for post in liste limit:4 %}{% include carte.html post=post %}{% endfor %}</div>
+  <div class="grille">{{ cartes }}</div>
 </section>
 {% endif %}
 {% endfor %}

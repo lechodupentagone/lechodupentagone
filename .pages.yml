@@ -14,9 +14,15 @@ content:
       - { name: title, label: Titre, type: string, required: true }
       - { name: date, label: Date, type: date }
       - name: categorie
-        label: Rubrique
+        label: Rubrique principale (couleur)
         type: select
         options:
+          values: [Municipal, Agglo, Vendée, Société, Économie, Sport, Culture, Faits divers]
+      - name: rubriques
+        label: Toutes les rubriques (la principale + les autres)
+        type: select
+        options:
+          multiple: true
           values: [Municipal, Agglo, Vendée, Société, Économie, Sport, Culture, Faits divers]
       - { name: source, label: Source (nom), type: string }
       - { name: lien_source, label: Lien de la source, type: string }

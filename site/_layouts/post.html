@@ -6,7 +6,7 @@ layout: default
 {% assign rub = site.data.rubriques | where: "nom", page.categorie | first %}
 <article class="article">
   <header class="art-tete">
-    <p class="etiquettes">{% if rub %}<a class="tag-cat" style="background:{{ coul }}" href="{{ '/rubriques/' | append: rub.slug | append: '/' | relative_url }}">{{ page.categorie }}</a>{% endif %}</p>
+    <p class="etiquettes">{% assign toutes = page.rubriques | default: empty %}{% if toutes.size == 0 %}{% assign toutes = page.categorie | split: "|" %}{% endif %}{% for nom in toutes %}{% assign r = site.data.rubriques | where: "nom", nom | first %}{% if r %}<a class="tag-cat" style="background:{{ r.couleur }}" href="{{ '/rubriques/' | append: r.slug | append: '/' | relative_url }}">{{ r.nom }}</a>{% endif %}{% endfor %}</p>
     <h1>{{ page.title }}</h1>
     <p class="meta">Publié le {{ page.date | date: "%d/%m/%Y" }}{% if page.source != "" %} · Source : {{ page.source }}{% endif %}</p>
   </header>

@@ -1,12 +1,10 @@
 ---
 layout: default
 ---
-{% if page.rubrique %}{% assign liste = site.posts | where: "categorie", page.rubrique %}{% else %}{% assign liste = site.posts %}{% endif %}
 <section class="bloc">
   <div class="bloc-titre"><h1>{% if page.rubrique %}{% capture coul %}{% include couleur.html cat=page.rubrique %}{% endcapture %}<i class="puce" style="background:{{ coul | strip }}"></i>{% endif %}{{ page.title }}</h1></div>
-  <p class="sous">{{ liste.size }} article{% if liste.size > 1 %}s{% endif %}</p>
-  <div class="grille">
-  {% for post in liste %}{% include carte.html post=post %}{% endfor %}
-  {% if liste.size == 0 %}<p class="vide">Aucun article dans cette rubrique pour l'instant.</p>{% endif %}
-  </div>
+  {% assign n = 0 %}
+  {% capture cartes %}{% for post in site.posts %}{% if page.rubrique == nil or post.categorie == page.rubrique or post.rubriques contains page.rubrique %}{% include carte.html post=post %}{% assign n = n | plus: 1 %}{% endif %}{% endfor %}{% endcapture %}
+  <p class="sous">{{ n }} article{% if n > 1 %}s{% endif %}</p>
+  <div class="grille">{{ cartes }}{% if n == 0 %}<p class="vide">Aucun article dans cette rubrique pour l'instant.</p>{% endif %}</div>
 </section>

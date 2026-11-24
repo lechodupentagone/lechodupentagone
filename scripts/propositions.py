@@ -6,7 +6,8 @@ et prépare l'import des articles dans la Google Sheet (statut « à valider »)
 
 Format du brouillon (liste de sujets) :
   {"titre": "...",            # titre de l'article et du visuel (≤ 110 caractères)
-   "categorie": "Municipal",  # une des catégories de config.yaml
+   "categorie": "Municipal",  # rubrique principale (couleur), une des catégories de config.yaml
+   "autres_rubriques": ["Agglo"],  # facultatif : rubriques supplémentaires
    "sources": [{"nom": "Ouest-France", "lien": "https://..."}],
    "article": "Texte en Markdown, 250 à 600 mots, rédigé avec nos mots",
    "legende_instagram": "...", "texte_facebook": "...",
@@ -159,7 +160,7 @@ def main(chemin_brouillon):
         reels[ident] = str((d / "reel.mp4").relative_to(RACINE))
         a_importer.append({
             "id": ident,
-            "source": sources, "type": "proposition Écho", "catégorie": s["categorie"],
+            "source": sources, "type": "proposition Écho", "catégorie": ", ".join([s["categorie"]] + s.get("autres_rubriques", [])),
             "titre": s["titre"], "lien": s["sources"][0]["lien"],
             "texte à publier": f"{s['article'].strip()}\n\n**Sources :**\n{liens}",
         })

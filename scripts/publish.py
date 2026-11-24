@@ -45,12 +45,14 @@ def ecrire_article(e, slug, date, image_rel, cfg, video_rel=""):
     dossier = RACINE / "site" / "_posts"
     dossier.mkdir(parents=True, exist_ok=True)
     titre = e["titre"].replace('"', "'")
+    rubs = [r.strip() for r in e.get("catégorie", "").split(",") if r.strip()]
     corps = texte_de(e)
     contenu = f"""---
 layout: post
 title: "{titre}"
 date: {date:%Y-%m-%d %H:%M:%S} +0100
-categorie: "{e.get('catégorie', '')}"
+categorie: "{rubs[0] if rubs else ''}"
+rubriques: [{", ".join('"' + r + '"' for r in rubs)}]
 source: "{e.get('source', '')}"
 lien_source: "{e.get('lien', '')}"
 image: "/{image_rel}"
@@ -92,7 +94,7 @@ def preparer():
         date = datetime.now()
         slug = slugifier(e["titre"])
         image_rel = f"assets/visuels/{date:%Y-%m-%d}-{slug}.jpg"
-        generer(e["titre"], e.get("catégorie") or "Info", e.get("source", ""),
+        generer(e["titre"], (e.get("catégorie") or "Info").split(",")[0].strip(), e.get("source", ""),
                 f"{date:%d/%m/%Y}", RACINE / "site" / image_rel, marque)
         video_rel = ""
         reels_f = RACINE / "data" / "reels.json"

@@ -20,6 +20,7 @@ Chaque matin, Claude prépare 3 à 5 sujets pour L'Écho du Pentagone. L’édit
 - Le gentilé est « Yonnais » (jamais « Rochelais »).
 
 ## Formats (champ du brouillon)
+- `categorie` : rubrique principale (sa couleur habille les visuels). `autres_rubriques` (facultatif) : liste des rubriques où l'article doit aussi apparaître, par exemple un sujet de l'Agglo qui touche aussi l'Économie.
 - `titre` : 60 à 110 caractères, informatif, sans point d'exclamation.
 - `article` : 250 à 600 mots en Markdown. Un chapeau en gras, puis les faits, le contexte, et « ce qui va se passer ».
 - `legende_instagram` : 400 à 900 caractères. Une accroche, 3 à 5 phrases, « Lien en bio », puis 5 à 8 hashtags (#LaRocheSurYon #Vendée …).
