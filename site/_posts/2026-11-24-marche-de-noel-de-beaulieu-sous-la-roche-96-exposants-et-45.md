@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Marché de Noël de Beaulieu-sous-la-Roche : 96 exposants et 45 000 visiteurs attendus du 4 au 6 décembre"
-date: 2026-11-24 14:13:07 +0100
-categorie: "Vendée"
-source: "Ouest-France · Office de tourisme du Pays des Achards"
-lien_source: "https://www.ouest-france.fr/societe/fetes/noel/96-exposants-45-000-visiteurs-a-beaulieu-sous-la-roche-le-plus-grand-marche-de-noel-de-vendee-se-prepare-a233c8fa-e452-11f1-8937-e3b17ddb6abc"
-image: "/assets/visuels/2026-11-24-marche-de-noel-de-beaulieu-sous-la-roche-96-exposants-et-45.jpg"
-video: "/assets/videos/2026-11-24-marche-de-noel-de-beaulieu-sous-la-roche-96-exposants-et-45.mp4"
+title: "Marché de Noël de Beaulieu-sous-la-Roche : 96 exposants et 45 000
+  visiteurs attendus du 4 au 6 décembre"
+date: 2026-11-24
+categorie: Vendée
+source: Ouest-France · Office de tourisme du Pays des Achards
+lien_source: https://www.ouest-france.fr/societe/fetes/noel/96-exposants-45-000-visiteurs-a-beaulieu-sous-la-roche-le-plus-grand-marche-de-noel-de-vendee-se-prepare-a233c8fa-e452-11f1-8937-e3b17ddb6abc
+image: /assets/visuels/2026-11-24-marche-de-noel-de-beaulieu-sous-la-roche-96-exposants-et-45.jpg
+video: /assets/videos/2026-11-24-marche-de-noel-de-beaulieu-sous-la-roche-96-exposants-et-45.mp4
 ---
 **Le plus grand marché de Noël de Vendée revient pour sa 34e édition, du vendredi 4 au dimanche 6 décembre, à Beaulieu-sous-la-Roche, à une vingtaine de minutes de La Roche-sur-Yon. La commune de 2 400 habitants attend 45 000 visiteurs.**
 
@@ -30,6 +31,6 @@ Pour les familles : un grand manège, le chalet du Père Noël et des déambulat
 Avec une telle affluence sur trois jours, mieux vaut privilégier le covoiturage et venir tôt le samedi et le dimanche.
 
 **Sources :**
+
 - [Office de tourisme du Pays des Achards](https://www.achards-tourisme.com/evenements-et-animations/temps-forts-de-lannee/marche-noel-beaulieu/)
 
-Source : [Ouest-France · Office de tourisme du Pays des Achards](https://www.ouest-france.fr/societe/fetes/noel/96-exposants-45-000-visiteurs-a-beaulieu-sous-la-roche-le-plus-grand-marche-de-noel-de-vendee-se-prepare-a233c8fa-e452-11f1-8937-e3b17ddb6abc)
