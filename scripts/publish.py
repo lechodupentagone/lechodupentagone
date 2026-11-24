@@ -71,6 +71,17 @@ def preparer():
 
     for i, brut in enumerate(lignes, start=2):
         e = dict(zip(entete, brut + [""] * (len(entete) - len(brut))))
+        # retrait : statut « retirer » → article et visuel supprimés du site
+        if e.get("statut", "").strip().lower() in ("retirer", "à retirer", "a retirer"):
+            slug = e.get("url site", "").rstrip("/").rsplit("/", 1)[-1]
+            if slug:
+                for f in list((RACINE / "site" / "_posts").glob(f"*-{slug}.md")) + \
+                         list((RACINE / "site" / "assets" / "visuels").glob(f"*-{slug}.jpg")):
+                    f.unlink()
+            file_attente = [x for x in file_attente if x.get("ligne") != i]
+            maj(onglet, i, {"statut": "retiré", "url site": ""})
+            print("Retiré :", e.get("titre", ""))
+            continue
         # lignes de la collecte (« à valider ») ou ajoutées à la main (statut vide)
         if e.get("publier", "").strip().upper() not in OUI or e.get("statut", "").strip() not in ("à valider", ""):
             continue
