@@ -37,7 +37,7 @@ def preparer():
         sources = " · ".join(s["nom"] for s in a["sources"])
         image = f"assets/visuels/{base}.jpg"
         generer(a["titre"], a["categorie"], sources, f"{date:%d/%m/%Y}", ATTENTE / image, marque)
-        liens = "\n".join(f"- [{s['nom']}]({s['lien']})" for s in a["sources"])
+        liens = "\n".join(f"- [{s['nom']}]({s['lien']})" if s["lien"] else f"- {s['nom']}" for s in a["sources"])
         titre = a["titre"].replace('"', "'")
         (ATTENTE / "_posts").mkdir(parents=True, exist_ok=True)
         (ATTENTE / "_posts" / f"{base}.md").write_text(f"""---
@@ -55,7 +55,7 @@ image: "/{image}"
 **Sources :**
 {liens}
 """, encoding="utf-8")
-        srcs = " · ".join(f'<a href="{html.escape(s["lien"])}" target="_blank">{html.escape(s["nom"])}</a>' for s in a["sources"])
+        srcs = " · ".join(f'<a href="{html.escape(s["lien"])}" target="_blank">{html.escape(s["nom"])}</a>' if s["lien"] else html.escape(s["nom"]) for s in a["sources"])
         cartes.append(f"""
 <article class="art">
   <div class="num">{n}</div>
