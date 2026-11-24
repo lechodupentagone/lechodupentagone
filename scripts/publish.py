@@ -183,6 +183,10 @@ if __name__ == "__main__":
         print("Visuel généré :", chemin)
     elif action == "jeton":
         # Prolonge le jeton Instagram (60 jours) ; à lancer au moins une fois par mois
+        if os.environ["IG_TOKEN"].strip().startswith("EAA"):
+            print("Jeton Facebook (EAA) : pas de prolongation automatique. "
+                  "Utilisez un jeton de Page, qui n'expire pas.")
+            sys.exit(0)
         r = requests.get("https://graph.instagram.com/refresh_access_token", params={
             "grant_type": "ig_refresh_token", "access_token": os.environ["IG_TOKEN"]}, timeout=30)
         r.raise_for_status()
