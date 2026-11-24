@@ -1,23 +1,48 @@
 [
  {
   "date": "2026-10-07 10:00",
-  "titre": "La Joséphine : 18 429 participantes et 160 261 € pour la lutte contre le cancer du sein",
+  "titre": "La Joséphine : 18 429 participantes, une fréquentation en baisse par rapport aux dernières éditions",
   "categorie": "Société",
-  "autres_rubriques": ["Sport"],
-  "sources": [
-   {"nom": "Ville de La Roche-sur-Yon", "lien": "https://larochesuryon.fr/actualites/18-429-josephine/"},
-   {"nom": "TV Vendée", "lien": "https://tvvendee.fr/actu/la-roche-sur-yon-la-josephine-12-000-participantes-et-plus-de-160-000-euros-recoltes-contre-le-cancer-du-sein/"},
-   {"nom": "Alouette", "lien": "https://www.alouette.fr/la-josephine-2026-la-roche-sur-yon-hommage-beatrice-bellamy"}
+  "autres_rubriques": [
+   "Sport"
   ],
-  "article": "**La 12e édition de La Joséphine, course et marche 100 % féminine au profit de la lutte contre le cancer du sein, a réuni 18 429 participantes en Vendée. Le dimanche 4 octobre, plus de 12 000 d'entre elles ont parcouru le centre-ville de La Roche-sur-Yon.**\n\n## Une semaine dans tout le département\n\nDu 26 septembre au 3 octobre, plus de 6 000 femmes ont couru ou marché dans les 143 communes vendéennes partenaires. La dernière étape avait lieu dimanche matin à La Roche-sur-Yon, au départ de la place de la Vendée, sur un parcours de 5 km.\n\n## 160 261 € reversés\n\nÀ l'issue de la matinée, un chèque de 160 261 € a été remis à la Ligue contre le cancer.\n\n## Un hommage à sa fondatrice\n\nCette édition était marquée par l'hommage rendu à Béatrice Bellamy, à l'origine de La Joséphine, décédée en mai dernier. Autre nouveauté : le tee-shirt rose n'est plus millésimé, pour pouvoir être porté d'une année sur l'autre. Les Joséphine de Drummondville, au Québec, ville partenaire de La Roche-sur-Yon, ont couru le même jour."
+  "sources": [
+   {
+    "nom": "Ville de La Roche-sur-Yon",
+    "lien": "https://larochesuryon.fr/actualites/18-429-josephine/"
+   },
+   {
+    "nom": "Ville de La Roche-sur-Yon (29 septembre)",
+    "lien": "https://larochesuryon.fr/actualites/rejoignez-la-vague-rose-de-la-josephine/"
+   },
+   {
+    "nom": "Le Reporter sablais",
+    "lien": "https://www.lereportersablais.com/la-roche-sur-yon-vendee-12eme-edition-la-josephine-revient-le-dim-4-octobre-2026-red-les-sables-dolonne-2/"
+   },
+   {
+    "nom": "Ouest-France",
+    "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/direct-josephine-a-la-roche-sur-yon-un-hommage-rendu-a-beatrice-bellamy-devant-des-milliers-de-femmes-fda555d2-ba3f-4887-bf78-d9c0e4ba0d9b"
+   },
+   {
+    "nom": "Alouette",
+    "lien": "https://www.alouette.fr/la-josephine-2026-la-roche-sur-yon-hommage-beatrice-bellamy"
+   }
+  ],
+  "article": "**La 12e édition de La Joséphine a réuni 18 429 participantes en Vendée, dont plus de 12 000 dans les rues de La Roche-sur-Yon le dimanche 4 octobre. C'est moins que lors des éditions précédentes. Les dons reversés à la Ligue contre le cancer s'élèvent à 160 261 €.**\n\n## Les chiffres des dernières années\n\n| Édition | Participantes |\n| --- | --- |\n| 2022 | 21 379 |\n| 2024 | 23 000 (record annoncé) |\n| 2025 | plus de 20 000, selon la Ville |\n| 2026 | 18 429 |\n\nEn 2026, plus de 6 000 femmes ont participé dans les 143 communes vendéennes partenaires, du 26 septembre au 3 octobre. Les autres ont couru ou marché à La Roche-sur-Yon le 4 octobre.\n\n## Ce qui a changé cette année\n\n- Le tee-shirt rose n'est plus millésimé, pour pouvoir être porté d'une édition à l'autre.\n- Des élues de la nouvelle majorité ont soulevé la présence possible de perturbateurs endocriniens dans les tee-shirts. La municipalité souhaite des tee-shirts fabriqués dans l'Union européenne pour 2027.\n- L'édition était la première depuis le décès, en mai, de Béatrice Bellamy, députée et conseillère municipale, créatrice de La Joséphine en 2015. Un hommage lui a été rendu en présence de sa famille et de la présidente de l'Assemblée nationale, Yaël Braun-Pivet.\n\n## La question qui reste posée\n\nNi la Ville ni les organisateurs n'ont, à notre connaissance, avancé d'explication à cette baisse de fréquentation."
  },
  {
   "date": "2026-10-09 10:00",
   "titre": "L'Agglo emprunte 8 millions d'euros sur 15 ans pour une station d'épuration",
   "categorie": "Agglo",
   "sources": [
-   {"nom": "Ma Ville Solidaire", "lien": "https://mavillesolidaire.fr/index.php/environnement/la-roche-sur-yon-agglomeration-emprunte-8-millions-deuros-pour-une-station-depuration"},
-   {"nom": "Registre des actes de la Ville et de l'Agglomération", "lien": "https://actes.larochesuryon.fr/"}
+   {
+    "nom": "Ma Ville Solidaire",
+    "lien": "https://mavillesolidaire.fr/index.php/environnement/la-roche-sur-yon-agglomeration-emprunte-8-millions-deuros-pour-une-station-depuration"
+   },
+   {
+    "nom": "Registre des actes de la Ville et de l'Agglomération",
+    "lien": "https://actes.larochesuryon.fr/"
+   }
   ],
   "article": "**La Roche-sur-Yon Agglomération contracte un emprunt de 8 millions d'euros, remboursable sur quinze ans, pour financer une station d'épuration. La décision a été publiée le 6 octobre au registre des actes de la Ville et de l'Agglomération, sous la référence 2026-Agglo-0340.**\n\n## Un acte publié au registre\n\nLa décision prend la forme d'un arrêté, consultable sur le portail des actes administratifs de la Ville et de l'Agglomération. Les actes y restent en ligne deux mois après leur publication.\n\n## Ce qu'il faudra suivre\n\nLe remboursement s'étalera sur quinze ans. Selon Ma Ville Solidaire, l'évolution de la redevance d'assainissement payée par les usagers sera à surveiller."
  },
@@ -25,9 +50,14 @@
   "date": "2026-10-15 11:00",
   "titre": "Contrat de ville : les associations ont jusqu'au 15 décembre pour déposer leurs projets",
   "categorie": "Municipal",
-  "autres_rubriques": ["Société"],
+  "autres_rubriques": [
+   "Société"
+  ],
   "sources": [
-   {"nom": "Ville de La Roche-sur-Yon", "lien": "https://larochesuryon.fr/actualites/contrat-de-ville/"}
+   {
+    "nom": "Ville de La Roche-sur-Yon",
+    "lien": "https://larochesuryon.fr/actualites/contrat-de-ville/"
+   }
   ],
   "article": "**L'appel à projets du Contrat de ville « Engagements quartiers 2030 » est ouvert du 15 octobre au 15 décembre 2026. Il concerne les actions qui seront menées en 2027 dans les quartiers prioritaires de La Roche-sur-Yon.**\n\n## Qui peut déposer ?\n\nToute personne morale de droit public ou privé : associations, établissements publics, coopératives ou fondations. Le projet doit concerner un quartier prioritaire de la ville, comme Jean-Yole/Les Pyramides ou La Liberté/Zola.\n\n## Les thèmes retenus\n\n- des quartiers en transition ;\n- des quartiers acteurs de la citoyenneté ;\n- des quartiers plus tranquilles et plus sûrs ;\n- la jeunesse, la réussite éducative et la parentalité ;\n- l'accès à la culture, à la santé, au sport et au numérique.\n\n## Comment faire ?\n\nLes bilans 2026 et les demandes de subvention 2027 se déposent en ligne sur le portail Dauphin, avant le 15 décembre."
  },
@@ -36,9 +66,18 @@
   "titre": "Ligue 3 : première défaite de la saison pour le Vendée FC La Roche, renversé à Caen",
   "categorie": "Sport",
   "sources": [
-   {"nom": "FFF", "lien": "https://www.fff.fr/article/17587-caen-renverse-la-roche.html"},
-   {"nom": "Ouest-France", "lien": "https://www.ouest-france.fr/sport/football/la-roche-vendee/ligue-3-la-tristesse-est-mesuree-defait-pour-la-premiere-fois-a-caen-le-vendee-fc-la-roche-loin-detre-abattu-4ea885ba-c948-11f1-b8bc-a46147b584ed"},
-   {"nom": "Foot Mercato", "lien": "https://www.footmercato.net/live/1231821175610946116-caen-vs-la-roche-sur-yon-vf"}
+   {
+    "nom": "FFF",
+    "lien": "https://www.fff.fr/article/17587-caen-renverse-la-roche.html"
+   },
+   {
+    "nom": "Ouest-France",
+    "lien": "https://www.ouest-france.fr/sport/football/la-roche-vendee/ligue-3-la-tristesse-est-mesuree-defait-pour-la-premiere-fois-a-caen-le-vendee-fc-la-roche-loin-detre-abattu-4ea885ba-c948-11f1-b8bc-a46147b584ed"
+   },
+   {
+    "nom": "Foot Mercato",
+    "lien": "https://www.footmercato.net/live/1231821175610946116-caen-vs-la-roche-sur-yon-vf"
+   }
   ],
   "article": "**Invaincu depuis le début de la saison de Ligue 3, le Vendée FC La Roche a concédé sa première défaite jeudi 15 octobre, au stade Michel-d'Ornano. Le SM Caen s'est imposé 2-1 en marquant deux fois dans les dernières minutes.**\n\n## Le match\n\nLes Yonnais ont ouvert le score à la 39e minute par Mansour Samb, son huitième but de la saison. Dominés dans le jeu, ils ont tenu l'avantage jusqu'à la 83e minute. Mathis Daffot a égalisé, puis Keelyan Portut a donné la victoire aux Normands à la 88e.\n\n## Toujours en tête\n\nMalgré cette défaite lors de la 10e journée, les joueurs de Frédéric Reculeau restent leaders du championnat. Avant ce match, ils s'étaient imposés lors de leurs trois rencontres précédentes contre Valenciennes, Thionville et Aubagne, à chaque fois après avoir été menés au score."
  },
@@ -47,9 +86,18 @@
   "titre": "Festival international du film : 28 449 spectateurs et un Grand Prix pour « Tristan Forever »",
   "categorie": "Culture",
   "sources": [
-   {"nom": "Ouest-France", "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/frequentation-rencontres-nouveau-public-bilan-positif-pour-le-festival-international-du-film-de-la-roche-sur-yon-d88c6822-cc87-11f1-bf87-17eca79cb13c"},
-   {"nom": "Vendée Info", "lien": "https://vendeeinfo.fr/10/28/vendee-le-festival-international-du-film-de-la-roche-sur-yon-attire-28-449-visiteurs-en-2026/16678"},
-   {"nom": "Critique Film", "lien": "https://www.critique-film.fr/la-roche-sur-yon-2026-palmares-bilan/"}
+   {
+    "nom": "Ouest-France",
+    "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/frequentation-rencontres-nouveau-public-bilan-positif-pour-le-festival-international-du-film-de-la-roche-sur-yon-d88c6822-cc87-11f1-bf87-17eca79cb13c"
+   },
+   {
+    "nom": "Vendée Info",
+    "lien": "https://vendeeinfo.fr/10/28/vendee-le-festival-international-du-film-de-la-roche-sur-yon-attire-28-449-visiteurs-en-2026/16678"
+   },
+   {
+    "nom": "Critique Film",
+    "lien": "https://www.critique-film.fr/la-roche-sur-yon-2026-palmares-bilan/"
+   }
   ],
   "article": "**La 17e édition du Festival international du film de La Roche-sur-Yon, du 12 au 18 octobre, a accueilli 28 449 spectateurs, contre 28 220 l'an dernier. Les organisateurs la placent parmi les meilleures éditions du festival.**\n\n## Le palmarès\n\n- **Grand Prix du jury international** : *Tristan Forever*, de Tobias Nölle et Loran Bonnardot. Le prix s'accompagne d'une acquisition du film par Ciné+ OCS.\n- **Prix spécial du jury** : *Radio Bonheur*, de Valéry Rosier.\n- **Prix du public** : *Naza*.\n\n## Un temps fort\n\nLa projection en présence du réalisateur Jean-Pierre Jeunet a réuni 815 personnes dans une salle du Manège pleine. Plus de cent films étaient programmés, dont une rétrospective consacrée au cinéaste mauritanien Abderrahmane Sissako.\n\n## Et l'an prochain ?\n\nLa 18e édition est déjà programmée du 18 au 24 octobre 2027."
  },
@@ -57,11 +105,22 @@
   "date": "2026-10-27 10:00",
   "titre": "Le Bus de Noël collecte des jouets dans les 13 communes de l'Agglo jusqu'au 25 novembre",
   "categorie": "Agglo",
-  "autres_rubriques": ["Société"],
+  "autres_rubriques": [
+   "Société"
+  ],
   "sources": [
-   {"nom": "Ville de La Roche-sur-Yon", "lien": "https://larochesuryon.fr/actualites/le-bus-de-noel-de-retour-dans-lagglo/"},
-   {"nom": "Ouest-France", "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/le-bus-de-noel-de-retour-dans-lagglomeration-de-la-roche-sur-yon-pour-collecter-un-maximum-de-jouets-004a07ea-d14f-11f1-95ba-26d2045f6620"},
-   {"nom": "impulsyon", "lien": "https://www.impulsyon.fr/"}
+   {
+    "nom": "Ville de La Roche-sur-Yon",
+    "lien": "https://larochesuryon.fr/actualites/le-bus-de-noel-de-retour-dans-lagglo/"
+   },
+   {
+    "nom": "Ouest-France",
+    "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/le-bus-de-noel-de-retour-dans-lagglomeration-de-la-roche-sur-yon-pour-collecter-un-maximum-de-jouets-004a07ea-d14f-11f1-95ba-26d2045f6620"
+   },
+   {
+    "nom": "impulsyon",
+    "lien": "https://www.impulsyon.fr/"
+   }
   ],
   "article": "**Pour la neuvième année, La Roche-sur-Yon Agglomération relance son Bus de Noël. Du 4 au 25 novembre, un bus impulsyon aux couleurs de l'opération s'arrête dans chacune des 13 communes de l'agglomération pour collecter des jouets.**\n\n## À qui vont les jouets ?\n\nLes dons sont remis aux familles accompagnées par cinq associations partenaires : la Croix-Rouge française, le Secours catholique, la Fédération des œuvres laïques, le Secours populaire et Face Vendée.\n\n## Ce qu'il faut savoir\n\n- Les jouets doivent être **en bon état**.\n- Les **peluches ne sont pas acceptées**.\n- Pendant toute l'opération, les jouets peuvent aussi être déposés à l'espace impulsyon, galerie de l'Empire, place Napoléon.\n\nLes horaires de passage dans chaque commune sont publiés sur le site de la Ville et de l'Agglomération et sur celui d'impulsyon."
  },
@@ -70,9 +129,18 @@
   "titre": "Les Spectaculaires : quatre jours de théâtre amateur au centre-ville du 29 octobre au 1er novembre",
   "categorie": "Culture",
   "sources": [
-   {"nom": "Ville de La Roche-sur-Yon", "lien": "https://larochesuryon.fr/actualites/les-spectaculaires-le-rendez-vous-du-theatre-amateur-a-la-roche/"},
-   {"nom": "TV Vendée", "lien": "https://tvvendee.fr/actu/la-roche-sur-yon-les-spectaculaires-4-jours-de-fete-pour-decouvrir-le-spectacle-vivant/"},
-   {"nom": "Ouest-France", "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/cinq-infos-sur-le-festival-de-theatre-amateur-les-spectaculaires-de-la-roche-sur-yon-a3c6f396-d11e-11f1-95ba-26d2045f6620"}
+   {
+    "nom": "Ville de La Roche-sur-Yon",
+    "lien": "https://larochesuryon.fr/actualites/les-spectaculaires-le-rendez-vous-du-theatre-amateur-a-la-roche/"
+   },
+   {
+    "nom": "TV Vendée",
+    "lien": "https://tvvendee.fr/actu/la-roche-sur-yon-les-spectaculaires-4-jours-de-fete-pour-decouvrir-le-spectacle-vivant/"
+   },
+   {
+    "nom": "Ouest-France",
+    "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/cinq-infos-sur-le-festival-de-theatre-amateur-les-spectaculaires-de-la-roche-sur-yon-a3c6f396-d11e-11f1-95ba-26d2045f6620"
+   }
   ],
   "article": "**La 13e édition du festival Les Spectaculaires se tient du jeudi 29 octobre au dimanche 1er novembre à La Roche-sur-Yon. Au programme : onze spectacles de troupes amateurs, de la danse, des concerts, des rencontres et des stages.**\n\n## Un festival tous les deux ans\n\nLe festival a été créé en 2000 par L'Écarquille Théâtre, une troupe yonnaise de théâtre amateur fondée en 1980. Il revient tous les deux ans. Cette édition a pour marraine l'actrice Ophélie Lehmann, qui a fait ses débuts dans la troupe.\n\n## Où et quand ?\n\n- **Ouverture** jeudi 29 octobre à 18 h, place du Théâtre, avec *Les Égarés du conte*. Gratuit. En cas de pluie, le spectacle a lieu dans l'atrium de l'Hôtel de ville.\n- Les représentations ont lieu au Cyel, au théâtre municipal et au Temple.\n\nLa plupart des rendez-vous sont gratuits ou à petit prix. Le programme complet est sur le site de L'Écarquille Théâtre."
  },
@@ -81,7 +149,10 @@
   "titre": "Rink-hockey : deux joueurs de La Vendéenne champions du monde avec l'équipe de France",
   "categorie": "Sport",
   "sources": [
-   {"nom": "Ville de La Roche-sur-Yon", "lien": "https://larochesuryon.fr/actualites/deux-yonnais-champions-du-monde/"}
+   {
+    "nom": "Ville de La Roche-sur-Yon",
+    "lien": "https://larochesuryon.fr/actualites/deux-yonnais-champions-du-monde/"
+   }
   ],
   "article": "**L'équipe de France de rink-hockey a remporté le premier titre de championne du monde de son histoire, le dimanche 18 octobre à Asunción, au Paraguay, en battant l'Argentine en finale. Deux joueurs de La Vendéenne, le club yonnais, faisaient partie de l'équipe : Nathan Gefflot et Stan Vankammelbecke.**\n\n## Un premier titre mondial\n\nC'est la première coupe du monde remportée par le rink-hockey français. Les deux Yonnais ont retrouvé à leur retour le parquet de l'Angelmière, où s'entraînent les jeunes joueurs de La Vendéenne.\n\n## Un exemple pour la relève\n\nPour les deux champions, ce titre doit surtout montrer aux plus jeunes du club qu'un tel résultat est à leur portée."
  },
@@ -90,7 +161,10 @@
   "titre": "Festival des Solidarités : 37 rendez-vous jusqu'au 5 décembre à La Roche-sur-Yon et dans l'Agglo",
   "categorie": "Société",
   "sources": [
-   {"nom": "Festival des Solidarités", "lien": "https://www.festivaldessolidarites.org/evenements/festival-des-solidarites-2026-a-la-roche-sur-yon-son-agglomeration/"}
+   {
+    "nom": "Festival des Solidarités",
+    "lien": "https://www.festivaldessolidarites.org/evenements/festival-des-solidarites-2026-a-la-roche-sur-yon-son-agglomeration/"
+   }
   ],
   "article": "**Le Festival des Solidarités revient à La Roche-sur-Yon et dans son agglomération du 30 octobre au 5 décembre. Il est organisé par un collectif de 37 organisations, qui proposent 37 activités dans trois communes.**\n\n## Qui organise ?\n\nLe collectif réunit des associations, des structures culturelles et les villes de La Roche-sur-Yon et d'Aubigny-Les Clouzeaux.\n\n## Au programme\n\nAteliers, concerts, conférences, expositions, projections et rencontres autour de la solidarité, en France et à l'international. Cette année, un nouveau forum veut inciter les jeunes Vendéens à s'engager.\n\nLe programme détaillé, date par date, est disponible sur le site du Festival des Solidarités."
  },
@@ -99,7 +173,10 @@
   "titre": "Ligue 3 : le Vendée FC La Roche bat Bourg-en-Bresse (2-0) et garde la tête",
   "categorie": "Sport",
   "sources": [
-   {"nom": "Ouest-France", "lien": "https://www.ouest-france.fr/sport/football/la-roche-vendee/"}
+   {
+    "nom": "Ouest-France",
+    "lien": "https://www.ouest-france.fr/sport/football/la-roche-vendee/"
+   }
   ],
   "article": "**Le Vendée FC La Roche reste leader de Ligue 3 après sa victoire 2-0 contre Bourg-en-Bresse, samedi 31 octobre, lors de la 11e journée.**\n\n## Une seconde mi-temps décisive\n\nGênés en première période par une équipe de Bourg-en-Bresse très regroupée en défense, les Yonnais ont fait la différence au retour des vestiaires. Les deux buts sont tombés en sept minutes. Moïse Mahop est à l'origine des deux, avec deux passes décisives.\n\n## La réaction\n\nL'entraîneur Frédéric Reculeau a salué une deuxième mi-temps bien plus aboutie que la première."
  },
@@ -108,27 +185,54 @@
   "titre": "Sécheresse : les retenues d'eau de Vendée à 33,5 %, le remplissage des plans d'eau interdit",
   "categorie": "Vendée",
   "sources": [
-   {"nom": "Ma Ville Solidaire", "lien": "https://www.mavillesolidaire.fr/index.php/home/environnement/secheresse-en-vendee-le-remplissage-des-plans-deau-interdit-jusquau-30-novembre"},
-   {"nom": "Vendée Eau", "lien": "https://www.vendee-eau.fr/secheresse-ou-en-est-on-en-vendee-2/"}
+   {
+    "nom": "Ma Ville Solidaire",
+    "lien": "https://www.mavillesolidaire.fr/index.php/home/environnement/secheresse-en-vendee-le-remplissage-des-plans-deau-interdit-jusquau-30-novembre"
+   },
+   {
+    "nom": "Vendée Eau",
+    "lien": "https://www.vendee-eau.fr/secheresse-ou-en-est-on-en-vendee-2/"
+   }
   ],
   "article": "**Malgré les pluies d'octobre, les réserves d'eau potable de Vendée restent basses. Au 1er novembre, les retenues de Vendée Eau n'étaient remplies qu'à 33,5 %. Le préfet a interdit le remplissage de tous les plans d'eau du département jusqu'au 30 novembre.**\n\n## Pourquoi c'est sensible en Vendée\n\nEn Vendée, 94 % de l'eau potable provient des retenues d'eau, c'est-à-dire des barrages. Quand elles baissent, c'est l'alimentation en eau du robinet qui est en jeu.\n\n## Ce qui s'applique\n\nLe département est placé en **alerte renforcée** depuis le 30 octobre pour l'eau du réseau public. Les restrictions d'usage de l'eau potable, renforcées depuis l'été, restent en vigueur. Le détail par usage est consultable sur le site des services de l'État en Vendée."
  },
  {
-  "date": "2026-11-12 20:00",
-  "titre": "Étourneaux : trois nuits de fauconnerie dans le Pentagone, jusqu'à 240 000 oiseaux comptés",
+  "date": "2026-11-20 10:00",
+  "titre": "Étourneaux : riverains à bout, deux campagnes d'effarouchement en 2026, quelles suites ?",
   "categorie": "Municipal",
   "sources": [
-   {"nom": "Ouest-France", "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/rapaces-lumieres-fusees-a-la-roche-sur-yon-entre-180-000-a-240-000-etourneaux-cibles-par-leffarouchement-7cdd80a0-de71-11f1-86b6-0a2fbb1d8ed9"},
-   {"nom": "Ma Ville Solidaire", "lien": "https://www.mavillesolidaire.fr/index.php/home/environnement/la-roche-sur-yon-campagne-deffarouchement-des-etourneaux-du-10-au-12-novembre-2026"}
+   {
+    "nom": "Ouest-France (9 novembre)",
+    "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/on-nen-peut-plus-a-la-roche-sur-yon-des-habitants-se-reunissent-pour-tenter-de-faire-fuir-les-etourneaux-59a3e7ea-dc29-11f1-81f5-8e32b0872d76"
+   },
+   {
+    "nom": "Ouest-France (campagne)",
+    "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/la-ville-de-la-roche-sur-yon-va-proceder-a-une-campagne-deffarouchement-pour-faire-fuir-pres-de-50-000-etourneaux-1d7d9db8-dc62-11f1-a45f-49114163a350"
+   },
+   {
+    "nom": "Ouest-France (bilan)",
+    "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/rapaces-lumieres-fusees-a-la-roche-sur-yon-entre-180-000-a-240-000-etourneaux-cibles-par-leffarouchement-7cdd80a0-de71-11f1-86b6-0a2fbb1d8ed9"
+   },
+   {
+    "nom": "Ma Ville Solidaire (juillet)",
+    "lien": "https://www.mavillesolidaire.fr/actualite/post/2393-la-roche-sur-yon-des-fauconniers-mobilises-pour-eloigner-les-etourneaux-du-centre-ville.html"
+   },
+   {
+    "nom": "Infos Média Nantes",
+    "lien": "https://infos-media-nantes.fr/la-roche-sur-yon-etourneaux-campagne-effarouchement-fauconniers-novembre-2026/"
+   }
   ],
-  "article": "**Du mardi 10 au jeudi 12 novembre, la Ville a mené une campagne d'effarouchement des étourneaux dans le centre de La Roche-sur-Yon. Selon la société chargée de l'opération, entre 180 000 et 240 000 oiseaux ont été comptés le premier soir.**\n\n## Comment ça marche ?\n\nTrois fauconniers et trois buses de Harris sont intervenus de 17 h à 3 h du matin sur l'ensemble du Pentagone, boulevard d'Angleterre et place Simone-Veil. Des fusées pyrotechniques complétaient le dispositif. L'objectif est de pousser les oiseaux, en grande partie migrateurs, à reprendre leur route.\n\n## Pourquoi ?\n\nLes riverains et commerçants se plaignent du bruit et des déjections. Avant la campagne, des habitants de la place de la Vendée s'étaient même réunis chaque soir pour tenter de les faire fuir. La Ville évoque aussi un enjeu de salubrité. Selon Ouest-France, les effets étaient visibles dès le deuxième soir."
+  "article": "**Bruit et déjections : dans le Pentagone, les étourneaux exaspèrent riverains et commerçants. Des habitants se réunissent chaque soir pour tenter de les faire fuir. La Ville a mené deux campagnes d'effarouchement cette année. Plusieurs habitants les jugent trop tardives.**\n\n## Des habitants qui s'organisent\n\nPlace de la Vendée, des résidents de l'immeuble Prim'Yon ont commencé à se retrouver quotidiennement pour chasser eux-mêmes les oiseaux. Riverains et commerçants décrivent un quotidien marqué par le bruit et les déjections.\n\n## Ce qu'a fait la Ville\n\n- **Juillet (21 au 23)** : une première campagne avec trois fauconniers de la société Phoenix Effarouchement, sur les dortoirs des boulevards du Pentagone.\n- **Novembre (10 au 12)** : une deuxième campagne, de 17 h à 3 h du matin, sur tout le Pentagone, le boulevard d'Angleterre et la place Simone-Veil. Trois fauconniers, trois buses de Harris, des fusées pyrotechniques et des patrouilles sur les dortoirs secondaires.\n\n## Combien d'oiseaux ?\n\nAvant la campagne, la Ville estimait la population à environ 50 000 étourneaux, en grande partie migrateurs. L'opérateur en a compté entre 180 000 et 240 000 le premier soir.\n\n## Et après ?\n\nLa Ville met en avant un enjeu de salubrité. À ce jour, nous n'avons pas trouvé trace d'autres mesures annoncées publiquement, au-delà de ces campagnes ponctuelles. Reste à savoir si la municipalité envisage d'autres solutions d'ici le retour des oiseaux."
  },
  {
   "date": "2026-11-19 10:00",
   "titre": "Place du Marché, le café gonflé devient le café fripon, un coffee-shop ouvert aux chiens",
   "categorie": "Économie",
   "sources": [
-   {"nom": "Ouest-France", "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/a-la-roche-sur-yon-le-cafe-gonfle-devient-cafe-fripon-et-ouvre-a-nouveau-ses-portes-place-des-halles-d3927ba6-e4c2-11f1-afa7-9a0bb82a33d1"}
+   {
+    "nom": "Ouest-France",
+    "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/a-la-roche-sur-yon-le-cafe-gonfle-devient-cafe-fripon-et-ouvre-a-nouveau-ses-portes-place-des-halles-d3927ba6-e4c2-11f1-afa7-9a0bb82a33d1"
+   }
   ],
   "article": "**Après deux mois de travaux, le café gonflé, connu pour ses brioches, a rouvert le mercredi 18 novembre sous un nouveau nom : le café fripon. Il s'adresse toujours aux amateurs de café, et désormais aussi aux propriétaires de chiens.**\n\n## Un concept « dog-friendly »\n\nLa gérante, Julie Roussel, a transformé son café brioche en café canin. Les chiens y sont les bienvenus avec leurs maîtres. Selon elle, le centre-ville de La Roche-sur-Yon est prêt à accueillir des commerces de ce type.\n\n## Où ?\n\nLe café se trouve dans le quartier des Halles, place du Marché, à côté du marché couvert, dans une rue piétonne."
  },
@@ -136,28 +240,50 @@
   "date": "2026-11-22 18:00",
   "titre": "Ex-usine Michelin : le projet Atinéa change de cap et les travaux sont repoussés à 2027",
   "categorie": "Économie",
-  "autres_rubriques": ["Agglo"],
+  "autres_rubriques": [
+   "Agglo"
+  ],
   "sources": [
-   {"nom": "Ouest-France", "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/on-souhaite-que-ce-soit-une-locomotive-la-roche-sur-yon-fait-evoluer-la-reconversion-de-lex-usine-michelin-65ce729c-e3fe-11f1-a3b1-0c6de532ce7d"}
+   {
+    "nom": "Ouest-France",
+    "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/on-souhaite-que-ce-soit-une-locomotive-la-roche-sur-yon-fait-evoluer-la-reconversion-de-lex-usine-michelin-65ce729c-e3fe-11f1-a3b1-0c6de532ce7d"
+   }
   ],
   "article": "**La reconversion de l'ancienne usine Michelin de La Roche-sur-Yon évolue. Le projet Atinéa, jusqu'ici centré sur les énergies renouvelables et les mobilités innovantes, accueillera plus largement des entreprises technologiques de la transition écologique. Le début des travaux passe de fin 2026 à juillet 2027.**\n\n## Ce qui change\n\nL'ancienne majorité de l'agglomération voulait faire du site un pôle consacré aux énergies renouvelables et aux nouvelles mobilités. Les élus de la nouvelle majorité, issue des élections de mars 2026, ont élargi son objet à l'ensemble des technologies liées à la transition écologique.\n\n## Le calendrier\n\nLe démarrage du chantier, prévu fin 2026, est repoussé à juillet 2027. À terme, le site pourra accueillir une trentaine d'entreprises."
  },
  {
-  "date": "2026-11-23 20:00",
-  "titre": "Église Saint-Louis : la suite de la rénovation programmée pour fin 2027",
+  "date": "2026-11-24 07:00",
+  "titre": "Église Saint-Louis : 5,25 millions d'euros de travaux restent à engager, la reprise annoncée pour fin 2027",
   "categorie": "Municipal",
   "sources": [
-   {"nom": "Ouest-France", "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/apres-un-nouveau-report-la-ville-de-la-roche-sur-yon-fait-une-annonce-a-propos-des-travaux-de-leglise-saint-louis-88d249f4-e72c-11f1-bd4e-6f30b8f49e21"},
-   {"nom": "Ouest-France (avril 2026)", "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/audit-externe-investissements-reduits-la-nouvelle-majorite-de-la-roche-sur-yon-entre-choix-politiques-et-heritage-d2aaf3b4-3a6b-11f1-a950-0332529e658c"}
+   {
+    "nom": "Ouest-France",
+    "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/apres-un-nouveau-report-la-ville-de-la-roche-sur-yon-fait-une-annonce-a-propos-des-travaux-de-leglise-saint-louis-88d249f4-e72c-11f1-bd4e-6f30b8f49e21"
+   },
+   {
+    "nom": "Ville de La Roche-sur-Yon — page Église Saint-Louis",
+    "lien": "https://larochesuryon.fr/eglise-saint-louis/"
+   },
+   {
+    "nom": "Ouest-France (avril 2026)",
+    "lien": "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/audit-externe-investissements-reduits-la-nouvelle-majorite-de-la-roche-sur-yon-entre-choix-politiques-et-heritage-d2aaf3b4-3a6b-11f1-a950-0332529e658c"
+   },
+   {
+    "nom": "Délibération du conseil municipal du 15 avril 2026",
+    "lien": "https://larochesuryon.fr/app/uploads/2026/04/delib_cm_15avr26.pdf"
+   }
   ],
-  "article": "**La troisième tranche des travaux de rénovation de l'église Saint-Louis devrait débuter fin 2027. C'est ce qu'a annoncé le maire, Romain Bossis, après un nouveau report de ce chantier engagé depuis 2017.**\n\n## Un chantier reporté\n\nEn avril 2026, la nouvelle majorité municipale avait décidé de reporter plusieurs projets, dont la création du musée et la rénovation de l'église, le temps de « sécuriser la situation financière » de la Ville.\n\n## Ce qui reste à faire\n\nLes travaux prévus dans l'église portent notamment sur la rénovation du chœur et sur un nouvel éclairage de la nef. Le calendrier détaillé et le coût de la prochaine phase n'ont pas été précisés."
+  "article": "**La troisième tranche de rénovation de l'église Saint-Louis devrait commencer fin 2027, a annoncé le maire, Romain Bossis, après un nouveau report. Selon la Ville, les deux dernières phases du chantier représentent 5,25 millions d'euros TTC. La question est désormais de savoir quand et comment elles seront financées.**\n\n## Où en est le chantier ?\n\nLa rénovation a été lancée en 2017. Selon le calendrier publié par la Ville :\n\n- **Phase 1 (2017-2019)** : mise en sécurité et restauration de la sacristie, 645 000 € TTC ;\n- **Phase 2 (2021-2024)** : chauffage, couverture, charpente, beffrois et sécurité incendie, 2,85 M€ TTC ;\n- **Phase 3** : restauration du chœur et des deux chapelles latérales, 1,75 M€ TTC prévus ;\n- **Phase 4** : 3,5 M€ TTC prévus. Elle doit notamment permettre de nettoyer la voûte de la nef, abîmée par l'ancien chauffage au gaz.\n\nLe calendrier des phases 3 et 4 est indiqué comme « en cours de définition ».\n\n## Pourquoi le report ?\n\nEn avril 2026, la nouvelle majorité a décidé de reporter plusieurs investissements, dont la rénovation de l'église et la création du musée. Elle disait vouloir d'abord « sécuriser la situation financière » de la Ville.\n\n## Ce qu'il faudra regarder\n\nSelon le calendrier budgétaire présenté au conseil municipal en avril, le débat d'orientations budgétaires a lieu en novembre et le budget primitif est voté en décembre. Ces documents diront si des crédits sont prévus pour l'église en 2027, et pour quel montant. Le chantier bénéficie déjà d'aides de l'État : 324 800 € de la DRAC et 571 375 € au titre de la dotation de soutien à l'investissement local.\n\n## Un objectif de bicentenaire\n\nL'église, consacrée en 1829, devait initialement être livrée restaurée pour son bicentenaire, en 2029-2030."
  },
  {
   "date": "2026-11-24 09:00",
   "titre": "Sécheresse : les restrictions d'eau levées en Vendée, sauf pour certains plans d'eau",
   "categorie": "Vendée",
   "sources": [
-   {"nom": "Services de l'État en Vendée", "lien": "https://www.vendee.gouv.fr/Actions-de-l-Etat/Environnement/Eau-et-Nature/Eau/Secheresse-et-ressource-en-eau-en-Vendee"}
+   {
+    "nom": "Services de l'État en Vendée",
+    "lien": "https://www.vendee.gouv.fr/Actions-de-l-Etat/Environnement/Eau-et-Nature/Eau/Secheresse-et-ressource-en-eau-en-Vendee"
+   }
   ],
   "article": "**Les restrictions d'usage de l'eau sont levées en Vendée depuis le mardi 24 novembre à 8 h. Une seule interdiction est maintenue jusqu'au 30 novembre : le remplissage des plans d'eau situés en amont des barrages d'eau potable.**\n\n## Ce qui change\n\nLes mesures de limitation qui s'appliquaient depuis l'été sont abrogées par arrêté préfectoral. Les arrêtés ont aussi été publiés sur le portail des actes de la Ville et de l'Agglomération de La Roche-sur-Yon.\n\n## Ce qui reste interdit\n\nJusqu'au 30 novembre, le remplissage des plans d'eau reste interdit, quel que soit l'usage ou le mode d'alimentation, dans les zones situées en amont d'un barrage d'eau potable. Les arrêtés sont consultables sur le site des services de l'État en Vendée."
  }
