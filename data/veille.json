@@ -1,5 +1,105 @@
 [
  {
+  "id": "04aea8e9ce38",
+  "date": "2026-11-25 09:20",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Cabarets de Carpe Diem",
+  "lien": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS1VNNEpsd1BGYmdRNjB6b3NDQkFkTlc1Y0Z5ektJc09ITktLT2Z0RkZ6WlU0MktpSk5uNlhNQ2Fyc0dpOU5GeUFaTTZ6VkdiTGt0ZHF3VnZLWnZYRWNiN0dtblRCLXZnOWIwYWlEWTNSV1NzMGlJOGE3ZGpEWXlDdGhRMmdndWtySVB3a1p2bEVoRVdzV2dwdlVfV1dad2ZUQkxYYTNjTUhJN0RBNjVMMV9vLVh6Q1RqRXVsaE0zOV9BTHczdFlhVEZubzhtVFdaby1EQ2Q3NURtbVVpdFRYRHE1WXhCRGFBX2JzbQ?oc=5",
+  "pdf": "",
+  "résumé": "Cabarets de Carpe Diem &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "8123a288a790",
+  "date": "2026-11-25 09:16",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Rendez-vous des Prog'amateurs - La famille",
+  "lien": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQY3RnQ05aUWc4czdBZkZ1TUIwbHg5VzdsR1NkbG0tRkE2NVJxeVJ6ZEVPWHI2dkFjdVp6c3RmMF85QjN1X194NmVWcVhxeHlyVkJaejRnMzBfcjkwWkpIbXpGMXpranN4bG5xd1B5dmg2Mnc4OV9mTkdRMFU2eVBsMzNmWk9ScS10YWVPTEhWUkN1ME1NbzlOdHhUWGpCNFZIeG5uZk1Od0R0SDdmMWdiRHpIX2NuejZreXdRQ3dkdWFUcU4xeEVQeDBkdmt6NGU4M3FTSGlLckZjR1RITFF6OFcyR2RXTlNyQzRYY2N1TQ?oc=5",
+  "pdf": "",
+  "résumé": "Rendez-vous des Prog'amateurs - La famille &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "63d9f8e49740",
+  "date": "2026-11-25 09:12",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Marché de Noël",
+  "lien": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcDNMQmt4TjZfcEpsMGNIVS1qMzJaMFd4cmlTS3NqMlJaQzhOS2VscFRYcHZydlFGelpBR29SQjFKY2licjRoMDRxb2RrNUM5bnZqYU1RRzRNVkRDRWh1SVVCYUYyLTZrQnN0TmhwV1lQZE5YdnBET21wMW9mY3BuU3FiR0F6ZGZ1aEkyRnlneDNRN2hVWjVXc0cwU3UwSXF6cl9Ia2RYZGVjdnE5Mm1hbFR4a1FlQXRLVTlQREtiandLSDhsam9hWmN5WFRQTS1CRTh6ZHVfSjVJOVpwMmZ3S2FVZ09CcDFSUEs2VEhEanZNX0tW?oc=5",
+  "pdf": "",
+  "résumé": "Marché de Noël &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "9ca6fac13185",
+  "date": "2026-11-25 09:04",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Annulation loto",
+  "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbl9yYjgteHp5SVdOYmc3R3l2anNIaDM2ZDNKVndydk1ZYnRjaC05YkZFN0FlVDRGUnJRUzZXcmpWTkxsVVVUYkNpc2tMdjlwU1pxT1U0Q0VzLU5fWXZBLV9SWEJYRkpaRi0wbFI2U2pNQWdwYjh5c2MzUTJkNkpKSW95ZXk5NnlJN3pORHdPMUZ1S0pfcWJUS1VEbHUtUXlkZlpQTk1qcVRkY1JEc3FFRWF2Z2MtYjZtUUNOVTdrN3ZIR0ltZTZZbkRVd3JNOGlrNWpLUEV5ZkpTdnFqV2YtXzBjUzcwano4WnE5WTBBejdmai1vTjlGb3dUQTdtRzhfZDRkMw?oc=5",
+  "pdf": "",
+  "résumé": "Annulation loto &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "69278b0de353",
+  "date": "2026-11-25 08:16",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Kilt ou double",
+  "lien": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYlpKbUlxaEtNcDV0T2xXYzFKT0dubzFUUzhORDlMb0czcGliNk40MkU4NktNdzdBbjg5eFozZ29IZ2xjVWRVVk10eTRVWmRlem1KUkoyb1g3WjBYTUZ4UHl3cW1ZSmNnUVJ0b1VET0cwQjF3V0FLMW1vRS1NcmxIN1NfaFJrNkI4VU1nd0ZSRTFZX1ZmN2VvZUMzay1oLUljeVp0ZU9oZ1RZMGtEZ0hXSW1HSG5sb05oZ0tWNDJMdG02VDNQYUFSWlRjc2s?oc=5",
+  "pdf": "",
+  "résumé": "Kilt ou double &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "a22deb6563a2",
+  "date": "2026-11-25 08:09",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Rugby. « On a en des frissons dans le tunnel » : ce Vendéen est arbitre tout terrain du Top 14 à la Fédérale 1",
+  "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOVlRSUhGUmJDTDB4VDZqZU5GdnB2QlcwNGxUVVlDLXNmU0lYME9NMEpTNXBqYktjT2F1ODRBQkN6SFpHM09GdldISW1hRTAyMlZ4dDFmVHJmU0dZUmRIY2F3YjhfRzNZZzdFNHQwbTVmU0JQUF9lLU05UE95NHhzUldqS3pobE9xVU5uQUJCUkQ0WG9HMVJ2QTlfTlBBQjFLN0JCMm85M01mMk5YVVFYQjZocExXb1hVUENGRGp3SVU3NXQxX3YtNmZrSjBxNU14TGZmQWVXVFNyYTdlMW5LSGpsZEYtbzBmeFFZVll4U1ZfTnM?oc=5",
+  "pdf": "",
+  "résumé": "Rugby. « On a en des frissons dans le tunnel » : ce Vendéen est arbitre tout terrain du Top 14 à la Fédérale 1 &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "d229f265d23b",
+  "date": "2026-11-25 07:59",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Maison & villégiatures d'Artistes aux Sables-d'Olonne",
+  "lien": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQYjFDbGJsblhaOTRkRkdHZks5UWh3S0N5Q2NXMXR2TDVwUEMwaEtGRGZmd0lwTUptNGQ4VmRIWUZJamxwcTY4WFNobXh4d2c0eXBCQU1mU0tySjhFV3NiX2lqS0RzNWNCLXgyR1pfWTFDWjYzdmhFQUdaMkpVeFF4Y0lrTzVEMVZOYmJxWTFNMnViREJKT25CSlk5WXBOSjdFV2tvblY4ZmxRbEp4cFNmY3Q2bWhDZ2l3Y3l6R21TY2RYN1JmbjM1U25fek1CZmZ1cDMxbWFpR0tLd0syZlhySDI5bzQ0VVBOSWNyUnJ3eXlkLVo0ODRhdnFBcE9oUG9CTjhYaDA1dHYyOXBvUGs5VmxISGlzY1ZLMHozeGt0RQ?oc=5",
+  "pdf": "",
+  "résumé": "Maison & villégiatures d'Artistes aux Sables-d'Olonne &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "48ed92c6e9f8",
+  "date": "2026-11-25 07:51",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Napoléon et Joséphine effacés ? A La Roche-sur-Yon, les élus d’opposition répondent au collectif féministe",
+  "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaXVucUxnd2lEYXNjN2U5RWtfZEFUZ3g5dVRYNWxZYzJyRVg3LWo0RXc5TjRIT1E1c2lwTXhQNmpxdUFSc3JiSW9OVURfRnl2aHF2cDRRNlBSY3oxb0E1SXo3WEtiM2dxVU1xQUY0TkZHSDRzYzJQZXNMWVViNXFxU3g1QUJxbm1EVF9ROW95d3hCa3BLMFNBN2h5T19haEJoTzR2VnJrMzYtUVh6dlppQXl6QUs3cDE3cE9rX19rbUFSTHlWVURBdGg1cF9rVmh5M21LbGkzeFI1WUgzTnIydlZ6aERkRExhSmZuTE5ibFpaNURudVRqQS1KcFpRSDRUX2c?oc=5",
+  "pdf": "",
+  "résumé": "Napoléon et Joséphine effacés ? A La Roche-sur-Yon, les élus d’opposition répondent au collectif féministe &nbsp;&nbsp; Actu.fr"
+ },
+ {
+  "id": "ad11c06bd9ae",
+  "date": "2026-11-25 07:51",
+  "source": "Journal du Pays Yonnais",
+  "type": "presse",
+  "titre": "Napoléon et Joséphine effacés ? A La Roche-sur-Yon, les élus d’opposition répondent au collectif féministe",
+  "lien": "https://actu.fr/pays-de-la-loire/la-roche-sur-yon_85191/napoleon-et-josephine-effaces-a-la-roche-sur-yon-les-elus-dopposition-repondent-au-collectif-feministe_65097573.html",
+  "pdf": "",
+  "résumé": "À La Roche-sur-Yon, le collectif Les Rosies exige le retrait des symboles napoléoniens dans et en face de la mairie. Ce que dénonce l’opposition municipale qui recadre le débat."
+ },
+ {
+  "id": "7a141373b8b6",
+  "date": "2026-11-25 07:44",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "« C’est notre guide Michelin » : cet artisan-chocolatier de Loire-Atlantique distingué par les Croqueurs de chocolat",
+  "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQOGpWdDNpRWpMcDhZeEdjNEVHOFNnUmY4Tm45WmtZUm5YTmU1VjNHZXVFeG85b1daSWdTNEctT25LM1NkZ0pNZi1SRXR6cXdvOWN4LTJGV09MM0o2aUpJa2dXR3M1UzBuSDl1Q2tiRDk5Y01VcFNfc3RacktES3ktM1hSZjJMdDBHR2hqbkVZQ1c1ZF8waVM3SkREczUwc1ZzaFJaajRjOS1QMUg1NHFXeXBWbVQ1OTlvTi12b0pnd0t6TmlTSkhaeDBzQzdlUHV5RVcxa0YwWWV6YmkwcjJoZ0RmTlhDR1VJOXVBQ3czZFBSODJMZHRlWGhXS1ZOMmE2WnFucXc1aGo0SVhxR2U4ZlItMkg?oc=5",
+  "pdf": "",
+  "résumé": "« C’est notre guide Michelin » : cet artisan-chocolatier de Loire-Atlantique distingué par les Croqueurs de chocolat &nbsp;&nbsp; Actu.fr"
+ },
+ {
   "id": "71a4e7c83bed",
   "date": "2026-11-25 07:30",
   "source": "Google News — La Roche-sur-Yon",
@@ -16,6 +116,16 @@
   "type": "presse",
   "titre": "« Ici, on va savoir passer des caps » : à La Roche-sur-Yon, la pépinière d’entreprises Coty mise sur l’avenir",
   "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaUUzNDljYVN4dEJUbk1mZHNsMk9tLWZ1WVJ5S0hEMnc4OVFGeHBRVnlhaWJhRUtFYndCdkN3WHNOVXpocjczWmhQWXY4VDVHOVItLUJ4anZqWHNtd2Fwd25HVGtGTTBmMy1DX2dGNGx2WHRfbHVqQkxuYkZ4bkMwS05JQ3VheDVDck55YUptcHlJdHFybEVxOV9tOU16UllNTFpUOHpacmphdmxYR2xHanV6WUxBa0dVcnlIVzBRMlc4WFNHa1RIWTJORDVyZ3dCOFBLNkVRUVJDdWE4TXRtWFNsbTY1TUo4aTYtaXpwX2UxVUhVc2xpdHB1UU91anc?oc=5",
+  "pdf": "",
+  "résumé": "« Ici, on va savoir passer des caps » : à La Roche-sur-Yon, la pépinière d’entreprises Coty mise sur l’avenir &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "0ce0751d1038",
+  "date": "2026-11-25 07:30",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "« Ici, on va savoir passer des caps » : à La Roche-sur-Yon, la pépinière d’entreprises Coty mise sur l’avenir",
+  "lien": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU29BWUlXWUF0SjVNX0dTWGZlelZvSGhKMmx2MVRZajFJc2pNWVlRQ0ZXaU5zN25EbWcwVTVRS3lGUGtPZkhIelRFYlR3M2JlN2ZpdDJNZ1lKbkN0WF9NRmhWRXF2X0g3dUNINm5pci1iRE45Y1R5ODFVeUZqTEduSUkxalVxajBsVDFiODBYVnE2WEp3UjZWcW5CUjJlRU5yZUNldzhzS0otRFNSZWdiSUhqYktQMU9GY2h4Yjc5TGwzM3J4TENPeTJZNkxyODZqYjVkQ21rQ0pHc2E4RUVqODN3TnVaRl9DbnhrcFJidzBLVk9EVE5BNmYyLWdOZGs?oc=5",
   "pdf": "",
   "résumé": "« Ici, on va savoir passer des caps » : à La Roche-sur-Yon, la pépinière d’entreprises Coty mise sur l’avenir &nbsp;&nbsp; maville.com"
  },
@@ -150,6 +260,16 @@
   "résumé": "Luçon. Du jazz au théâtre Millandy vendredi &nbsp;&nbsp; maville.com"
  },
  {
+  "id": "f9673c2d6945",
+  "date": "2026-11-25 06:06",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Luçon. Du jazz au théâtre Millandy vendredi",
+  "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZE15bk0zVXdXbVBGQ1ZNWm9DRnVqaTdCN01Mcm9ua3JoS3lSS0I1YjRnNXB2NUZmUEp3VzFUaWZEWFROTndyb0ZzWU5vZEI4ajRLeGtVd0t5OElhT3RoZnhRSGtGdWx2WHc1Ql9sRzVNejZielR6QUZwSElnWklZNjdjTjlKRXVGWklGMEZ6OHkyX1RyZmlHay1TQmpoM1k0QUVwZ19ZYUU2RElHYWYw?oc=5",
+  "pdf": "",
+  "résumé": "Luçon. Du jazz au théâtre Millandy vendredi &nbsp;&nbsp; maville.com"
+ },
+ {
   "id": "ec6002ffc6da",
   "date": "2026-11-25 06:05",
   "source": "Google News — La Roche-sur-Yon",
@@ -168,6 +288,16 @@
   "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPamZ0TEZOMnhzSjRCRGVTWE1wU0MwRG9hZ1ZlQVNBYTlVUjBOMy01NkZ0RzN3eUdLY1JWZVMyc1R3aW9sVjhZeEhQc0dhRzBHMEVLbzZMelhNU0NtbmY4ZFp0aGJJYUVBTkRPS1FFYnB1SWlaRk02WE1vX3F1bFVKVldqV0t4Q1ZPdlE0bGRueWFxeTRxSi0tazlvMmxBLWVzcE0wSlhFTzM5dFktZEpOVTY0dXFnN3Fq?oc=5",
   "pdf": "",
   "résumé": "Bazoges-en-Paillers. Le complexe sportif inauguré &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "5749466c8a74",
+  "date": "2026-11-25 06:05",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Montaigu-Vendée. Matinée de plantations à Agapé",
+  "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDg2YXlJNElSX2UyaW1RdWt6R3RFMWU2YXBOOTJWZk9yS3E1U2pFV2pnTmstTUp4NTJiNVp4dWpXOVRWeGtkSGtTRWwza1Exb0M3b2VtMFZtcnJ3NXAwLWRYdmZKZDd2UktwZlhtQW1FQVFOUXFFSzVnN0ZtUmt1TWgyVFVZNHRydEVZdlNnSU1hdXNfNXlMTXhINmJON2dKeG1VcXpRYmFRQThWM3prRkY0UkM?oc=5",
+  "pdf": "",
+  "résumé": "Montaigu-Vendée. Matinée de plantations à Agapé &nbsp;&nbsp; maville.com"
  },
  {
   "id": "f58b89625ebe",
@@ -678,6 +808,16 @@
   "lien": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUkNWM0JiSG9oVEdfa1dKdWx2VzZYZGtVR0pjQmhDcFpHeWdhN2lJdmdIV2I2Vlctd0FmVGQ5OE5mSXNrREUybTNGN3VFS29oVnlJOGFqelNEOUxYdUtrNDc5Y00wV3ZMNWdpZTl1aHBBbUhjS3RNeXBLSEY1WHBsTVVDb0ZYSFpSM3JablJ2dkpDZHYzNGdkdjFpZEw5OTF1cHU4UVpQREQzYWh5NFBhN2pBZVo2TkRHeTJFakcyWXVyM1ZpbnYyOVY5eEVPQ29Ca2Fmd08yZkJLUTRGNDNpSWNKTVJiZTlTN2tHOVZkazBMbmNibmptQzEwWEhjTnRGVWJkY1lhT1AyMFpPdzV4RzFXM1ZJY1Yt?oc=5",
   "pdf": "",
   "résumé": "Malle aux vêtements, boutique solidaire du Secours catholique &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "eca4b61ad9f2",
+  "date": "2026-11-24 22:01",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Vendée : un cycliste de 78 ans hospitalisé après une collision avec une voiture aux Sables-d’Olonne",
+  "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU1ktNXpnTjhFaHJOZ0szWjBiZWhZNTB2LXBzRFIyV2JTc3NlN2NnV2U2NXFvOVJSN215NmZybkVXOUZqWG4wVE1FQXhETllJY3NpeVhLQnU0bXpEa2JFelpfSUV1S0ZXMERid2pUdjlrY01HdEtFcXJsZWhVT3UyUjB2V0EyVkVwSmxBZ0x2SDdNV1N0UTRKWFZETnJ6QjhtWnRnZ016S0lCbmNOWVQ4eDdsSUhMTURqZjVraG8tNzM1dEgxZjJtU25B?oc=5",
+  "pdf": "",
+  "résumé": "Vendée : un cycliste de 78 ans hospitalisé après une collision avec une voiture aux Sables-d’Olonne &nbsp;&nbsp; Vendée Info"
  },
  {
   "id": "6201b51e901f",
@@ -1530,6 +1670,16 @@
   "résumé": "Mercredi 25 novembre 2026, à l’occasion de la Journée internationale de lutte contre les violences faites aux femmes, les Rosies de La Roche-sur-Yon vont manifester. Interview."
  },
  {
+  "id": "14bed810fcc3",
+  "date": "2026-11-24 12:10",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "A La Roche-sur-Yon, elles veulent retirer Napoléon de la salle des mariages : « Nul n’est censé ignorer l’histoire »",
+  "lien": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSWphVFhXUWxsSV9BcUpqRXRJMzM5VkVsUU84QW9JUGt0dFlhMFdFMi1XNmY2TC1ublBPZlRxZE1aN0VldXE0eE04RVRJclZzOGV0OG5xNHhlMHNvWXZPOUExREJWRHdvbW1Wa2ktdnVEcy1HdzhFRWxSR0Z4eWJNLWJnaF96d0laM2ZBeHhybWJlX2lfcWU0VXIwU21OWVNYcnJrYllhR0xmd3FaWlpEU09mbWtUQTdtaEFTdUtiSThJMkY4Y1VjR0lZYU83d3hjVXJQbjVVcmQtYURhaWVwcHkxNlFldThlclotV0M2bl9VaXJpWWtvUHFydTZyRExlR0xzZnkxcw?oc=5",
+  "pdf": "",
+  "résumé": "A La Roche-sur-Yon, elles veulent retirer Napoléon de la salle des mariages : « Nul n’est censé ignorer l’histoire » &nbsp;&nbsp; Actu.fr"
+ },
+ {
   "id": "516814424a90",
   "date": "2026-11-24 12:06",
   "source": "Google News — La Roche-sur-Yon",
@@ -2260,6 +2410,16 @@
   "résumé": "Un blessé dans un accident de moto cette nuit dans la Sarthe &nbsp;&nbsp; Ouest-France"
  },
  {
+  "id": "8d57e254ec60",
+  "date": "2026-11-24 06:31",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Ils tentent d’allumer une cheminée avec de l’essence, le père et son fils meurent dans l’explosion",
+  "lien": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOOFkyVHZvb0FpRGlaREg1Z1ZoOWRkMTFRMW9nZjE2cVpvcmRpNzY0TndyRkpDUXd1Q3Y5OWs3RzJWZTIxN2g5dHJ6UnU5Y3VfOEdlOTVtTnJESTNPVDBNS2cwdXBrZXRCb0FkQjQtdFFYQnFjcjlzWTNlMFNBOThxdDgtbkxhbkhmQWtMa0FBZzZxQkhKVkVXeWlnTUUxaXIyX1ZYZHRwYTZCZWpaQkd2ZmRLZ2ZNX1RiRDNSSmY2aThJSkpyWlJkLVNJMVAtb3pVM0ZOdDBsdHBZV1dGeW5fVnVqcWdPZTVscHU4X0xPSUZLQ19CeWZqY1FkYzhwdG5vTk40eXJSOG43TVFH?oc=5",
+  "pdf": "",
+  "résumé": "Ils tentent d’allumer une cheminée avec de l’essence, le père et son fils meurent dans l’explosion &nbsp;&nbsp; Ouest-France"
+ },
+ {
   "id": "a5a13c33f478",
   "date": "2026-11-24 06:30",
   "source": "Google News — La Roche-sur-Yon",
@@ -2848,6 +3008,16 @@
   "lien": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeHNGM0NmeDh5WVNaMFJwWi1HUkJiN0tHdjJwRmQtR2dIN19UZEZEZFlZRlNEMVJGZ29xVktsemFmeTI4d2JwdWt4RnI4WHRlYVZhMUJpRzJ4eDhVNjBMaTV5Tm5QUUVtczJTaVNuMWJfMDRNYXdiRTZLQzBweF9sdzFtbnZ1NnJlbjM0T3ctdTVXY2UtSlhjNFc0SVlNXzZVQjNyLS1tMmUtY3hqbFk2VTUzSDlKLWJyV2VSZFA2bm5kYWc?oc=5",
   "pdf": "",
   "résumé": "CONCERT &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "5963df47f950",
+  "date": "2026-11-23 20:47",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "C'est la super Lune du Castor ce mardi : voici ce qu'elle nous réserve",
+  "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmRIRXZ2OEtPN3JKRTJnQk5raW9EYS1oTFdxZTIxNTd0ZDZuM0ZBcXUtemZVSGJIbWx2dXhxNndXWWxXS2dUYll0ZVc3Uk9BZ05HcFllbGJwZGFBZ01JcENOR3VqYXo4UVhvNGxOTVNaNHk1NXpQUlIyeFNBY0hRNlZERG1uTk9CcXA1ZjY0Rm1HWVFvQ2ZrblFfTzlCNmVYNThLRncxNzVwalJVY1FTUzNKdjQwSEVRcVZ3?oc=5",
+  "pdf": "",
+  "résumé": "C'est la super Lune du Castor ce mardi : voici ce qu'elle nous réserve &nbsp;&nbsp; Actu.fr"
  },
  {
   "id": "3691ba865ce1",
@@ -3690,6 +3860,26 @@
   "résumé": "Rennes. Retour sur le ramassage de déchets au Square de Copenhague &nbsp;&nbsp; Infolocale"
  },
  {
+  "id": "dde04a1e3408",
+  "date": "2026-11-23 08:00",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Caen. Beau succès pour le salon de scrapbooking organisé par Les Rives de l'Orne",
+  "lien": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOeWhZNlRHdDdfVXhXSmp0dTYzVWRzTXdaOERxdUMxTWp2ZDVub1paTFRtUGNIZGRwLXBfdDkyY25PN0xqUDVOUnprcXFCUHRhc1VNRGxqVDNJNlhGcGVQbldxQ1dER2JWWUJ4ZGI5czc4WDV6UVNHTUxkSXVQLWZ4aG9vdjFtS1NBT05vQTc0d1lQMTk4eS1CeVBmcWkwUW9hakpydE0wOHhkeW9Td2lzdjdsdTlqV0E2eDkyaDdmbWM2WVlLODdWc3dYQVVmaS1ZV0JreW9RLWl5bnFpR2wzd0F5RTNvZWczRnk5ajVpMzF3M05Ia21jLUNLM3dpamlmQ05Oc1VYRzZDR2hEek1TLVVTWWNIZmJWdkdlS3hKcGlYeWxIaWlfa0YxX2w2Nzk4eTVyajhYTUk4bFdReXdtWGJ2ZHQ5bWZzUFpTbi1BUFhaZVlxRDF0ZkpXOHh1NEFOdG80N3YzcGpyT0l2RFQ0bmQyamJaanE5WTJyUTNoMTR2UQ?oc=5",
+  "pdf": "",
+  "résumé": "Caen. Beau succès pour le salon de scrapbooking organisé par Les Rives de l'Orne &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "e3844aee62d6",
+  "date": "2026-11-23 08:00",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Mayenne. Un beau voyage musical au cœur des traditions avec l'Ensemble vocal Harmonie Géorgienne",
+  "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOM3NFZkVMUUhZRU9XRW5rTWxiNmdlVW9pWXYtSjZ2Uk9MLWZSVnhYd1hqT3ozaTQzUkRDLUJnQUtwM2NWS1lZeExpdTE0eVpSWE1CeTI0LXpzeWFhdDRPUGxEREtiOEw2a3lPOWdJRE9xQW42Rl9iV0oxaElmem1vaDdhdlpuOWRWVWJXZDI3RUlZLUZ4cXFzMU1BSG83blR1eTRpYUN3QmR1UlYzUkRmTktKMjRzR19IaDJhVTVNeHJVNVROQ1ZLaHRXTlJDZ1AzeEZiUWM3cEtnVUZZa2kxSmtvNFd3VWNoSjZTZXZTWHJMNWNDdzFveVVZYjNqRVVmSWo3RnJRaHNuM1VQY1VldWFHbU1nMFdDbUptYXljVUE0QQ?oc=5",
+  "pdf": "",
+  "résumé": "Mayenne. Un beau voyage musical au cœur des traditions avec l'Ensemble vocal Harmonie Géorgienne &nbsp;&nbsp; Infolocale"
+ },
+ {
   "id": "77ca0efb8329",
   "date": "2026-11-23 07:43",
   "source": "Google News — La Roche-sur-Yon",
@@ -3718,6 +3908,16 @@
   "lien": "https://actu.fr/pays-de-la-loire/les-herbiers_85109/en-vendee-800-poules-a-sauver-de-labattoir-cherchent-un-jardin-avant-lhiver_65087553.html",
   "pdf": "",
   "résumé": "Poule Pour Tous organise deux ventes le 3 décembre aux Herbiers et à Saint-Mesmin. Objectif : trouver un foyer à 800 poules rousses de 18 mois, destinées à l’abattoir."
+ },
+ {
+  "id": "67eb311d46b8",
+  "date": "2026-11-23 07:40",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "360 euros de moins par mois : le salaire des femmes reste loin de celui des hommes en Normandie",
+  "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNck85UDV2ODctdkIteUtEME1PNGNJMjNqdFNfdDJSd3lXY1UybmJoUFZXamNFaWZVa0N1Z3Z0dlM0TENzS0FRSHR4QWF4YzJiQ1BiQjg1TEViRmYxMEhMSGVsWVptYlcyd0xES3hTTnhPWWl0dHBzNmg3OFVrek9fN1FmSEhhQVNhR1djZmtST09nUmlHdTFHZE4wZEg2a0lwT21Qd052NlhWQ0dZanctR3dDMGdnWGpraTlrXzhabFNQZndhOFhOVXZYUQ?oc=5",
+  "pdf": "",
+  "résumé": "360 euros de moins par mois : le salaire des femmes reste loin de celui des hommes en Normandie &nbsp;&nbsp; Actu.fr"
  },
  {
   "id": "c50a4f452897",
@@ -3878,6 +4078,16 @@
   "lien": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGxYZmVxYXliOWRjOEplUDhZeFBZazlCSGZoczJCZTFMT2FQdXc5cWMzSjhZNXFjYU5XVDZIc3RTQUFqXzlSMFdXSmJaUTdnOEZNTmEwcjREYWcwaTVLTThWbmY4VmQ1ckFHS045ZF9yOHlIUWVNdld1LUdVeUZTMWc0VjdNanphYUZRS3hZZXhVSFZhN0ZpelRCT1h1RXhLQkhEU0tWR2dOSHBpb1lXaVFOMm9ISnVOb2dF?oc=5",
   "pdf": "",
   "résumé": "L'Hermenault. Lilou Theillout reprend Instant coiffure &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "0d5657c2ec96",
+  "date": "2026-11-23 06:11",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Montaigu-Vendée. La municipalité accueille les nouvelles familles",
+  "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSm1BVS1SbERIVGpRWnBuUk5ROHhKRnMxV2htcF9nLWNhaWFPRXpGOXF6emtManFhTGVOVmZvVVFhejM0MUlEUlU3WHJ4T1lkaEd0NFNTWlV0SThXUkRfcHNEV2JkTmZxT0o4MWkxYzBwSXA3MzdBWUw3UWNNU2UwQ2owdDdFNk14bTdvZFQ3RnFpelRwejRDb0VBREhaU3lWRVFKU3Njejh2MTdsRXhPbE5RaHRINHlVSklDREE3MV9VZDV0Yi1yWXNB?oc=5",
+  "pdf": "",
+  "résumé": "Montaigu-Vendée. La municipalité accueille les nouvelles familles &nbsp;&nbsp; maville.com"
  },
  {
   "id": "6b544d7bc79f",
