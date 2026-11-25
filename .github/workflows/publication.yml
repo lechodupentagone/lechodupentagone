@@ -3,8 +3,7 @@ on:
   push:                             # modification d'un article (Pages CMS, GitHub) → remise en ligne
     branches: [main]
     paths: ["site/**"]
-  schedule:
-    - cron: "0,30 6-21 * * *"      # toutes les 30 min de 7 h à 22 h (heure de Paris, hiver)
+  # Plus de passage automatique depuis la Sheet : lancement à la main (onglet Actions → Run workflow)
   workflow_dispatch:
 permissions:
   contents: write
