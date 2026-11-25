@@ -150,3 +150,8 @@ main{flex:1;padding:24px clamp(16px,3vw,40px) 40px;max-width:1400px;width:100%}
   .art-media{position:static;max-width:360px;order:-1}
 }
 @media (prefers-reduced-motion:reduce){.piste{animation:none}html{scroll-behavior:auto}}
+
+/* Encadré « Mise à jour » (champ mises_a_jour des articles, le plus récent en premier) */
+.maj{border:2px solid #E0352B;border-radius:12px;background:var(--carte);padding:16px 20px 4px;margin:0 0 1.6em}
+.maj-tete{display:flex;align-items:center;gap:10px;margin:0 0 .6em!important;font-family:var(--titre);font-weight:900;font-size:15px;text-transform:uppercase;letter-spacing:.04em;color:#FF5A4E}
+.maj-tete img{flex:none;width:34px;height:auto}
