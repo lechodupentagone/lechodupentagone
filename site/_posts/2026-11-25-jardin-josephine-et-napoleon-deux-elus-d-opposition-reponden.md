@@ -1,13 +1,17 @@
 ---
 layout: post
 title: "Jardin Joséphine et Napoléon : deux élus d'opposition répondent aux Rosies"
-date: 2026-11-25 08:08:20 +0100
-categorie: "Municipal"
-rubriques: ["Municipal", "Société", "Culture"]
-source: "Ouest-France · Ministère de l'Intérieur (municipales 2026) · Conseil municipal du 3 avril 2024 · Politis (Les Rosies)"
-lien_source: "https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/a-la-roche-sur-yon-profondement-choquees-les-rosies-veulent-debaptiser-le-jardin-josephine-de-beauharnais-a5fb274a-e4f1-11f1-afa7-9a0bb82a33d1"
-image: "/assets/visuels/2026-11-25-jardin-josephine-et-napoleon-deux-elus-d-opposition-reponden.jpg"
-video: "/assets/videos/2026-11-25-jardin-josephine-et-napoleon-deux-elus-d-opposition-reponden.mp4"
+date: 2026-11-25
+categorie: Municipal
+rubriques:
+  - Municipal
+  - Société
+  - Culture
+source: Ouest-France · Ministère de l'Intérieur (municipales 2026) · Conseil
+  municipal du 3 avril 2024 · Politis (Les Rosies)
+lien_source: https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/a-la-roche-sur-yon-profondement-choquees-les-rosies-veulent-debaptiser-le-jardin-josephine-de-beauharnais-a5fb274a-e4f1-11f1-afa7-9a0bb82a33d1
+image: /assets/visuels/2026-11-25-jardin-josephine-et-napoleon-deux-elus-d-opposition-reponden.jpg
+video: /assets/videos/2026-11-25-jardin-josephine-et-napoleon-deux-elus-d-opposition-reponden.mp4
 ---
 **Au jour de la demande du collectif des Rosies, qui souhaite rebaptiser le jardin Joséphine-de-Beauharnais et retirer la gravure de Napoléon de la porte de la salle des mariages, deux conseillers municipaux d'opposition de La Roche-sur-Yon ont réagi sur les réseaux sociaux. Maximilien Schnel et Freddy Roy rejettent tous deux ces retraits et proposent d'expliquer l'histoire sur place plutôt que d'en effacer les noms.**
 
@@ -39,9 +43,8 @@ Les Rosies doivent danser devant l'hôtel de ville ce mercredi 25 novembre à pa
 Lors du précédent mandat, une commission proposait déjà les noms de voies et d'espaces publics : le conseil municipal du 3 avril 2024 a par exemple voté sur les propositions issues de sa réunion du 20 février 2024. La création d'une nouvelle commission au prochain conseil, annoncée par Maximilien Schnel, n'apparaît pas encore dans un ordre du jour publié.
 
 **Sources :**
+
 - [Ouest-France](https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/a-la-roche-sur-yon-profondement-choquees-les-rosies-veulent-debaptiser-le-jardin-josephine-de-beauharnais-a5fb274a-e4f1-11f1-afa7-9a0bb82a33d1)
-- [Ministère de l'Intérieur (municipales 2026)](https://www.resultats-elections.interieur.gouv.fr/municipales2026/ensemble_geographique/52/85/85191/index.html)
 - [Conseil municipal du 3 avril 2024](https://larochesuryon.fr/app/uploads/2024/06/cr_cm_3avr24.pdf)
 - [Politis (Les Rosies)](https://www.politis.fr/articles/2023/03/les-rosies-la-joie-comme-arme-de-resistance-feministe/)
 
-Source : [Ouest-France · Ministère de l'Intérieur (municipales 2026) · Conseil municipal du 3 avril 2024 · Politis (Les Rosies)](https://www.ouest-france.fr/pays-de-la-loire/la-roche-sur-yon-85000/a-la-roche-sur-yon-profondement-choquees-les-rosies-veulent-debaptiser-le-jardin-josephine-de-beauharnais-a5fb274a-e4f1-11f1-afa7-9a0bb82a33d1)
