@@ -4,7 +4,7 @@ Chaîne entièrement gratuite :
 
 ```
 Flux RSS + actes municipaux ──► Google Sheet « File de validation » ──► vous cochez « publier »
-        (GitHub Actions, toutes les 2 h)                                      │
+        (GitHub Actions, toutes les heures)                                   │
                                                                               ▼
               Site (GitHub Pages)  ◄──  visuel + article générés  ──►  Facebook + Instagram
                                   (GitHub Actions, toutes les 30 min)
@@ -77,7 +77,7 @@ Ce jeton dure 60 jours ; l'automatisation « Jeton Instagram » le prolonge le 1
 2. Dans la Google Sheet, sur une ligne : réécrivez si besoin le **titre** (il sert pour le visuel et l'article), rédigez le **texte à publier**, cochez **publier**.
 3. **Actions › Publication › Run workflow**. Le statut passe à « en ligne (site) » puis « publié », avec les liens Facebook et Instagram.
 
-Ensuite tout tourne seul : collecte toutes les 2 h, publication toutes les 30 min de ce que vous avez coché.
+Ensuite tout tourne seul : collecte toutes les heures (et dès que les propositions du matin sont poussées), publication toutes les 30 min de ce que vous avez coché.
 
 ## Au quotidien
 

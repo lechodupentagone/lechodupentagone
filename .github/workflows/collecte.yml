@@ -1,7 +1,10 @@
 name: Collecte
 on:
   schedule:
-    - cron: "15 5-21/2 * * *"      # toutes les 2 h de 6 h à 22 h (heure de Paris, hiver)
+    - cron: "15 5-21 * * *"        # toutes les heures de 6 h 15 à 22 h 15 (heure de Paris, hiver)
+  push:                             # propositions du matin poussées → import immédiat dans la Sheet
+    branches: [main]
+    paths: ["data/propositions_a_importer.json"]
   workflow_dispatch:
 permissions:
   contents: write
@@ -24,4 +27,4 @@ jobs:
           git config user.name "veille-bot"
           git config user.email "veille-bot@users.noreply.github.com"
           git add data archives
-          git diff --cached --quiet || (git commit -m "Collecte $(date +'%F %H:%M')" && git push)
+          git diff --cached --quiet || (git commit -m "Collecte $(date +'%F %H:%M')" && (git push || (git pull --rebase && git push)))
