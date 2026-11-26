@@ -1,5 +1,95 @@
 [
  {
+  "id": "7dd3544303cb",
+  "date": "2026-11-26 08:41",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "La Belle Aurore",
+  "lien": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObk54Um1iUEthUi1wWDY3QUJpZ0JSS2h4OTFHblA1THRSRWZhYTFKX1V3Ullua0phaVpoT2xOZzUtUGUtU2J3aVVkMjZsaVVWeUtaeXctcmUyR1ZNVkQ3cFZoZ3BXMkFDRGJ3X1p2U2psWTNjajZLRk03bFJJX1FEb3ZwSmI0M2VQc0k3OGp1aHkwTjJyQmprY0ZjNVBCcU8yTEtCaUFteXJKV05YVDY3RjhVWkRzYWhs?oc=5",
+  "pdf": "",
+  "résumé": "La Belle Aurore &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "bc1b272664e8",
+  "date": "2026-11-26 08:36",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Offre d'emploi Collaborateur Comptable (H/F) - Mouilleron-le-Captif (85)",
+  "lien": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkVSdENLX0xIZHg2ZGsyWFZLdzk3am9WUEVCWWI2cU9Bd3hkYkNsQVE4OG9JNzhLZVl2MlBMWlVWMmcyWmlndHNiWG9xc2xUZ1lGc1o5NjNmcTBJMlZjQ21wZGpYMldTU2hER2t6RC1kUnRjdlprRzh5UWdNWk1MbTZBNmJQSVpnVnpB?oc=5",
+  "pdf": "",
+  "résumé": "Offre d'emploi Collaborateur Comptable (H/F) - Mouilleron-le-Captif (85) &nbsp;&nbsp; Ouest-France Emploi"
+ },
+ {
+  "id": "9761165f2df0",
+  "date": "2026-11-26 08:30",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Judo. Programme, palmarès, tarifications, diffusion… Tout savoir sur les championnats de France séniors en Vendée",
+  "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSWstVEJjRmpxdWRXU2V1NE8tNWxuV3hIUUZMWURvREdhSG41VENlLXVaMEVjOUNJcDFfMWJvQWYydy1kblFVSC1hb2s3VVlOMFpUSkFMN0NQU2RVTWxHQ0hEZGFHVkdBdks1QlNvZEpKNzRGWHlUaV9qOGwwOTRsZFd1WTNnWUtZYmNpa2hyanA4eVNJQm9KMzhXemVJTXZWQzgtcU1falU3TFRnR1lqNjdud0RTOU03ZlBYbWtiOUtuaGxSRjJFT2NKRTdfY254d09zaFdVbFBKU2dTWl93YnZfZVY5UXl6anBFUGN1S0hoaWxDVGcwV09NYjlvNjZ5eGFB?oc=5",
+  "pdf": "",
+  "résumé": "Judo. Programme, palmarès, tarifications, diffusion… Tout savoir sur les championnats de France séniors en Vendée &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "095329844929",
+  "date": "2026-11-26 07:51",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Adolescente tuée en scooter sur les routes de Vendée, du sursis pour le conducteur de la moissonneuse-batteuse",
+  "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUFRwZVFVVVk3XzQ4cy1LNW1PSUtHek9WRUplSWJ1cnVOWTRfNkZJS21leWhnQzJRR0RmSHdEcXV1bHk3T1AybFJIX3pxNTFVYzU5bEVWUjZxVHdDcXl0SnByX0Z6OGtpcl8xZnZWYTlnZWNzRzh3bHpieDZSOGpCaVl2MlNDX1F4M3BpbUpjNHJjVmZwWW00bFl5bGJpWDNuYU9YXzktdFBqdWgtLTg0em44RXhZNkVkR01iVmFjRU9RM2s4WVVNVldxS0RNa0VkckwxN043LWhHMWFrSGdFZ1pjQnBMcFNKT05vWGt2ZDBNaUYwOGJ1ZUdIdmw0NEphbXRZNWQ1bU9YNmVUN3pBVQ?oc=5",
+  "pdf": "",
+  "résumé": "Adolescente tuée en scooter sur les routes de Vendée, du sursis pour le conducteur de la moissonneuse-batteuse &nbsp;&nbsp; Actu.fr"
+ },
+ {
+  "id": "095329844929",
+  "date": "2026-11-26 07:51",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "Adolescente tuée en scooter sur les routes de Vendée, du sursis pour le conducteur de la moissonneuse-batteuse",
+  "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUFRwZVFVVVk3XzQ4cy1LNW1PSUtHek9WRUplSWJ1cnVOWTRfNkZJS21leWhnQzJRR0RmSHdEcXV1bHk3T1AybFJIX3pxNTFVYzU5bEVWUjZxVHdDcXl0SnByX0Z6OGtpcl8xZnZWYTlnZWNzRzh3bHpieDZSOGpCaVl2MlNDX1F4M3BpbUpjNHJjVmZwWW00bFl5bGJpWDNuYU9YXzktdFBqdWgtLTg0em44RXhZNkVkR01iVmFjRU9RM2s4WVVNVldxS0RNa0VkckwxN043LWhHMWFrSGdFZ1pjQnBMcFNKT05vWGt2ZDBNaUYwOGJ1ZUdIdmw0NEphbXRZNWQ1bU9YNmVUN3pBVQ?oc=5",
+  "pdf": "",
+  "résumé": "Adolescente tuée en scooter sur les routes de Vendée, du sursis pour le conducteur de la moissonneuse-batteuse &nbsp;&nbsp; Actu.fr"
+ },
+ {
+  "id": "1d3b5424e52c",
+  "date": "2026-11-26 07:51",
+  "source": "Journal du Pays Yonnais",
+  "type": "presse",
+  "titre": "Adolescente tuée en scooter sur les routes de Vendée, du sursis pour le conducteur de la moissonneuse-batteuse",
+  "lien": "https://actu.fr/pays-de-la-loire/la-meilleraie-tillay_85140/adolescente-tuee-en-scooter-sur-les-routes-de-vendee-du-sursis-pour-le-conducteur-de-la-moissonneuse-batteuse_65102730.html",
+  "pdf": "",
+  "résumé": "Il y a six ans, une adolescente qui circulait en scooter avait été tuée par une moissonneuse à La Meilleraie-Tillay. Son conducteur a été condamné à 2 ans de prison avec sursis."
+ },
+ {
+  "id": "1bee6a788a7b",
+  "date": "2026-11-26 07:37",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "À deux pas du littoral, un « lotissement de luxe » crée la polémique alors que la sécheresse touche à sa fin en Vendée",
+  "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWXJ4MHZmZjJZb1QyRktId1JEQUg5cmlfR3Y3aUFhenUzV2xGaVMwYVNycXpSSXVTMHRzM2pfZHNqSnU4Vi1SMmNsM0dmcS1lbUdrbDJiQVZyZUxSWEZ3N2llb1RmeHQ4TXJIaWZ3VkFDNTJhSUxEV1Z0Vk5JcXZuMnVRUHRHRmRBU0dhN1E3RUh6VWRramZXTy1YMEJSSG9rQ0NvRjMxcWg5SkJMMHJ0b2JlbG5jMnZCVV9nUy1yZDAwMlFGY0Q4aXZ3SWdRc2V6Mjg4R0pheVBnRE1veWRZQllIb1pPTUZLRFNXMkw5ZlFQUnFwMkl2aHQySnJaS0IyR3pxenRvTldFT0k?oc=5",
+  "pdf": "",
+  "résumé": "À deux pas du littoral, un « lotissement de luxe » crée la polémique alors que la sécheresse touche à sa fin en Vendée &nbsp;&nbsp; Actu.fr"
+ },
+ {
+  "id": "2f043975ea2f",
+  "date": "2026-11-26 07:30",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "\" On n'est plus à l'époque de Freud \" : à 17 ans, Kévin se mobilise pour une philosophie plus contemporaine au lycée",
+  "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORFozZHNEcE1sdUVrRkFKTmVYT0FOY2Z6bHNpcERIYU5PdEc0WEh3R3dKYm5BeW5TN016SjFSa3lwd2R1ci1ZWnFWWW16UEYwRWU1cjhHbUpSdFRwOVVjZlQ2UDY0UFhFNGxRTEtNWEVLRHk5aWpzOVg1ejU2WmhfTkxPTjhWSUlQWksxUjd0YjlGYjZuVGQ2dTlpVnpWaTJ6M0RmZ0RwOWxXb3FUQ2dyZlFiWGRFU2RkclA1R1gtcnRRMEVIakd5R0kwS1VmZTBhWTRiY1psdlZlZXhsLWdXQTVBY0xPRElQYndCSXVPMkdEdDhOZ0pvU1VFZ2xEdEEzRFF2WlA1MjY?oc=5",
+  "pdf": "",
+  "résumé": "\" On n'est plus à l'époque de Freud \" : à 17 ans, Kévin se mobilise pour une philosophie plus contemporaine au lycée &nbsp;&nbsp; Actu.fr"
+ },
+ {
+  "id": "5398f863623b",
+  "date": "2026-11-26 07:30",
+  "source": "Journal du Pays Yonnais",
+  "type": "presse",
+  "titre": "\" On n'est plus à l'époque de Freud \" : à 17 ans, Kévin se mobilise pour une philosophie plus contemporaine au lycée",
+  "lien": "https://actu.fr/pays-de-la-loire/la-roche-sur-yon_85191/on-nest-plus-a-lepoque-de-freud-a-17-ans-kevin-se-mobilise-pour-une-philosophie-plus-contemporaine-au-lycee_65098151.html",
+  "pdf": "",
+  "résumé": "Un lycéen de La Roche-sur-Yon organise une manifestation et lance une pétition pour intégrer le travail philosophique de Judith Butler au programme de Terminale."
+ },
+ {
   "id": "136d263f724a",
   "date": "2026-11-26 07:22",
   "source": "actu.fr — Vendée",
@@ -58,6 +148,16 @@
   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaThWMkdrX0FjeWJ4eUNKYzA4QUNNTXNYSl9Ka3F3aEVLSFU5MGFzMGljckhHZUUtc2pHNmw0bnZLbDIzWTRPQ242dkJGQjhlVmJDajVWblp2cVRDWnBMWkdUamFnVlF4S0RvbEltQVl3Xzh0ZTFBQ0I2TXBtdmpEZ28wMlR5elpCV0hiMWZBQ1VMLVFNMzZLSEFTSTdyVXp3YmEyN2NDSGRPaER5UFdTQlUycy02b0MwX0I5Q0pvc0NrQUtiVnhR?oc=5",
   "pdf": "",
   "résumé": "Grosbreuil. Top départ pour l’installation des illuminations &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "7f1e7d811406",
+  "date": "2026-11-26 06:24",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Pouzauges. 48 naissances, 48 arbres plantés",
+  "lien": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV3JfZ0k2TFMyZ216dmU0cVhXZ3A5cFhveUtwb19qVEthRFlYYWR3QWt1aGFRRjhIVFlYS3RRaUNxYzF3cVgtMTFCaWtyN1B2UEFZN1NfRUdXeE9pZmF1anM1Tms4Ukt0cUEzdVBWVHRmTnZWRW9UclNVbjVBR3ZXTWpvRDdWVzZXT1NZajNXU0x0TTBHYjRrOE83d0VtLTgtUXFxZkdOYkYxTXg2bkVR?oc=5",
+  "pdf": "",
+  "résumé": "Pouzauges. 48 naissances, 48 arbres plantés &nbsp;&nbsp; maville.com"
  },
  {
   "id": "14bb19f938c1",
@@ -158,6 +258,16 @@
   "lien": "https://actu.fr/pays-de-la-loire/la-roche-sur-yon_85191/qui-est-elodie-barthelemy-cette-battante-qui-promet-quon-vivra-mieux-a-la-roche-sur-yon-dans-six-ans_65093361.html",
   "pdf": "",
   "résumé": "Celle qui a été nommée adjointe à l'urbanisme au printemps 2026, n'est pas arrivée là par hasard. Même si elle n'avait pas vraiment prévu d'entrer en responsabilité. Rencontre."
+ },
+ {
+  "id": "b928e6659149",
+  "date": "2026-11-26 05:24",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "La Rabatelière. Un marché gourmand, ce week-end, rue de l’Industrie",
+  "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaFBSUjc0c3BPYVpvam9qMFNGRV95NUZtTlhtWVVpQ1JnMmxnVXJDTUtwOG9nVDVtUTMtZExDRFNaeUMzenUxWWFEQ3ZRQUw3Z25nYlcwZnVqRFNKcDc0eE5UdEVodGx0QVZwaW5DSnJYVkhDVmhQdEJjMlhYQ1Q0WS00RmlvZVRvX1FVSE5sZ1lSNzlrNXAyaFByNElBOE8tWGpQd0prY2RZSXF3THc2OUU5Z19nZ3RaYUlZQmFRU2huX2d2ZUdob2s1S2Z1dnk1MGJ6THNqSUZkVlhrczhFT2RBcVFacVVaWm5EMThhZGpCYW94VkhKbDh3?oc=5",
+  "pdf": "",
+  "résumé": "La Rabatelière. Un marché gourmand, ce week-end, rue de l’Industrie &nbsp;&nbsp; Ouest-France"
  },
  {
   "id": "2b03f83ef1fd",
@@ -2426,6 +2536,16 @@
   "type": "presse",
   "titre": "Rugby. « On a eu des frissons dans le tunnel » : ce Vendéen est arbitre tout terrain du Top 14 à la Fédérale 1",
   "lien": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOeWttX2t2N2hQSS1HQ204SlY3bVJxVXRocXgtbWNZVE1Ha25RemlxTzl5WVU0aHhPVHo3N2pTbmdTQkh0SGdBMEd2VHgyWTJkXzJfWWhieUdNVDk2YkgwMjc3VHN0OWUwcW5XZ0xCUkVPZTY5S19iYWRlRG9OSm54ZTJNa2VfOTZ5VVRiSzNwVFZDa3U2dGVKLUQwWlV4X0FmSzNUUURfQ1VYMzRCejFTMGNEM0pwY1FzNTNLeDh3RjVOd1M3aWVXSXVsQXE1V1gyb08tMkNYMkFoTmRSRk9fb0QzN085RmpYMXdEMmRDc0toZFh0enh3cjFzVVBfVUFsUlE?oc=5",
+  "pdf": "",
+  "résumé": "Rugby. « On a eu des frissons dans le tunnel » : ce Vendéen est arbitre tout terrain du Top 14 à la Fédérale 1 &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "725990c14b8c",
+  "date": "2026-11-25 08:09",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Rugby. « On a eu des frissons dans le tunnel » : ce Vendéen est arbitre tout terrain du Top 14 à la Fédérale 1",
+  "lien": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZE05QnI3MXg2V0N3YmZKaFh3STczUWhCSVZIUG4tcTk4OGpFVXRDSDRqNnUwY3RuQVdOUWJzS2VKc3ctTFJsOHBCR0FobV94YkY0c25UYXpWOGk4STRtRkJJODNsaldrTHpldWt0S0h4TFVya0NrMzBJTXN4M2ItSUxoSUhiQ3F6dzZDYVFTdDVtNHVhb3FLLW5LVzVybHlpdFdiazc4UllSYVF0TkNjOC1OalI4bU4tN2JDU1hWb0V3SlNhTXJmNUNYeW1NZjRaQ2pUT1BZTFdoTVVxeW5tN2dVY0VQRC13ZzBRc0dnM01IUmd2cU1tTzRR?oc=5",
   "pdf": "",
   "résumé": "Rugby. « On a eu des frissons dans le tunnel » : ce Vendéen est arbitre tout terrain du Top 14 à la Fédérale 1 &nbsp;&nbsp; maville.com"
  },
