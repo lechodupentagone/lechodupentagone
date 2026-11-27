@@ -1,5 +1,55 @@
 [
  {
+  "id": "a750b47a22d0",
+  "date": "2026-11-27 09:09",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Marché de Noël",
+  "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnJxeDVWanRNWWV2d2V0aWtuSlJFTVBwU0ZmYzFydW1hU1pfZThQS0lVNGxycHZYbjZOOXAzdEhMRllPeDA3TGh0c3dseEh1VXdhM2dOcmgtNUFSa2stalZzUi1oTVk1QnNOaDFESUhEVFNKNVB4ZzI3R2tCTDQ3Yld0aFJOMnZTZXBFbmFDV0VSVXZ0SVJYN24xczkzVHNYVmhIUzF6MUJpbU4wVEVuTjJES1c?oc=5",
+  "pdf": "",
+  "résumé": "Marché de Noël &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "56ae1f9ab990",
+  "date": "2026-11-27 09:06",
+  "source": "France 3 — Vendée",
+  "type": "presse",
+  "titre": "CARTE INTERACTIVE. Château, abbaye, littoral : cinq marchés de Noël 2026 à voir en Vendée",
+  "lien": "https://france3-regions.franceinfo.fr/pays-de-la-loire/vendee/la-roche-sur-yon/carte-chateau-abbaye-littoral-cinq-marches-de-noel-2026-a-voir-en-vendee-3455378.html",
+  "pdf": "",
+  "résumé": "De la cité médiévale de Vouvant au littoral de Saint-Gilles-Croix-de-Vie, en passant par le château de Tiffauges et les ruines de l'abbaye de Maillezais, la saison des marchés de Noël démarre dès la fin novembre en Vendée. Voici cinq rendez-vous que nous avons sélectionnés pour 2026, accompagnés de notre carte interactive."
+ },
+ {
+  "id": "6e96941e7fe3",
+  "date": "2026-11-27 08:54",
+  "source": "France 3 — Vendée",
+  "type": "presse",
+  "titre": "Deux incendies en quelques heures en Vendée, cinq personnes relogées dont une hospitalisée",
+  "lien": "https://france3-regions.franceinfo.fr/pays-de-la-loire/vendee/la-roche-sur-yon/deux-incendies-en-quelques-heures-en-vendee-cinq-personnes-relogees-dont-une-hospitalisee-3456830.html",
+  "pdf": "",
+  "résumé": "Les sapeurs-pompiers de Vendée ont été mobilisés pour deux feux d'habitations jeudi 26 novembre dans la soirée, à Beaufou puis à Rives-du-Fougerais. Cinq personnes ont dû être relogées, l'une d'elles a été transportée à l'hôpital."
+ },
+ {
+  "id": "59574089245e",
+  "date": "2026-11-27 08:16",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "En Loire-Atlantique, 41 futurs généralistes épaulent déjà les médecins de ville en zone tendue",
+  "lien": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV3VMQlluWlNKN194ZzhEejZ5Unk2WTI2VWdUZzBPOHB2bmZ0ZTVHNUUxX29iTWQwRTNNWEJGa1hOV2RLTTZvMGdGV18yNElDX0ExaHhXU2xsZDlsaGlRSWxyTU1rQWdJU3dzNzBWUjBrSzVQSkZmOEVpMFlNZ3RJYjFia3ItVk9vekpjWjRIX3ZzbFp5Q01OQ1RrdVhDT1FHUXN5SUhBTm0yMnNBV3FwajNhZ3VhMlE5WGNnWWhKVGlhaGxlLWY5dEZzSQ?oc=5",
+  "pdf": "",
+  "résumé": "En Loire-Atlantique, 41 futurs généralistes épaulent déjà les médecins de ville en zone tendue &nbsp;&nbsp; Actu.fr"
+ },
+ {
+  "id": "476b7f7aecbe",
+  "date": "2026-11-27 08:05",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Exposition-photo par l'Oeil du Semnon",
+  "lien": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQU21DMEd3UUtnWVRpSm9za2ZfVl8yVUxmRzVsRUw5T2xYRG1Xc0FCbDVybXZWeFFEUTNZUExyZS1FMnVLQUJuMmlnOFgyRzljYlN5c1BJSmhJejZTVDdxaWsxbFBQZzdxajB5R092bXFscGZ2TlctS0R3OGFLNUlNWEdDUkdpT3pqRklOelU1cGFCS2hGWnpTY05wX3BMcXNIWW01NXk0ZC1aZ29NeENPZWpRNkUwb0NXemhMTUJOemJCbVhIMlFvWm5BVzd3MFU1M0lLbFFTUERYeUxhSHhCcVZrZmxXbjNqNzdjN3FHX2picjNSSkNtdXBqRmhEYy1sZXZxakNkbXQyR1pVcGF1WllfNTFlUQ?oc=5",
+  "pdf": "",
+  "résumé": "Exposition-photo par l'Oeil du Semnon &nbsp;&nbsp; Infolocale"
+ },
+ {
   "id": "66197008ba50",
   "date": "2026-11-27 07:23",
   "source": "actu.fr — Vendée",
@@ -140,6 +190,26 @@
   "résumé": "On vous dit tout sur ce projet d’habitat partagé pour seniors « à loyers bas » qui doit ouvrir en 2028 près de Nantes &nbsp;&nbsp; Actu.fr"
  },
  {
+  "id": "26846e04db4d",
+  "date": "2026-11-27 07:16",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "À Beaufou, les sapeurs-pompiers mobilisés sur un feu dans une dépendance : Un couple et ses deux enfants relogés à la suite de l’incident",
+  "lien": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPMkc2ckVwMU5Wc0xvVGxRLTk5U0VCNjM0LWJTamktNzk1Q2lxQTBMZW1zZnc5TDZtRlJ5U2lwUkV4Sk5vVHBwdWV6d0FXX1RfekRZQmFHeV9vN25Vb1hfZ1FPbHFleXd2N2d3a1JoZktaM0JyRUlFbXZhcjFJMXIycUh0T001VUpza1QtSlVMelZ5OTlRNlpMQXBCTVFCbnhWaENmX21VQWJTWk9neFJDbmJTdGxpRFQzQWxMN1Y1OEVpNU41Rnl6Nldya29VS2xIVFNrd1U3LUQ1NHVoTkRJR1NBd2VDZFowcVNDT29BdmowdTN6UzhodzVwQV93OUJqZUIzR3BERnh5QmJTTDNwTzhMYm5ZSENNTHpyR3dMUy0tbVVrMm9lY3Rhb3A3SFVZVnhGTVJjMnQ3dEZkWlNHRkJDUGlpZw?oc=5",
+  "pdf": "",
+  "résumé": "À Beaufou, les sapeurs-pompiers mobilisés sur un feu dans une dépendance : Un couple et ses deux enfants relogés à la suite de l’incident &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "26846e04db4d",
+  "date": "2026-11-27 07:16",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "À Beaufou, les sapeurs-pompiers mobilisés sur un feu dans une dépendance : Un couple et ses deux enfants relogés à la suite de l’incident",
+  "lien": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPMkc2ckVwMU5Wc0xvVGxRLTk5U0VCNjM0LWJTamktNzk1Q2lxQTBMZW1zZnc5TDZtRlJ5U2lwUkV4Sk5vVHBwdWV6d0FXX1RfekRZQmFHeV9vN25Vb1hfZ1FPbHFleXd2N2d3a1JoZktaM0JyRUlFbXZhcjFJMXIycUh0T001VUpza1QtSlVMelZ5OTlRNlpMQXBCTVFCbnhWaENmX21VQWJTWk9neFJDbmJTdGxpRFQzQWxMN1Y1OEVpNU41Rnl6Nldya29VS2xIVFNrd1U3LUQ1NHVoTkRJR1NBd2VDZFowcVNDT29BdmowdTN6UzhodzVwQV93OUJqZUIzR3BERnh5QmJTTDNwTzhMYm5ZSENNTHpyR3dMUy0tbVVrMm9lY3Rhb3A3SFVZVnhGTVJjMnQ3dEZkWlNHRkJDUGlpZw?oc=5",
+  "pdf": "",
+  "résumé": "À Beaufou, les sapeurs-pompiers mobilisés sur un feu dans une dépendance : Un couple et ses deux enfants relogés à la suite de l’incident &nbsp;&nbsp; Ouest-France"
+ },
+ {
   "id": "8b3676c164ac",
   "date": "2026-11-27 07:02",
   "source": "Google News — La Roche-sur-Yon",
@@ -150,12 +220,42 @@
   "résumé": "« La politique de faire payer, c’est peut-être plus destructeur » : en Vendée, l’inscription pour un cross reste gratuite &nbsp;&nbsp; maville.com"
  },
  {
+  "id": "1a3fad10ef6b",
+  "date": "2026-11-27 07:02",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "« La politique de faire payer, c’est peut-être plus destructeur » : en Vendée, l’inscription pour un cross reste gratuite",
+  "lien": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVEF4TlhvQXphMlZuNTh5c2RtbTEyRzdBakdTS2cxNVhxMnhrRlg2eVNDMzhZU2xOYm5WZEtURDJTUzVqeDRWVjJkSGM3SmMxMDJBOFRBNVJHb0VBUVVCRElsMzJDZFM0Mm01U2pJT0QzS09zaXpBZ1dubjVkdm5qSmlvZE80RGJYNzB6U3BkTEllcU1kMGlycV9CeFhIOWhWdVNUOG5oYXpOVGFSUWxRd0lVWjMydndTMG81ajRtektzVXhsbHVKR085UmVoWUd4ZUticTZSVXlKY1MzNUYtVW5ESzd4c0RlVzdIaXBFaWJaWWtDNzdTM3l1bzRDNW84?oc=5",
+  "pdf": "",
+  "résumé": "« La politique de faire payer, c’est peut-être plus destructeur » : en Vendée, l’inscription pour un cross reste gratuite &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "0295d58cd324",
+  "date": "2026-11-27 07:02",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "« La politique de faire payer, c’est peut-être plus destructeur » : en Vendée, l’inscription pour un cross reste gratuite",
+  "lien": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMUszRVJMdllQb3RFVXpXNVRUdzFPeTczMmZ1dTNyZE9LNzNIclZNVzRlUzU2QndPaTNVd2tZQU43UkhaWFRTRkMyNE5fcEFpYS15QlZUQ1JlcWNFRHN4Z2ZjckFJSktlT3dlcjFicF9LNVEwaGFkWlE3andZd2J4U2QteE1TWk5Ea1VTMUgyMWhsUjFCZ3ZYaXI0WWo3NV9zLXA1VzBUblNDRUJKT0FjTHFxNl9jbTYtTjBCY3g2QkZJOWpoMkNteTJnTS1GZmpMZjh4NFk4MzVzc2pJai1UVnRzZENKSXZFX2hnYjdVWFRHVUpiajVkenZsaDlxSWk5NjBuNE5za2tCQQ?oc=5",
+  "pdf": "",
+  "résumé": "« La politique de faire payer, c’est peut-être plus destructeur » : en Vendée, l’inscription pour un cross reste gratuite &nbsp;&nbsp; maville.com"
+ },
+ {
   "id": "fc4a79ce425e",
   "date": "2026-11-27 07:00",
   "source": "Google News — La Roche-sur-Yon",
   "type": "presse",
   "titre": "« Le choix de faire quelque chose de plus sobre financièrement » : Combien coûtent réellement les festivités de Noël à La Roche-sur-Yon ?",
   "lien": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZndadk5FM054QkVTRWprU3BreVBkXzM2YlBjckVsbTdaa3dHTjJqM3VXMTlUVDczNmtUajVGMS1KbHVYQWlQR2pFbUFiOWl1aHVhdDdKSGotUU5GZFlHeVh6RlRhYV9tS2tmSW5WQTdyd0Z5ck9NNWhoaGU3MFM0UlZJbjdqdE9FYXJad1NKNGdZcG9UZXJQX2M1RXVsVkNQcnFwZlpYSUdXdDJBenVtTEVKS1N5bmNmRXNTX0J0SXR0eWdPVlZISjY1T2MwRnhOY1BsSDgyWC1BZDhyYklYWDlwOXdEbkZBc0JqZGRFQjI1UnNCVG5IcUZOTWc5MF82aE9qelRQaG9jaGYyUTlacmJ5eVVhYW1qWEFDVHhnM3dPN1dP?oc=5",
+  "pdf": "",
+  "résumé": "« Le choix de faire quelque chose de plus sobre financièrement » : Combien coûtent réellement les festivités de Noël à La Roche-sur-Yon ? &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "5022a5c90030",
+  "date": "2026-11-27 07:00",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "« Le choix de faire quelque chose de plus sobre financièrement » : Combien coûtent réellement les festivités de Noël à La Roche-sur-Yon ?",
+  "lien": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZVJiQjFlX0NLZ3h1VmlYSUUzVVNhU1ZhMHJfck9NZkJwcUJkQVV5c19ZcS11YXlTc2J0QWxzcmFSMVJGeXBYY2xOOGtHeGRtNHRhR3lOdGh3UzV2N1NGTlFsMHBadDJ3VThZRVdQZ2IzWU4tcjkwT3pfMUx5RlNwY1dzdTVpRnpCOWFsUmx2azE4UVVIam82MXRFN1dpdkstY1YxVDB1ajJ1TktHald0blh4UXp3b0Y1bWFGNjFBYkVlaEdQLVMwZnIyZC1wblZDbV81QUdGNEdDZGRZV3dMM01iUjBXdzZMUzhVM3FfS0JvSnVaekU2NmFFVXkyR01RS2xrYUZBTVlRM1NkU0l2VFJDYm5UOF9naWJmTUlUb2ZvZ0Q4?oc=5",
   "pdf": "",
   "résumé": "« Le choix de faire quelque chose de plus sobre financièrement » : Combien coûtent réellement les festivités de Noël à La Roche-sur-Yon ? &nbsp;&nbsp; maville.com"
  },
@@ -228,6 +328,16 @@
   "lien": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX3pZbnRNZHRzclZiQmd0VURZdVFDMkl1YjJIOXFfSEtRRklGdVlqWmhEOVI2XzJaZVp4RkktOG9tQ2RZUUk3RmtnSzlpOWpVcV9PVGtCSWF3cGo0cTk4WXhaVGlZYWtIQmVaNWo0d0N5ajZrMGQzcGlZN0VZSmYzSEJZRG5KYVNLZ1piVm5janJmbzVtMDFIcDZXSmhpS243VWtuS09mTEY2ZEpXdVRGUC1wUF9HNW9QRXl6SVRxWUhta2FXcmFN?oc=5",
   "pdf": "",
   "résumé": "Vendrennes. 110 Vendéens et Vendéennes découvrent la commune &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "93e1a719bea0",
+  "date": "2026-11-27 06:11",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Le Girouard. Un concert de Noël solidaire",
+  "lien": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDR6VXlJbDhJRFgxY3BsNjlfZ1dIVUI3cjZtalZZTm9Za2x5UEl4OUdrRWVmWkc4ZE1RTVgyN0pqeXJrYWxtenJtOVVIYlJCRGZTY3ltTzZtMXdhWXZaUGpvYjAtajdBSnMzSDVWcFpwWUc5MlVOUVBieWhDTXc2QVY4UmVDTm54SXRMRlFwYTA4cDBKN3JmVk82TUNibi1FcXBwQXRVZDZMcHQ0cWc?oc=5",
+  "pdf": "",
+  "résumé": "Le Girouard. Un concert de Noël solidaire &nbsp;&nbsp; maville.com"
  },
  {
   "id": "86dca113abdc",
@@ -918,6 +1028,16 @@
   "lien": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNbUZCajB6QzdxYURpSXBxNkR4ZjAyMTJZRXJ4ZmZDUDk1Qkd0YVY5VEMwYkFQajBTdDhReUVxcWVCcVdXSldYczNVMmdxelRTaVFra3gzY01kemJ6T1Q1TS05dmpHb213STdTSkFmTzdzbkpsWmNGeU1KZ3JnTzRZSkZKaTlSdHgzLTc1TU5NVm9uT0ZxamFpcElBMEt3TWRid3dDeTlzMUhxWlB5M0JpN2RWQTRqSGt1bXhUZDg2SkRzaENITnhISWlQYy1DeHp1bnVMX1I0eDJSRWZLRkg2OFREcFVFZHJmXzA1OEpVWVZESmg5eHktSlZQWVVkeXd1R0YyWGpZckVuLVlja2xGM1F4QW0?oc=5",
   "pdf": "",
   "résumé": "Trois univers de restauration, du télétravail et de la fête : un concept inédit ouvre ce vendredi aux Sables-d'Olonne &nbsp;&nbsp; Actu.fr"
+ },
+ {
+  "id": "2ec859128bbc",
+  "date": "2026-11-26 17:14",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Colère sociale : des appels à manifester par l’intersyndicale dans deux villes de Vendée pour le 1er décembre",
+  "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPajZCTTNfQTB4QjhXSFVHTW9VRmhfNHg4Yk9iaGt6NWtXUXp1bmN4SFI1VlAyWnZ3ZDdRdFl3M0dfaTVINHlrT2J0dG9DQUFzMEkteGVONnJKcnpqWlVES2VobHdZZk0wMjdENGctR252YUpIb2NIM3M2WHFVVGlHNG5nTVlkdkFtcGk4SlNzNXIwQ3RtWGpfdUZWUkJrMk1TRGYwY2lFZlV1WDF4a2RKOUdSYU1nd1lRVjhtX1hPbThRcHdFdjJMMmhJWFg1SzhRd3pnNXhsSXlNWDYwV0ZDc2EtLUU0SGkxN05MeDdVWkFsTnBEUmQ1R0tlbXNQM0FmRW1v?oc=5",
+  "pdf": "",
+  "résumé": "Colère sociale : des appels à manifester par l’intersyndicale dans deux villes de Vendée pour le 1er décembre &nbsp;&nbsp; maville.com"
  },
  {
   "id": "2bd5eaa0c56e",
@@ -1616,6 +1736,16 @@
   "type": "presse",
   "titre": "Judo. Programme, palmarès, tarifications, diffusion… Tout savoir sur les championnats de France séniors en Vendée",
   "lien": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcEpXRnBCSjd0UW1rb1ZfV2V1ZzZ0dFJhSGNwUWNhNFRJYVlxUlZSS0s3ZWhkNEFyU2NxbE51bDN0MWF6VDdCZ2ZJd19DTEVWN0h4WFBwRnY4UEN6Z19GTzlFTUE0X2l0XzZjYVdjMXotQkR5alRSOVZvbEZpdnZiSkRpalVyUnJfVzRPaG5KOHJCYzc1WUNOMXdrbDhWek53azhGemRGa0hXRmQ3Y0dvWDJoUVRwaEVqUy1oTTRUeDJSSWxsaHhYV1VwaHZaQTZwSjlUUjhVdlAzMTZ2OGxxcy1lNHY4V1pNSUhza005dFVzcDVSR3ZRVVVJRElYcFltbTMweQ?oc=5",
+  "pdf": "",
+  "résumé": "Judo. Programme, palmarès, tarifications, diffusion… Tout savoir sur les championnats de France séniors en Vendée &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "eb3604ba3b1c",
+  "date": "2026-11-26 08:30",
+  "source": "Google News — communes de l'agglo",
+  "type": "presse",
+  "titre": "Judo. Programme, palmarès, tarifications, diffusion… Tout savoir sur les championnats de France séniors en Vendée",
+  "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVFNiM3JvcE0wTFF5aURod0FpQy1NdGdKU3Vsb2pEWkJFdUxzRTE1LUJIazFDRGtSMjNXNUVKOXQ3S29kTVhwaXNVdkFzdWNFMXplRVZxOV9SeWtUbWtMTVFEV3FKMEUtNktJTlZseW82WFFSWmV4cFUza1lOS3p1bTBFVUp0R0VMWnNBX1ZNUXo0azZsZEswY3lGU3RzdzFxTHQ0Q3EyS1dwVnhmZy1mbmdzaWIzTzVYck81YVlLN3FQbmExWFlRR0kwMkZVTXVxQmZ6VjlMRl9nNjZITkpxVERjVnMtdlVkV1RGYmtpOGswQ2Rvc25wNVh1c3dTeGFmNTY1dFVSUWE?oc=5",
   "pdf": "",
   "résumé": "Judo. Programme, palmarès, tarifications, diffusion… Tout savoir sur les championnats de France séniors en Vendée &nbsp;&nbsp; maville.com"
  },
