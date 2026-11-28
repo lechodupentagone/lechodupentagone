@@ -1,5 +1,535 @@
 [
  {
+  "id": "697cc833ba21",
+  "date": "2026-11-28 05:47",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Et si on cuisinait !",
+  "lien": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFJ6cVNjU1d5NWZsRHFuLUJ0UWJESnNEcDNGZURkLWxRSEM1Q20zVUVEUEV5TmVESzJvbEprTno2RTNzbEdfVDJTSEJjYVE4S2ZQSi1QWjFILVBobFRaSkh2Z1ozNUtLQ2FJVVRtZDI3cE1ydGtkU1ZpMnJ4MmlmTVpPeEU5Qk02MUdKa0piOGFEbTJ6Q0Q4MjNXYTZwODZQTWQ2LUoxTzVkRkVUTGExQjJUUQ?oc=5",
+  "pdf": "",
+  "résumé": "Et si on cuisinait ! &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "2224023d4427",
+  "date": "2026-11-28 05:30",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "C'est quoi ces \"tut-tut\" que l'on entend dans les trains pendant les trajets (même quand il ne se passe rien) ?",
+  "lien": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbzhmeUljRzlMREpvSlVxM1kxdG1QR2hpZWhITzhRSURicGJUQU9pN1Q5Z0R1UkFad0h5Y2VSY0ExZ3VLS29IVmFacDZ0azBGZHNKVGtaYTZfMWFVVlhwRmFlOEY3T19MYVM0NkhfV2dhR1Nudk9WeUxvdk1kVTlrUkEzZ1hZYUowSTdFSldkbFNJMkpnb1RBZzF4bE5oTUkzVEN5ZmY4UzkyQndlaHNqNmVFdEI3NXNpaEhkRHJvOXNGenFHMnRhaTltWXZZd3Z1d3VnRTMxV2JIN1U?oc=5",
+  "pdf": "",
+  "résumé": "C'est quoi ces \"tut-tut\" que l'on entend dans les trains pendant les trajets (même quand il ne se passe rien) ? &nbsp;&nbsp; Actu.fr"
+ },
+ {
+  "id": "106e345fb7ca",
+  "date": "2026-11-28 05:28",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Météo. La météo du samedi 28 novembre 2026 à Challans et ses environs",
+  "lien": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY25UZlFkNlNPSkFFRW1iMm1lTzBMVnBSd3ljODFvOXhaTnc4a1hGTS01WV9TdVNCR0hOSk9PY2I5SFE1ZEQySWFzZmxXcEcyVXZBQWhocm1kbms4cGtfX3VYNHdMcm9wbmczYkFDNmV3ck5JN1hNckVBTTJLSjA4REJhSExSa3BoWHdXaTNSNXNoODE0UzJ3WnhQLS1QYThQVWw2U2NUSXRCOGR4MTRFQ2REREFid0JYMnlwNDRQczgycjhIS0FkWnRn?oc=5",
+  "pdf": "",
+  "résumé": "Météo. La météo du samedi 28 novembre 2026 à Challans et ses environs &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "73c6e0bc8cdc",
+  "date": "2026-11-28 05:27",
+  "source": "Google News — communes de l'agglo",
+  "type": "presse",
+  "titre": "Venansault. Angèle Mercier : mandataire immobilier IAD France",
+  "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT0xkV0FibUFBVU9Xc2lQVnVmTFNtNHU1dHBXVnhwc18zR25sYnFqX3Mzd1BnRUFEenRvdWtaSWlSa3BEeFc3aXRodE5XM0t3X1pEelBjSEpjRmZlVFhfcVRBV0xhdy1pdVZJdTUzUUNvYnlZTVVqeUlndnVwNlNKSmRaU281c05rQnZfMG5KRVBEX0pLYkdaazZfdElYQTdMbzl6ODJHbE94MHNOOE00czF3bFB1NTI0eWxPQ29pTmRMUzBiOG0yOGpCVHJrRi1QNTdqbm9GbzhlQ2c5cURJNFd1OGNLLTRxMjlQX2RB?oc=5",
+  "pdf": "",
+  "résumé": "Venansault. Angèle Mercier : mandataire immobilier IAD France &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "277d3ebe4019",
+  "date": "2026-11-28 05:27",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Montaigu-Vendée. Anaïs Padiou à la tête d’Osmose, un nouveau salon de coiffure",
+  "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSEFxc0tnRktpLU9mTERUNEFfSGRFWEdyUnNwemZvcU1LTmRuVGcyTVVzb2x6cnloTkxaWXQ4MUdiRFdXYWN2Yk1BMlFiY2FnM2YxRzBfOHNIV3pUeXRIWmJMRmhEc1NZUlV2bnA4LTdvblNQTXJTaG1uMFhtOFB6NTZIWXY4VkRkMFNITkd3NFlJQ2NVTmV6bE4zcDBaXzcyaTBETm1udS1xNDRIV01LMUpwU1BuejhLWUpsb05wTGhFbHRNRmM0QktlbUJzQUlTVzhzVnRDLVhKY1ZYZ2t6YWFIbFBQQWNkemdkU2llNFU2YVFXcVdUMDBNRTB1WUZ2bjFDUWtzYklMTVk?oc=5",
+  "pdf": "",
+  "résumé": "Montaigu-Vendée. Anaïs Padiou à la tête d’Osmose, un nouveau salon de coiffure &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "73c6e0bc8cdc",
+  "date": "2026-11-28 05:27",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Venansault. Angèle Mercier : mandataire immobilier IAD France",
+  "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOT0xkV0FibUFBVU9Xc2lQVnVmTFNtNHU1dHBXVnhwc18zR25sYnFqX3Mzd1BnRUFEenRvdWtaSWlSa3BEeFc3aXRodE5XM0t3X1pEelBjSEpjRmZlVFhfcVRBV0xhdy1pdVZJdTUzUUNvYnlZTVVqeUlndnVwNlNKSmRaU281c05rQnZfMG5KRVBEX0pLYkdaazZfdElYQTdMbzl6ODJHbE94MHNOOE00czF3bFB1NTI0eWxPQ29pTmRMUzBiOG0yOGpCVHJrRi1QNTdqbm9GbzhlQ2c5cURJNFd1OGNLLTRxMjlQX2RB?oc=5",
+  "pdf": "",
+  "résumé": "Venansault. Angèle Mercier : mandataire immobilier IAD France &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "f48f56373c5c",
+  "date": "2026-11-28 05:20",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "L'aluette, ce jeu populaire de Vendée se décline en version numérique gratuite",
+  "lien": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWE43RFFzbk1VN1ltcGR4Vll3SUxELTI1eDNkNUYwSFY3U2N5NUptOTJyZjBoeGREZ1ZkT1ZWem1OMXR2Y1lEWUkxaXI3cG5XSkpzYTgxRlVVYnZvVVd1MjY0LVp1dHdzYzgzWkU2Rmh1bTFnVVo4SkFRNkI5M0dLdTF4anUtcnAwUVhoY25Tc0xzTWh1U1N3TDRSdEdzbFUzWmdmcHd1cHhfckZGWXJ4TDZlbjE?oc=5",
+  "pdf": "",
+  "résumé": "L'aluette, ce jeu populaire de Vendée se décline en version numérique gratuite &nbsp;&nbsp; Actu.fr"
+ },
+ {
+  "id": "3b51593c0317",
+  "date": "2026-11-28 05:16",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "La liste des directs sport des 28 et 29 novembre sur le site de Ouest-France : Coupe de France, Ligue 1, MotoGP, F1, biathlon, XV de France…",
+  "lien": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOWHNxMFd3MklzQU13cmc1YTZaVjFGTGp3QnczYzh0LW5hRkhVNWktNTRmSHkzWk5YcGE0TlhNRWVhd010MllYYVNPUEpFYkZ0dVZNUDRVWG5GdlllX0ZlU1BWeWJycDhnd1BCMXV2YXJlWnJDYnFtMl9oTXpIZ1NrRHJTYjdlRTVpV3g1ZlY0SFRZXzBZd0V0OU0xTUFWRnd6U3N2ZHM2UlhRVW9XdjA5R0hZd2FSNEc5WUp2azUzMkswdmRjNXRMWnMwYkotb1ZHRk84THNfWWdQVm9PdUVnVVJqaksxd2I4NWU1SU1laUFqYmtINWJEUkZTTnNvc1dMSVRmZEpnRG4zMkQ3WDlCcXFmd3VyNlZkTTVGRDA0S0JPT2xLOXJYbHk4VQ?oc=5",
+  "pdf": "",
+  "résumé": "La liste des directs sport des 28 et 29 novembre sur le site de Ouest-France : Coupe de France, Ligue 1, MotoGP, F1, biathlon, XV de France… &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "9cb0e04cca5c",
+  "date": "2026-11-28 05:00",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Louis Guillet : avis de décès du 26 novembre 2026",
+  "lien": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GcXE1alQ4UE5uaFM2ZXE4NVZBdFlfaGduSktndTlyTWFRR3ZMUXN4OC1PcnZySkItUXYwRV9FQkxsdEdrc2VmY21ScC1odTY3RmtEVEU5ZHJZT2J2MVNrOUtOZl9qQ1NsY0lXMlNLbUcxM0NqXzhsZA?oc=5",
+  "pdf": "",
+  "résumé": "Louis Guillet : avis de décès du 26 novembre 2026 &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "71f5d492edf4",
+  "date": "2026-11-28 05:00",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Yvon Jamin : avis de décès du 26 novembre 2026",
+  "lien": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LVlE5dmdoWnJLVFhGVndrRUd4TXZub3dzOEhRYVh6SFN3dF85dzE1Zlg3WW1sRVFsM2o0NkNzTDBUemxyYzdZUHB2YkR4ZW5fUWdnT25wX25lWW95X25lcXQ0UWVBd2tOY2pCRTN2cnhKeTNC?oc=5",
+  "pdf": "",
+  "résumé": "Yvon Jamin : avis de décès du 26 novembre 2026 &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "9c89cc7fd306",
+  "date": "2026-11-28 05:00",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Michel Guilbaud : avis de décès du 27 novembre 2026",
+  "lien": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MMXIybkFaeGdxY25fZTlOTVhjODJCMWRnVWpwamQtSmRuNXlIaEtBZWpxVlNyTExlczZ0U0NIY2tjOGFmekphbzdTOExhaTRzMFVVSE11bUdHdDl3MUVuUDJabnRkTnh5Q0ZXa1BEUVlhazIycW96ZVg4QQ?oc=5",
+  "pdf": "",
+  "résumé": "Michel Guilbaud : avis de décès du 27 novembre 2026 &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "898b8773ba3f",
+  "date": "2026-11-28 05:00",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Yann Le Grand : avis de décès du 24 novembre 2026",
+  "lien": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TNzdNeFBrdktWSU5udFU0TlhwcF9aVmRpZE5QVm9lQVNORzBibXlHRzA0QVBQcVFoNE4wcDhYOWdrRmNwWGduTmFyNC1PeU5TMEEwUjZQNE9mZXMwLUNfbXVxakNTbWNNX1kybXBBRUJnbGFfb1U0?oc=5",
+  "pdf": "",
+  "résumé": "Yann Le Grand : avis de décès du 24 novembre 2026 &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "d8bc43b086f3",
+  "date": "2026-11-28 04:47",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Écomusée « P'tite visite thématique sur les poissons »",
+  "lien": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNSjRQZ1ZHT29PdVZvUkotTmhIb3pyTGdGbmhTaWFkZ0wzclN4V19oaFMxVTZmN3dqZTlVMW5LUXVGR243TnBPSE1TcXROWV9WY3RhcTdUV3NYM0JjWjBNYXZjV1dxTk5CSkdxQXhTR1prVkNWY296MVVERzZlb2RpWHZoNlBlVVdYV1Z0dFFqMXhmZm9Ub0NwRlJ2QWJpZ3JVZnYyY2pXaW1HQ3o0alg5YnNnQldBTUVFOV9IVkY3R3VNbXh2Z3pFM3BYNmxoUWpadWxpa0xITnNBTHBDZ3o3Ujd2VjlPNUx6TlA5OGt1OWZFTW5sX0lmT3lEdmttVDZTc05ZeVdBUDhNWVJEN3NRamhva29YX3VwcGlzcVdldVNZYU9IaVhr?oc=5",
+  "pdf": "",
+  "résumé": "Écomusée « P'tite visite thématique sur les poissons » &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "c755a440f003",
+  "date": "2026-11-28 04:45",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Écomusée : « P'tite visite thématique sur les oiseaux »",
+  "lien": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPOGIxY05wNExoXzhXQ0g1bFFIejljZmp2S0twMlJqT2RETk9CN1lwR2ZkNGE1U1hBLVFQRnVrNXJJS3NmWjFPbjdUQUh6TFpRS2JYVUVBY3pqeU9EZnhhYzFxR2RtUkxsRFRrWnNhVFFwb0otRGZfUExpclZzdWNTRktSVkpQcVlFTzRPYVJTSlFrSFZ2aHNDaE1ocWhrTkE1NWp5VWVSdUx0S3lJUm0wYmtxR0gxcldrd3o5d3ZRdWRvYlR0c3FMRmZCbmdkbDBfWGVTODBIS1hhU0dYRGJERXhZWjh1MkJYLUNSWUFkaXZZYzZqaWtNU0gwRGZJVFU2Ujl1YXFMSEIwSmFJcm1Nc2N3MnZmVGhHNUNDbmQ2YVBnR1Z5MGc?oc=5",
+  "pdf": "",
+  "résumé": "Écomusée : « P'tite visite thématique sur les oiseaux » &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "411d9df363f7",
+  "date": "2026-11-28 04:30",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Météo. Quel temps est-il prévu à La Roche-sur-Yon et ses environs le samedi 28 novembre 2026 ?",
+  "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMlMyQ0tJY3NLbVhaaWZyYXpQSlpBT0VpQktGMHZoOHZvM09GZFZ5T29hZl9vOVdlc3ltSVNiUlctemlhWUhZeGU2TFo2ZGtvOGNrWDBNM3FibG0tdXUxMWhBbTUyR25Oa0kxNTNLTVJ5UVNPWE0zdVlHUExfRVd0Sm9SR1BpX1BGbXN4UWJIZ2dnLWRtMkU3WWtucF9aMkh6eWhJcTNhQXlxXzFDdFBKRHhGdk4zX2lFTi1feGJ1N1lVdEx0QzFTMTh4SzE3bFJ6X19qZk1Xalo5X18tdUxJ?oc=5",
+  "pdf": "",
+  "résumé": "Météo. Quel temps est-il prévu à La Roche-sur-Yon et ses environs le samedi 28 novembre 2026 ? &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "411d9df363f7",
+  "date": "2026-11-28 04:30",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Météo. Quel temps est-il prévu à La Roche-sur-Yon et ses environs le samedi 28 novembre 2026 ?",
+  "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMlMyQ0tJY3NLbVhaaWZyYXpQSlpBT0VpQktGMHZoOHZvM09GZFZ5T29hZl9vOVdlc3ltSVNiUlctemlhWUhZeGU2TFo2ZGtvOGNrWDBNM3FibG0tdXUxMWhBbTUyR25Oa0kxNTNLTVJ5UVNPWE0zdVlHUExfRVd0Sm9SR1BpX1BGbXN4UWJIZ2dnLWRtMkU3WWtucF9aMkh6eWhJcTNhQXlxXzFDdFBKRHhGdk4zX2lFTi1feGJ1N1lVdEx0QzFTMTh4SzE3bFJ6X19qZk1Xalo5X18tdUxJ?oc=5",
+  "pdf": "",
+  "résumé": "Météo. Quel temps est-il prévu à La Roche-sur-Yon et ses environs le samedi 28 novembre 2026 ? &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "a37b6feddb30",
+  "date": "2026-11-28 04:15",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Bourse aux jouets",
+  "lien": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2JtMHU1TFhsSzZDN3Vvai13b1U4LUhjYkhhb1kzTTRfdXlDOVYwSFBrR0ZobmRhVFA0NTNsU3YxcDdxUEFRdzRKZGNERVY3WkNlSktDanY1cFMwYTNaNGp6V2hKWUlaYWU5M1dwa1ZCSjVUSlNCaHVRRGFYTWRzZUNmdkV6RXBMSzFEWVdsV1lzT0oxeFZIODFxSGxWR1dUWmg3MGxwYnpWX1dh?oc=5",
+  "pdf": "",
+  "résumé": "Bourse aux jouets &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "ee79a89d123d",
+  "date": "2026-11-28 02:12",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Soirée Brésilienne",
+  "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnY1XzJOaWdmVkhsVS1sekNjX0NGZTlRcnVNcnF5QWQyLWlVeS0wMVZFYWUxYW9ydURrc2hLdWtlRnlWd0w5aEtZX0cxSVRCWGlsNDR2dzZHZ3AwS0RsMmxJMUNneUg3X2w5bWc4X1V3NkJSUkt1Zk42UzQyU3V3N2VPbkZDRDhtZlFoUGdvT0dYZnUzN0JyNy1mVGpoTlVlWjdvY25YbEFXVk5ySzRsNm0zNGpGVTdBMWtTYw?oc=5",
+  "pdf": "",
+  "résumé": "Soirée Brésilienne &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "84a12337eb9d",
+  "date": "2026-11-28 01:56",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Tournoi de tarot",
+  "lien": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ3AwTlcyM1doYWxyWWQ1TTRGWVExZ01KNl9nM19VTUdBRXlRQzlwMmJPdVVsOGppRk95c1FKTnFfVUlYQncxQUxVR052Uld6UGdHSjE1RUd3N1h4MWpOMFU1ZFExS2FfQ2tfbU0wM3ZrUjFRMERaNkVpZnpVbU9nbE9ZWEJDd19rTUJDWm1lVkdpbERSLVdmenJxdElac2tqN2tVRjNXU2RobC1DVS1Cd1hETGdlOHk0bV9BYnJ4ZmtFSFVBbnB4aVNWdlROd3NDaTZFaXk4LWFNV1M1b3BoYw?oc=5",
+  "pdf": "",
+  "résumé": "Tournoi de tarot &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "25154705aa1e",
+  "date": "2026-11-28 01:16",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Match de volley",
+  "lien": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS3g4OUZjdkFtallIQkhBNVVkdGVHb1BTVHM3SDNzNkZhTGVIRUUxaHNfLXMtam5NUXdBYjdsRUZyNkMtdnR5RG5CN0hnWTh6MDZXWUZadW9nZmdWb09UMU9WT2JNTENfbUh6MDEwNGJ3cVVHMUFONXB4Ql9uQmRvSnVRelJtQURDeHNEbXFNSkxPVl9qOTl5WllLcnI2MDZUSlNCM0VqRkVYbmNyOGRJS2NEX1FsdjkyVHFXNTJNd3ZEOXBEbUxlZDFmT0k2ck9xQ25Z?oc=5",
+  "pdf": "",
+  "résumé": "Match de volley &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "a6de76216c53",
+  "date": "2026-11-28 01:02",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Repas traditionnel de la Classe 51 de Pluvigner",
+  "lien": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTkt6aDVybTJiUE04OE9MZWRTZWxUcEx1QTlNMzBpWEk0OFRPYTFEbi03ODRTRkJkMkhVaVlKdEdxWVUtRlo3d3ZQSUtTblMwUEg0WTRDZlhkSEZROFNkdTNVdFlGamJzTEJ0Z3JSNEpxUUgyX2l6by1QV2JyS1dUQ0tOdm83a3R1ZVkzUnRvd1F6VkZTUUl3QVJJWGJTRm83NmdSaHpYRlNmbFhPREVuenR2cGlTYXRMLTQxNDA5Wm1OV3cwVmUzdXM0SUNLTkY5SmdPaUVrdThRYnpxRkpLekt3TzBJSzlNNzhDV0hMNVQ1NFBLT2c?oc=5",
+  "pdf": "",
+  "résumé": "Repas traditionnel de la Classe 51 de Pluvigner &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "7794f16fcd5d",
+  "date": "2026-11-28 00:58",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Avenir Trémentines basket-ball : match",
+  "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPblVvTUktREhkUjBSRDhlUVBOOU1JVmRyaGpvQ1ZmUFJCc0lpWS1wdGRmR2paemVTZnZjVXY4MzhmY0NPY3JidFZKNnNUMVRRTUtfZDhGNFRxTFFpY0pwR0x4ZUpHREF0dGdWRF96YldIUjBMRTRiNUhnUUVnd1pjMjVYVGo5RVJFN19aeXBOSzRJMU9WYks3bFR5TVFjME9aeDJ1MHhzZVB5eEVSUmRJdDFFTS01aEV1UERpdXkzZ08xV2pwbDZHeG5vVHhFNklpVm1xVnBwYXlnU1oyNTU5R2pZSDhxaWc5cHdzcHNhd1BDd3RqcUpLcXpuMzk?oc=5",
+  "pdf": "",
+  "résumé": "Avenir Trémentines basket-ball : match &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "bc8d7ab0c71f",
+  "date": "2026-11-28 00:56",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Repas choucroute",
+  "lien": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSDM4ZVk4VHliT0I4U3QwY3RHeFAtYjVyTTNaTzh0bDlENjRXSEpyZDQtenZycEtKQnVjU2tvMmJPWXlPWlRYbUF1aDZnVUdrdUxrZ3NnY0hCTjFVTjAyUzVibFR1ZDR0U3hkY0dqY0RPT0NvNWZ0THBWclA3LVFWUlhaMWpTVFZjS1JzdkV4MUthTDZkUlZvNXltQWFWUHM?oc=5",
+  "pdf": "",
+  "résumé": "Repas choucroute &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "75b571be705e",
+  "date": "2026-11-28 00:55",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Atelier ReCYCLE au marché de Fontenay le Comte",
+  "lien": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQOEphVG9fSy1faGtnSzFhVW1aWGpLclZoRkN5ZFRTdV9SWUoyc1I3azhhdG1CcDdROXpsem16ZnpHMExmX0lnWHg0Ti1JT01KV2FOTEFzdzBjN0pGTU5HbU1HY2VEd0k4WEJUN3R5RkdlUzVfZldmT3h3SDJJUFc3aHRLYm9PSV96NkgwbElFeE5mVFNGVTh4ZHJnZUwzRzlBc3F2dEg5ZzRlVzZaRk9ORFdCTnZkQ0loWWhxejFFYXpoeFdoZHhkMWxoazJfY2tNTFVMTFh2X3Zaa3U3YkY2ZzZsUVpMZVdYck5lR0FWVXhvQ2c1RjBXQzhRSjl4cS0zQk9mUHpHN3ppNFlka0hzNjN6QQ?oc=5",
+  "pdf": "",
+  "résumé": "Atelier ReCYCLE au marché de Fontenay le Comte &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "ae14f451a85b",
+  "date": "2026-11-28 00:40",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Café des parents : Troubles du Déficit de l'Attention (TDA/H)",
+  "lien": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNY2pJU2pVY0paMk8tMmlGSURvaE5VQkZ1cWY1TTJqa0FOSUN5dlYtWE1jWWE5eHdwR1o0eHJaU0kyZFE3bDZOV1RjWVd2dnMyVzFyVnZIOWkxNWFOQkEzYTFXakdxczY0ZTFPUmF2VGhKRTR1TnVSSHhvRDhPOGt2V3VIbV9iUE1OT0RFdFFyNnBoN2N1bGl6TkVqNS1ZTk56RDM4Qk5ENmQwczFLSkxjaGUxVm9lc09NZVpRRkpqRWtjZFA2eFc2dXNNZGZGYjZpY19tTDdQUDRJcnR2aEtvRmt6WU9iZkhvRjk5ZHBHcWp5R01aV1Fmd2U4NVhUMDhIWVg4YVhxcUhFd0hQR19pUWVvVjRrMkFTdThtVzJVLVFobzVZUUhEZXNEVElYTTNRTDduc0VRdXBpNVNFN3NkUUtHeHQ?oc=5",
+  "pdf": "",
+  "résumé": "Café des parents : Troubles du Déficit de l'Attention (TDA/H) &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "b795c04a985e",
+  "date": "2026-11-28 00:28",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Football",
+  "lien": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxON3BQWGo4UHo4N3VFSXA4aVFKZTRIc29YVGpYYk5qVXVHTUZtLWJZd2g3T1VyTTBGY1NmWEczMDBSQ3NNZlJ6alBfc3ZXNVdUOGhfd3RMcEhVbmJhaGo0cWNXVEVFa1A0eXNZQlUyZ3dBdzdZYzZUbElvYjkzRG9EMFhYdjltcEYzVngwQ2g1c3VWMndGTjhza1Blc2hDQUNRYkdDNVptTmRNSFFFeklLSllsSklUd0k2YldwUDMtblBZdDU1TWFuVGphVExsZEtsMlRNX21MYzN6eUhXRzk4?oc=5",
+  "pdf": "",
+  "résumé": "Football &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "63c7226dabcf",
+  "date": "2026-11-28 00:28",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Messe",
+  "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORmhxVGhnYkFPT3BSem81ZVVxRG94N0N3UTItMGZBZVFZVThXTVIzbm1KR2JCYkpCZHV0eEtGOUJ1bHJBRmpZdzlYWTNzeXQyS3Z6SUV0WkhNaGFNdTRpY2p4NEx0Ym9JWUwwSVUxWG5ueHVybVpZejJDeXlqVlBHVk9ZQVJlSG4zUEZPc3ZzbGVsN2piMWoxYkx3VmVsQXdrbHliRksxeUpOamZib1haeDhDaW1NcUE1Qm9jeE5mUk5CTkpWNE1xNHZucFdQSzBmWld1VE03cHdGaW0xNEJKMXQwQ1ZvWGJJaFRONjZJZG5yUUNLWllR?oc=5",
+  "pdf": "",
+  "résumé": "Messe &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "e0112f5551be",
+  "date": "2026-11-28 00:28",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Conseil municipal",
+  "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbmZjRTVnQUNMR1NtSjIwWlBjSnhSMG5BS1F5YjcybzRXeFhBQmZ1OUNGaTFmZU9MQy1Nc3BEMUVDanBsaF83eHN6azVubjRtcGtXTzVYV0NBbGo3bDNRSDNQMmVxQTVJWnBRVFRaQkROZ2dnclNPMXVGUV9CQktlRXFFWUw5cUFZZmRlN1hVYzJGWks5UjVGV01uUW9GMVFVbTlpZTU0eDlYSHRWaTlzVnRCdFk5UUYwTmxJVEtPTmFKdGRXR2hSamp6WF81VDNiRi1jcy1VYTNDR19xaTRjclhRSkhRd1J5OUs3LUNDVGY?oc=5",
+  "pdf": "",
+  "résumé": "Conseil municipal &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "e0c6b392e336",
+  "date": "2026-11-28 00:28",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Mairie",
+  "lien": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa3Voa1lLRmNnYVNFaWN3YmxQSldNak5IUlZ5VGRRaEo3ZHR2c3hVcFFYTmNMVHF2Xy1jc21ld2szZ2cyWnpVeTRmaTJYa1o4bjBsdWl2V3NrS0xrcDU3U0c4WVlIVURFQkNBQVNlUlhHejBmWVgyaEFoYV9UYnpKRVh1U052QW4tU2NnUTZhZ0dmZ1lrdWlYWmVmUV9TMmo0NzJWMzdPT0ZPR3pLWWpmbG5BLVEyUlFVSlZiVklzRlBUcktVSlFvUjdsakVaZnNUVnpraVBiTDNzbnVLN2paODdKU2N4VkptQlFhZXdRUmI?oc=5",
+  "pdf": "",
+  "résumé": "Mairie &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "47bbfecf0bbf",
+  "date": "2026-11-28 00:28",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Conseil municipal",
+  "lien": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYzdiTHFVTFBzdlFiSUsxMmYxRzJMclVLSjN2ZWh4WXR3a0NGNlNtaldEN1A1a2kwVHFUNmEtYmEzM29xTXRjTGprUzZtMU5lY1VYaXNCZnZsSUc2bVdTNmpHUG5PV3pyRFFSZ0RzbE5JUlpTcTFvSFlsT0liTVFfWHZkNlRlSEMydWJjMTNjUDZJNE9JbVFudGNnYmtXbGFmbjhrYlVMZHhUdlhNNEZHUmFFRzc4RC03aFRtdS1nMm9JUk1ZeUdFRDhINjVwX2gtc2NpZ2VYSHpOdmpSR0ZDVlFDcWZVcnJpTmRJY3lVbDNuLUo4Wk1pek1Dcw?oc=5",
+  "pdf": "",
+  "résumé": "Conseil municipal &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "cfc206077c1a",
+  "date": "2026-11-28 00:28",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Temps fort KT",
+  "lien": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObkUyWmNpajVMd3owNjhPNHlLdkRVdm5WeVBVbXVtSmMyZEZ0UXFOeVBsVk5QOTZ2UUtYWXVJNjhVYUtZaG9rWktmY3JneF9zYWFoVDhERFJfWEpTaEtHLVVCQVBRXzJZZTR0UEg1M1BkZVVQYjdlXzZzWl9JazA3M0VTbjZHREFVa0dmaU5yV0JxWk9yMkdpWkJPUi1vdkdTQ0tKeHNrYUpDZDVVTjFYaGFqVjU2WHgzRkVDdDFwZ0ktRjVDa3lLWktYdXYxYS0zMVhJbzVpVEVONHJiYzBOYmp5VDVjM2FzU3JzbnBKZjR1dmdi?oc=5",
+  "pdf": "",
+  "résumé": "Temps fort KT &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "0193c7d2924c",
+  "date": "2026-11-28 00:28",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Retraite sportive du Val-Suzerain",
+  "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOaTZia1RMYzhtUVlFbk9xeGQ4NUlRMFRsTjl4MDFPekFNR3BqVk1CRFpPX3d0M190V0dfQ0hmcFdISWwzY1JwLXNMeUVXaHdtT2kzS2xTeVJTSVhiUzcxRGhka0ZqeHM1M0JHb3RJMDU0N1dBZ2xLdF9mSUVwZHZpSnl1WGdmb2dlakNWdy0zdHNUajhSV0tKaGpmTjB2cDBCTnQxZ0MzRndfNVhWdUp4RHVKUjhyOFRWQmF2OW1wT0syYWt1LS0yNHNiVzNBb0NnMmtFemRYZ1ZMcFdpeFVLbjNRZEZVT2cwQzd0MDNTR18zVkFVOVVSaVVaZUJ2V0RkRjM5dlJR?oc=5",
+  "pdf": "",
+  "résumé": "Retraite sportive du Val-Suzerain &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "6f0c9f63a8c2",
+  "date": "2026-11-28 00:28",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Soutenance de thèse",
+  "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMnpvbnFMQlh0dEpWRUZzUmlnSHlaRGZaMW5vbl9lQ3hjWmVIeG9WemtfUHJnNHlueFpOMXJkZjJfV0duajh1ZE80VjhENXZSRHBKRXFZUmUzQXc4TGs0Y1VxZ2RubnNEMEk5UXNZVXo0TlFSellBS0t3bDl1UTZKZEQ3NTJkQlprR0RDV3dHUm9LVEZhSzVPUmRBLTBudjkxY25KUnBjbFQ3N1hRdm9CTTViQWVXLXZZTTRLWkNzb29qSXJFcmJGX1lqM3dKZ3VqTXllOFNWRmJYbnVtczhPUTVvcS1lLWlaVXNib0lPMGtkUWxyMndXb0hUQk4?oc=5",
+  "pdf": "",
+  "résumé": "Soutenance de thèse &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "b3545a3d309a",
+  "date": "2026-11-28 00:26",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Union nationale des propriétaires immobiliers",
+  "lien": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNX2N3bTRvOVdBRU5FenZ4VlNzejB5blVPRm9WX0lIVm9kazlaNW1YazNXajAtZGRqb2lYMDVCZDVDd2tZZ3cyVDZVWTZ4T25peGpYNVlSdFdmdlJWSHR3WVRHMDlJaFhfa0g3VmRNYWVNN01SUmJRUlNNd3N5eEEtM3NPako4RlFaTlJQdDJvc0RlSHdvWm1UZWNOM0UyU0JYT1A5c21GQ3FaQkptenBhcWItT0FDd3V2U1JxN3BfeGxvVGlvUmk5MWJpRUtnblZxNnd2cUxLeXJBY29rdk9fS0phclR2V0h0OTJrSnFoYXRSZkpUQnJ3NEtGTXQ?oc=5",
+  "pdf": "",
+  "résumé": "Union nationale des propriétaires immobiliers &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "3baa129b6775",
+  "date": "2026-11-28 00:26",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Messe",
+  "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY1dVLVQyS01LRkJpSlRJUnZwWV9NLWUxckl2Z0JkMVQzaG9hcEJMb2lFT1VYSFROWlYxVkRMOU5VQ0pjM3oxOEZONnRHOHhRbERsMnhCc1BsaUJCUGtyZW4xRnh5anFjRVItVnUtTnRqbUJQeHFRNFZLcFdPaTNLelZRaU1TUy01ekFtUjR3M2tqS1ozOFBfQllwWUFhLUhmTUtsQ2NFVDJRUUxoVkIzUGZYY3ZnRjlqTDcyZHBWbXFveWtYaEI4WUxUV3dSdVVnV1JEWDk0bDgzbWpQMzc2dkpvY3E3bkl4T2Jv?oc=5",
+  "pdf": "",
+  "résumé": "Messe &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "7cb0f53a1639",
+  "date": "2026-11-28 00:26",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Messe",
+  "lien": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWWt5VXByQUU1aEJnUVR0ZGNTaGF4WTlzWDU3YmxIVnNKcjh0bEltZEhublctQ2t0YzhINnZVM19xcFI4SjBfdjNNMTNndjhIcEx1X1RoMHJkN3hDaHhycGg5RjB3YlViWGt2OGVwbjgwblVPMjZTZzNadk5wSGNtUWpaR3phWE02WEI0Y0hiNXpEVXM1WjlZMEpxS2pFVjZDNW5ENUdTdXRFZ0duTUZVYkM1UFItYlkwbDg4eWh2YktET2Q5V2s0VHd6aWtkRE9SVXM4dVVtcG1JNVVFNmdlNFpR?oc=5",
+  "pdf": "",
+  "résumé": "Messe &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "ebcfa99b43d0",
+  "date": "2026-11-28 00:26",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Messe à l'Ehpad",
+  "lien": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPa1lTNksxRGFXd21ldF9xcFhCZTF1ejhraGo0RDlXTjhaUldQWi1KbmZTTk81eVFCYXVDUGRCUHYtcE1yS3Uwc1FqSmt0cGlTOUFJc1B6MzVmX1ZyOEMzN1JrTVF0c25pT21HMVZXS3BYMkI5ME15ekduUWoyV3ZmeFdscTdpeTZSVzZqb3JFS2dLclVQMldYVHFVVGZzRFNtR3IwaHo5TUZySktvLVg0OW9fSzZLYkxCYWpXSXFuN1Z3Nmp5QTRnWEZKNHhUUnBianRWdDFGcnpTOUg1SHktLUdXRmhlM0xhMFZxOVlHOV9JSldnYTFyV3FPaWlINy02eDh4RklBOXVPNEZKOWRJODRWU0VPR1E?oc=5",
+  "pdf": "",
+  "résumé": "Messe à l'Ehpad &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "3d44d86e653c",
+  "date": "2026-11-28 00:26",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Jour de Noël",
+  "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVk9CM2UzY01uTmFuY3c4U1E2RFkycVN2SzlheGQ1M0VzajIxby15OWxXeFppM3lzcUxCVThLSTNVWkszS2xBV24xVXYxMWRmbFM5VTNFRlhEWHh4RTlvY0dMTlk0NG9sQ1o5ejdhZkNqOGZ6YXcxblhvaUlaTDdueXJqRlhoLWdpODg3dk1kUlgtV01oR0xTX1hBLWFqckhSZ1FfS0VuMTRVZlFGR1ZRNTU2UTAtTExLbkdQc1JvWTY2WUVGMUgwQVJHUDczbzNJZHhPdFdIbEx1N2RWdTJNVzQzdjBlcXpJNmZuV1J3?oc=5",
+  "pdf": "",
+  "résumé": "Jour de Noël &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "5b9eb984eb73",
+  "date": "2026-11-28 00:26",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Médiathèque",
+  "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTFpFdFVmMFJCMlpudldjRzYwMzhBelk1OXNGQlF1eFEwUjdPQkpVLThQQTBpTkdnSU5xMEhhMkZrVnM3cXdJVFZMM3k3WTdfV2lFQjBxN3ZacDRtVnZoQm1TdGxadmNGRkFXQTFfX1dWZndSTnJheEFMQjVzRDBUZEJPNjRjWlZlSHA0Nm01YnFHSGl5Ym9fUVhPcGVMSXBrOHR3c3ZUUlFIOS1Db2JBRU92eHdrUnpPNThIdlhreThYNGVVSzNOOHdfeC0xQ3Ezek5IRlhteTVTZFZE?oc=5",
+  "pdf": "",
+  "résumé": "Médiathèque &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "f44c320e549e",
+  "date": "2026-11-28 00:26",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Messe",
+  "lien": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMUpzS3hDOGlnWVF4THBZblNKWDBhSjBYY2xrY3ZmZ1BWZUdvMEFlbmxUNHp3MFJ3RlhMSGtON1U5NDhWTGVmT2NSRVk1MlZVa1NQVVhUVlg3eHp4akFwWW14Rm1hUE56OVZiYWlvQktidHNCR1JuYko5OHgtUHducnMyNDNiUHF3Q0VaY1p0YjdFMzJfUzRHMUJSbUU5aDVIWHFBaU42NHBBVkdoSXRXMzJWRktJcVVuMW5IRmZZQ3pHdFZURUpzLWw0RWp3LVFtMWJxc2xRTXE5REZtVkVKNkQyS2ExYjMxbFE?oc=5",
+  "pdf": "",
+  "résumé": "Messe &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "0625fe234094",
+  "date": "2026-11-28 00:26",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Soullans",
+  "lien": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObVpYMVA3TlM0Sk55Y29vWUVTZ09oLWI2dXRPNm1WaDBER2FtZTFVTUVpajFzS0lLdzhia3Fua3A3WW1RUUpfeXZBUnNkWnRpUFhCU2JHNjBOamVwcmxOVjNMVmxaTmdCSmczaUk3dUFTRDJOd2lGRmwwS2xPYlNjb2xJWlBQY1NTWFBYdnlGajdKRGkyajJGUFdBYVpxbk5LcHAxS2NXRXNWMHh3T3d2cmEzSm9GdFoxSXZvVzZMZXF2VTVSUVJZbXU2NlBZTE5td1FIWC1vQzNKTUg3cTdKbGctSko?oc=5",
+  "pdf": "",
+  "résumé": "Soullans &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "56e5d729a3f1",
+  "date": "2026-11-28 00:26",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Concours de belote",
+  "lien": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPU0N2Tkpwc2Q1R1pRdFIzUnRaclc0NnQ0YkNEYmtFcEdOcTQ3TXRXYl9sXzlONHE3ZHc2WFNxcHlVZXo3aGR2X0ZDUjdJQ2JLOFFRUzkwWk9nRzFhNWV2R1FjOVdmTXJOUHF0S1c5UW5JQngwY2J1cW0zQm9jZ2NZakNEYXV1TDBBZXZ2Qy1fclQ5MjZLemZuX2wwXzRLcVp4THBLbXZOLWpSdkVTVUJQNXhDTWp3dzI3cjFsaEtaUWFRSzFjT3o1cEs2QU1iSm9Ed1NDSnduZzZhcUtDcVdGdG1aTUU0RnVLc3hsRXYzSjlNTWs?oc=5",
+  "pdf": "",
+  "résumé": "Concours de belote &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "ae17351ee150",
+  "date": "2026-11-28 00:26",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Fermeture de fin d'année",
+  "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSWg1SzN3WlR5MGpzUUZ4aUtTMDVhMmZpTDRfZjV5TENHSFJOZXAxb0YySVdzcDdZellKc1NUbjhFcXhVLWtlWmoySUhVOTljZkw2Y0FYc25lTkxicUVhZ2NrLVNGaTFSaTI2amVtUDZxSnhnbFdfRk5NS2JTR2ppOUdmT0prOEV2QXJFMkdHdzBqV2xHVkk1bUxTQ09xbnlIXzZoMC1odFd5NlkzelpxUkNNMGtDTWdWWWV3dTlUNXlUVE52X2RUeV9HLW9RTGJwampfM1U3bEJIY2YwZC1ic1ZEWDB4RTEzaVpwWWpXMk5DT25McmRnd29RcXpRVWxsdjh3MU1ZaFQ?oc=5",
+  "pdf": "",
+  "résumé": "Fermeture de fin d'année &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "73ba56bba8e5",
+  "date": "2026-11-28 00:26",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Saint-Gilles-Croix-de-Vie",
+  "lien": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPaTVIMDdlRm1ERk9GTW01cEs5WFd1aTNzX2xTMENyeTR6N3d5M3lzbVJqQ29GTTJRX3IxWUxQaW83YlhuaktkV3lNTmNCeHFscWJGd3BGVl9ENGRVY3JydUlUOFRVanF3Y0lrU3I4ZTJ0eFpIYmNFZHExLVFVb1FoZjlaMUIyZ3N3WTdzd2k4VHdObU1qV1N0d3prcUg4aC1pUi1GeG1PRDVjRHFrejVuTjdDUzVFekc5OUh1a1djSS04RUN4TTFpM0d6Q3FEN1UtcGwwZm1zUUh6UVkwZlJ5amNZYko1d1UwUkFWYkhSaGRUaExyYVRZRlZETVpmcFpIaWt5U1luaDlERUNyc2JVZEU5Ni1hbC10d21xRU9VWkI0STFvcVBsa1VRMlJ1ajRKU3V5cGVMWkdoSFpDNGc?oc=5",
+  "pdf": "",
+  "résumé": "Saint-Gilles-Croix-de-Vie &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "81cd13a26bba",
+  "date": "2026-11-27 23:50",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Loto organisé par le comité des fêtes",
+  "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPU1BvYnoyampWaXhOQnpwUDJ5Zm1SVU1VZGF0eklCMWVIZUhzRXJuREJDckxsLUd5TmZpUHp6bHpUZzBiQVB6TS1CYzh0S3FZY0JHb1ZOVGtRdUpUTEVnTjl5UnpydWFYcmtMdXh5cDFkMTBOREk1b0QxUlBFZkNMWFl3Q1ZpNTZmbEJaQjg3RDVlM21uNXhsM1ludVd3RkQzTndtbTkyekxTVnhyQnJ2RERHZ05LVnozUnpiMmVLXzNrbVQ1TnFVMnA2VHN0dERXTXFSQWExRER5VEpPNzF5bXA5a3hlamtwb2pneUdKTzVQMy15eXc4b0ItVTNSQW93UEs5dnh3?oc=5",
+  "pdf": "",
+  "résumé": "Loto organisé par le comité des fêtes &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "790dbe94a50a",
+  "date": "2026-11-27 23:48",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "ASBD foot animation",
+  "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDBkZ29JOVJ2SVdLQkVtVTllbUdBbEdHU1YxZDhoaVcxalhTWmFsNHNYaGRodktJOEdfZ0ZWcVoxWEltRVppVkZPOXFHVTA1RjEzMGRIZkdNQk0zRDZ5UmE5OGdrOEVfXzRWUVd4NmUyTTJscGE5UFh4eWt3RVVta3A5TzRhTVFsaV9HbUJvei1qanFxY2t5QkNYNVhHczBpdXlpMw?oc=5",
+  "pdf": "",
+  "résumé": "ASBD foot animation &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "5a196f1c9b49",
+  "date": "2026-11-27 23:38",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Saint-Poix",
+  "lien": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbjFhdE90STlsNmtsQnBKY25vNnVpRGdodDV6c0lRUGdSWDdlVUdheHZGNnlneTBDajUzM0RfS2JDRGVvNWNzdkRUWHB2Sk9aUHQ1S0d4bzl0aWd0cUtBVDM4RHpGWHhCbG5CWTBJMGh6RFQwWlJWVHA4S3d4Z1FjdjFxOG9uZ1NJNXJ5TXlyc3lZdk5KbDVTV09uMWZnMTVuNnJIekZYUkdlbHZfSzg5Vmx6Unk4NFV1QzBZR0o1MTZHLXFCMEJPdHlCTG5aSFFJNi15WEJOSTMzQXliWndfd1E1TXVDQWxoSzhR?oc=5",
+  "pdf": "",
+  "résumé": "Saint-Poix &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "9771264f9379",
+  "date": "2026-11-27 23:36",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "ASBD football",
+  "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbjRnUDl1d0JqOF9rRU1MNjJaTEo1QklfSDMtSWFoT2J2RWdqalJQdWR1eTU4clFlNlV5QUEzWHI0bFdsYUktSkFuS1dOa3RDNVFrSERzNUZkdDNPRXp0RE5acXlITlpWYVFNbUNvdm52TElZU2g3SFNBTkRGUFJOZEtzajA5dlZXUFNKOHc5UHppcW1LQ1FCV1dxU0w?oc=5",
+  "pdf": "",
+  "résumé": "ASBD football &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "b28c170bea81",
+  "date": "2026-11-27 23:36",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Téléthon",
+  "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU2JqM0FDZ1h1bl9tSHF5TFRZa2VFUDdwQm5tUVcwM0lrU3NKNEdEcU1qZ1lUYXJEZUVFbWhYSDF1ZlpiU1lQSm51anVtZFV1NHBSNGxFUEZYengyXzZGRGNDUFFkcjJZcTRsR01OdEJJcEZialhHMFZyYlQxaFg0NmJuMTVLMnc4NHAzam1pS0VyZXNuWkZCeTBncWdoaE9pV2lQYmNrVjdWWDZCYm1DcEk5OG84eDF2aU91RkJSNk5sbE5vVkdPbnpZTThQOFNBeEtIUlRxVWhHU3AxRjlPc0JqYzFBMVg0STZlWTFB?oc=5",
+  "pdf": "",
+  "résumé": "Téléthon &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "1bbd6da9e701",
+  "date": "2026-11-27 23:28",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Matchs du week-end de Concarneau volley",
+  "lien": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbVk4TWdBb2pBUEtMOWdTOUpUamg3bWpNVkJDOGJyODZwTTR3czZfV2F6WVFnQVdFN2F0ZnMzZUNjRVBXOHlma29jTi1lNFlUU0VQQm5zUnRDenlVSDhRMldqaHBtdThSUFNGZTR3OWNhcTRNZ0xsc1VxS0lPUy1QZl9hZlJieHBkemlvS1VjNTFvdDNINTZJOUZFMDdkVmVJYlVhcWJ5WUxqRXYzNk9KQ19Hd25KSTFETTc3REVSRWJGUGFOa2tURFZyMHJpT3NfblNYSUdFYV9JVFYtVGgzeFk1dG40RWx0ODN5cWRR?oc=5",
+  "pdf": "",
+  "résumé": "Matchs du week-end de Concarneau volley &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "65c0d42a4ece",
+  "date": "2026-11-27 23:16",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Festival sur la Place (ou à emporter)",
+  "lien": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdnZ6R2V1Mjl5Q2VqQ3hFaHdKQno0N3JGdmhmczBFeW9oZlZpVk9NWTd1cExvR1A4VGtqMFRYZE5JVFFwWldtdXBCVU1iQkM3cTVOMGxXZ0kzMXBHMVBrX0JCTEVuREIwOTlTcjNHZFlpejdmNVIzLWZkeGhTanA5dUZxZmNmSExYb1pjUGVyU05mbFhoMXpqQlNFX2JjRFFTT2xrWE1MVGVucnQtckpjWEg5RGZFSzFvMVBLTHRZdXhVeGVhYUdyX19qYTJUMWRjODVIdHRyN2hEaG50MjhzbnZidw?oc=5",
+  "pdf": "",
+  "résumé": "Festival sur la Place (ou à emporter) &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "30890038413b",
+  "date": "2026-11-27 22:58",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Cercle Chant Mantras",
+  "lien": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGlWSklBU3JncDJhSGN5eEhUM0FuaEU4Uk9TZTM3a3BXZWtieERxZjhWeTI1d0NOd0tidko0UW5VYzVWZGpQaHo0MTV0Wl9ELXdhZ2xtdEdQbkh1c0xfR2VKYkVZbUJFakU5Q240VnRpaDhUX0xEVWRUb0JoelZteWFLMWJFazdBclRyY0gySmFvQ0hqaW54QllCN192Z294UmhUVXF5bUVrZE5wbVYxVDJEZEZHem1UXzlqamxDM3N3UQ?oc=5",
+  "pdf": "",
+  "résumé": "Cercle Chant Mantras &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "718b385e234e",
+  "date": "2026-11-27 22:38",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Conseil Municipal",
+  "lien": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMFUtZ2Z3cVFaOFB3ZEhrbG40VkwzOTd6b0pGYTVwMjJaTWhCUXVkb3JZUTFmYTBSdl9kbEhlbFZFOS1DNktKZWFhYUN6YjdtQ2V2Ym56LXZVVFluZnhNVTJLWW9qNVFLMm5zUTdoSE1BZGNIczYzZmpTN19ZSXFVeXAzVFVlZUhqcUx2R25SLUZuSHFnME5wLVdvTy1nZDQ0SWpjNkowcGZfSXE1MUpqeGQwUjhDckdzS251ejNrRjJQY0tkZW1kbHRHMWxvLWVvQnlEWXNMLWFkSnZKWE1Hd3NHQUV0MU5zenVib0tFRDR5Rk52ZlF6NQ?oc=5",
+  "pdf": "",
+  "résumé": "Conseil Municipal &nbsp;&nbsp; Infolocale"
+ },
+ {
   "id": "d07d10d55ae6",
   "date": "2026-11-27 21:04",
   "source": "Ouest-France — La Roche-sur-Yon",
@@ -80,6 +610,16 @@
   "résumé": "« Il n’y a pas trop de questions de gestion à se poser » : au Vendée FC La Roche, Coupe de France et Ligue 3, même combat &nbsp;&nbsp; maville.com"
  },
  {
+  "id": "4afd1c5c9977",
+  "date": "2026-11-27 19:15",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "« Il n’y a pas trop de questions de gestion à se poser » : au Vendée FC La Roche, Coupe de France et Ligue 3, même combat",
+  "lien": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdGItQzBUYm95aEh0Z0J6MXBRM0hCNlNIOTFQNGJwcHE4SkZENUNEb0pSajZyZzNidkVIOG1UNmtoWEI5RVpSX01tVGpkcE00TzIwaUo4cVBHaWc2TmFqMkpaMmZ0T2FNX1c5QW8wUGxhN0pwTjhqNFlzOFpRSEhPX1hOanAxeE1yU1F3NW5NVnZFS2d2UWJBNUUzWFd3VmU5LTFaN1ZEX0xLUlg2SXowSW9TY0NFdDNoTFhBajBnMEZNaXQzOHRJMlhwR3ZueDNhbVVJN1BVNXJpVGFHaE0tcklJZXVMTUM2dm1HT1YyQmJYT0RjRnVNVWp3WkJyLVUwM1hJWnJvU05CM1U?oc=5",
+  "pdf": "",
+  "résumé": "« Il n’y a pas trop de questions de gestion à se poser » : au Vendée FC La Roche, Coupe de France et Ligue 3, même combat &nbsp;&nbsp; maville.com"
+ },
+ {
   "id": "a485deeaef5b",
   "date": "2026-11-27 19:13",
   "source": "Ouest-France — La Roche-sur-Yon",
@@ -118,6 +658,16 @@
   "lien": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPTERyWHQ3NTFBOGZ3eFpxMS04RDlqTUN3akQxaWR2Z256N2s0VmFrbWFOWXp1RWF1dG51WVllVkZwRDlhYUdaYU9QRUtVVTYzSWpzdFpyX2QxVGZwaHVEdlNBeGRYdGlSc0wweG03U0RQN2dVanByUTBiTFlpNE9qc3l4VU1SUFFKX2t5YVRmWDNfdnliS3ZERnFaN1IzSUhmcVBmbGFQc190bVlQWHM4RlZfU3hkaGNOcWh0ZFhYc3ZXOXpZS3d0cEd6emprejk3cTFqMzdGR0ZtQ28zU2RtUmxQQkIxcUlRa1hJQUpfdVp3a0ZtTDd6SDItTkl4TnVzOWxDc1FMUElDTU5nRnQwamlCRDJQS3lqQTZHdmc2d2JCRjloV0dBVkhDdURvTzg?oc=5",
   "pdf": "",
   "résumé": "« L’éleveur faisant la bise sur le front de son animal » : Les Voleurs de Lumière photographes officiels du Tech élevage de La Roche-sur-Yon &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "4baaed1e7c67",
+  "date": "2026-11-27 18:44",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Conférence théâtralisée",
+  "lien": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORjZraGdkcGNyY1lCOWxOeEpVSm5mVXI5cG5BTzdCc0JpYjVZYVhjaXkwMTNxdWtjOVVXaEtXNDN5SUljeGUyUkpQVUNfVGhrUDY0Rms5WUdWd1FUZ091QnJETmV5c3VTNzBZMFdDUTNNblNjemlBbll5UzFSQTBkeEIxQ095cngzVnB2UVZVRGRYVDRjNXpCbDFmTjgyVDBTOUVGeUJCV1kwT0VlM1ZVTGhRT09BbUlWYnRVd2dNaVJXc3lILVNoWWpEMDktV3ZjSVEwRXZtSnNZUGs3eDdQMDFlX3NzRHVZX0U1aE45OHNPcnpvU3hDWW01cC01WUpVRWROVjhn?oc=5",
+  "pdf": "",
+  "résumé": "Conférence théâtralisée &nbsp;&nbsp; Infolocale"
  },
  {
   "id": "83f5ee0405cc",
@@ -166,6 +716,16 @@
   "type": "presse",
   "titre": "Judo. Malgré une ambassadrice au plus haut niveau, la Vendée travaille sur la fidélité de ses licenciés et enseignants",
   "lien": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZWRfYVh0a19oUUxfMlM3a0RZejljejJVcHMxOW9XeEdWZmtOM3l5dkowV0NMRkRfRnJYaUdmYUZhQ0hzam9xdzBJbXBxc2J6SGRkbmYxM1oyODdNSGdlSmx5RXZGT3RnTU5odDl4d0ctSjFMb2FKSWVWbHJzV0FFT3hrcG1lSFUwTnBYUElsNzVaUWFnT3k3RDh4MmpxZVdneGdpZ2xVTW5WTUI5QS00VUxKV3V4R0NQTUpZdDJNVkRZWnFzQ252VEo4Tkh1Wm4yakpqVU1pREZCS2IzQ1VtQzVUcDl0T2JEcXZFdEpqRjAzUzdNMUFBV3dkY3NxRGF0RDh3eFI0RUprSHAya3c?oc=5",
+  "pdf": "",
+  "résumé": "Judo. Malgré une ambassadrice au plus haut niveau, la Vendée travaille sur la fidélité de ses licenciés et enseignants &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "f1d3d3281a53",
+  "date": "2026-11-27 18:31",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Judo. Malgré une ambassadrice au plus haut niveau, la Vendée travaille sur la fidélité de ses licenciés et enseignants",
+  "lien": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPdXVqdENROXFUdE5tNUR2WVg4dDV5SXF3ZTRXVUN6Z1NVdHU2b3A4cUpxak4yUGc5NDFvOGgtMUNha0R6aVhXVTZDempuZ0lTZWhzU01kM1ZpMHlQb0JwVG9jU3g4UTNIN0NIclJib2FwTkpiS25LcXJEdkxmZi1VTTNfSkJlX2p0bUs0dG1BU2hodEVLTUtLNTc5MWFvcmVrZ082SWVqekVZVm0tSXd5TjUxamYySUo2cXpqRDZCM0ljOEVzcl84cU55ek40cWw2ekU3TDRyVkJhM3ROV1lTTVVDYnVGRkJqWUpEa1ozRG5uYTFIeVNPOGpmMFEwNWpJTWExQzFieWNlVE1LbnpWYkJEWGlfdTA?oc=5",
   "pdf": "",
   "résumé": "Judo. Malgré une ambassadrice au plus haut niveau, la Vendée travaille sur la fidélité de ses licenciés et enseignants &nbsp;&nbsp; maville.com"
  },
@@ -340,6 +900,16 @@
   "résumé": "Ancienne sommelière à Londres, elle poursuit sa belle aventure en Vendée avec l'ouverture d'une deuxième cave à vin &nbsp;&nbsp; Actu.fr"
  },
  {
+  "id": "08d52afe1580",
+  "date": "2026-11-27 17:12",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Alta Convictions acquiert à Aizenay le site industriel historique d’Océplast",
+  "lien": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVVF6MjZKRWwxU0FGTGNMcFRzZ19IZTh5Z1lWOUxZM1N0RmxwZGFkSE1LZ2YycVVYQ1ZRZGEyMUx4UzJ4cWdLVlc2bHBhZlEzQkhtUnYxSkVRNkNXVWlmd0JyaGZDYUNKLWloTGpsdk5HNVFMc1pCcW1KbldNNkhvY2hSMDJsRGtoTU95TEZqbURlRmQwSXdLSC1rTnM1Z3JpbTNvREd5Y3pWUmtOVzN4OGk2UkNmbGNCVlJTNGpnT3hKNzY1M0RPWEhHQ05odw?oc=5",
+  "pdf": "",
+  "résumé": "Alta Convictions acquiert à Aizenay le site industriel historique d’Océplast &nbsp;&nbsp; Zoom Invest"
+ },
+ {
   "id": "e01520adaf8d",
   "date": "2026-11-27 17:04",
   "source": "Google News — La Roche-sur-Yon",
@@ -378,6 +948,16 @@
   "lien": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdk93b1NGLVkyQzFVSlE5LXNTVzFsODItRjNLbzJwUnh2UHdfTVpBZExwYVp6SEV1alVhcTloVjVQcTBfZVN2MVNUSFpubENmWVFDaUY3cmtkQWdnU0FkNHltbUdiYVBrT0N6NHFZc1BTVXliSW9iSjlOYmtKYkVtUVVQdnNmbjBEeGFmV2xjckVXY2p0bEh5YVBLV3JsZ1VrbVU1S1JHaHBtbXg1SXg3RTNaTTFQYWNFVFY5QQ?oc=5",
   "pdf": "",
   "résumé": "Judo : Manoah Dumont a l’or dans le viseur aux championnats de France &nbsp;&nbsp; Charente Libre"
+ },
+ {
+  "id": "4b81fa8ca7c9",
+  "date": "2026-11-27 16:51",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Fermeture exceptionnelle de la Maison Saint-Yves",
+  "lien": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNOHFobE9Fek5KenRmaGlZd1RiNVVqNWVCMGFnd3A3RVludHFZcW5zV3REM0dKZHVNa2hrNUlMUU9GQ0hrX3RFM3FDY01wQnNwdGtVNHJkcFJZajhXZ09QUFJzRG03bGZqdnhlYktEU282Y2FnNmVCamM2SVFyRkNyczNLNDB1SldIcFp5bVZOYWZ1N0pfTks4X2hqcE9ZZ2s5bWEzSHJwak5UWjRGV1huVlJzOG1EbDEwSmRJTzBFcEYxMmkyQzdKUGJWTTdEa1lpTGt4MmJwRFhkUFBRbW1BZkJMQzkteEVTbWJkMjR4cVppWEZlNjVNbTlBb1d2QnlCZDltRWdUU2NudWJlV1YzeUtuNC1iMkFxNGc?oc=5",
+  "pdf": "",
+  "résumé": "Fermeture exceptionnelle de la Maison Saint-Yves &nbsp;&nbsp; Infolocale"
  },
  {
   "id": "8787793a66d4",
@@ -2410,6 +2990,16 @@
   "résumé": "« La profession est scandalisée de manière unanime » : Pourquoi les dentistes vont-ils faire grève dès ce dimanche 29 novembre en Vendée ? &nbsp;&nbsp; Ouest-France"
  },
  {
+  "id": "5cec609bef92",
+  "date": "2026-11-26 16:50",
+  "source": "France 3 — Vendée",
+  "type": "presse",
+  "titre": "PORTRAIT. \"Le Graal que j'attendais depuis que je suis enfant\", Manon Mainvis sur le toit du monde de la pêche sportive",
+  "lien": "https://france3-regions.franceinfo.fr/pays-de-la-loire/vendee/sables-olonne-0/portrait-le-graal-que-j-attendais-depuis-que-je-suis-enfant-manon-mainvis-sur-le-toit-du-monde-de-la-peche-sportive-3456533.html",
+  "pdf": "",
+  "résumé": "Manon Mainvis a remporté le 14 novembre dernier, à Arborea, en Sardaigne, deux titres de championne du monde de surfcasting. Une discipline de pêche en mer, mais surtout une passion pour la jeune femme, qui a grandi avec une canne à pêche à la main et qui vit à Saint-Herblain, près de Nantes."
+ },
+ {
   "id": "cbc73648dfc1",
   "date": "2026-11-26 16:30",
   "source": "Google News — La Roche-sur-Yon",
@@ -3046,6 +3636,26 @@
   "type": "presse",
   "titre": "Judo. Programme, palmarès, tarifications, diffusion… Tout savoir sur les championnats de France séniors en Vendée",
   "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVFNiM3JvcE0wTFF5aURod0FpQy1NdGdKU3Vsb2pEWkJFdUxzRTE1LUJIazFDRGtSMjNXNUVKOXQ3S29kTVhwaXNVdkFzdWNFMXplRVZxOV9SeWtUbWtMTVFEV3FKMEUtNktJTlZseW82WFFSWmV4cFUza1lOS3p1bTBFVUp0R0VMWnNBX1ZNUXo0azZsZEswY3lGU3RzdzFxTHQ0Q3EyS1dwVnhmZy1mbmdzaWIzTzVYck81YVlLN3FQbmExWFlRR0kwMkZVTXVxQmZ6VjlMRl9nNjZITkpxVERjVnMtdlVkV1RGYmtpOGswQ2Rvc25wNVh1c3dTeGFmNTY1dFVSUWE?oc=5",
+  "pdf": "",
+  "résumé": "Judo. Programme, palmarès, tarifications, diffusion… Tout savoir sur les championnats de France séniors en Vendée &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "92a0d8caeb1b",
+  "date": "2026-11-26 08:30",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Judo. Programme, palmarès, tarifications, diffusion… Tout savoir sur les championnats de France séniors en Vendée",
+  "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONVUyTXdKT0U3SVgwbUYxUXpvT3FfUHlEb0ZPY21YYVA4Q3dMalpSWjFXSWwxTGJ1aEY5dzd5aFE2czRUQy0yRmYxQnZwc0R1SmpocVdXTWwwbVkyc1BoNlJCY2RLNXZHdkl4LUZVLXJKRjc5WlRESGh5UFB1dzVLNDRkVXVQX1hJY1ZhTWk2WFlBOVlEeFRLek9RLVJHdmttWkxvMldrZjJNazBpbERCYVVxYldrSkpDMC1hQ2ZVZFNoLVBTLVZPckNSMEtLVWdJaTc4X1dVTW44Wk9CeldXZWl3QWZMVFQ5SlozV0FBR3pEWFROMmNJbDdzQlZTMEplT08wWElENDE?oc=5",
+  "pdf": "",
+  "résumé": "Judo. Programme, palmarès, tarifications, diffusion… Tout savoir sur les championnats de France séniors en Vendée &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "92a0d8caeb1b",
+  "date": "2026-11-26 08:30",
+  "source": "Google News — communes de l'agglo",
+  "type": "presse",
+  "titre": "Judo. Programme, palmarès, tarifications, diffusion… Tout savoir sur les championnats de France séniors en Vendée",
+  "lien": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONVUyTXdKT0U3SVgwbUYxUXpvT3FfUHlEb0ZPY21YYVA4Q3dMalpSWjFXSWwxTGJ1aEY5dzd5aFE2czRUQy0yRmYxQnZwc0R1SmpocVdXTWwwbVkyc1BoNlJCY2RLNXZHdkl4LUZVLXJKRjc5WlRESGh5UFB1dzVLNDRkVXVQX1hJY1ZhTWk2WFlBOVlEeFRLek9RLVJHdmttWkxvMldrZjJNazBpbERCYVVxYldrSkpDMC1hQ2ZVZFNoLVBTLVZPckNSMEtLVWdJaTc4X1dVTW44Wk9CeldXZWl3QWZMVFQ5SlozV0FBR3pEWFROMmNJbDdzQlZTMEplT08wWElENDE?oc=5",
   "pdf": "",
   "résumé": "Judo. Programme, palmarès, tarifications, diffusion… Tout savoir sur les championnats de France séniors en Vendée &nbsp;&nbsp; maville.com"
  },
