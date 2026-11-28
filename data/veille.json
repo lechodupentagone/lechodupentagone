@@ -1,5 +1,115 @@
 [
  {
+  "id": "e0dcf9ea204f",
+  "date": "2026-11-28 07:20",
+  "source": "Journal du Pays Yonnais",
+  "type": "presse",
+  "titre": "Le Vendée foot club et la Coupe de France, une histoire à retisser",
+  "lien": "https://actu.fr/pays-de-la-loire/la-roche-sur-yon_85191/le-vendee-foot-club-et-la-coupe-de-france-une-histoire-a-retisser_65110950.html",
+  "pdf": "",
+  "résumé": "Hormis en 2024, le VFC n'a pas eu souvent l'occasion de s'illustrer en Coupe de France récemment. Pourtant, le club a connu quelques épopées marquantes à la fin du siècle dernier."
+ },
+ {
+  "id": "27f24d622243",
+  "date": "2026-11-28 07:20",
+  "source": "Journal du Pays Yonnais",
+  "type": "presse",
+  "titre": "L’Historial lève l’ancre sur l’incroyable d’histoire des vrais pirates et corsaires de Vendée",
+  "lien": "https://actu.fr/pays-de-la-loire/les-lucs-sur-boulogne_85129/lhistorial-leve-lancre-sur-lincroyable-dhistoire-des-vrais-pirates-et-corsaires-de-vendee_65098524.html",
+  "pdf": "",
+  "résumé": "À l’Historial de la Vendée, l’exposition À l’abordage ! confronte l’imaginaire des pirates à la réalité de la course, de la flibuste et des marins de la façade atlantique."
+ },
+ {
+  "id": "66f4456877f9",
+  "date": "2026-11-28 07:01",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Séquestration, logements précaires, annonces en ligne… Plongée dans l’envers d’un réseau de proxénétisme itinérant démantelé en Vendée",
+  "lien": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOanFfLXpYQ19ZVXp5U3lJYjFtMk1taS1PRFVqWUEweTBzS1BJemxURVh6RjUtdllaNEh4d2Z3TmpXMFNHRUhITzNZdnFaUDJGQU1nR2dTODVIUjhMN2lxYTBUUUNZSlNXMS1QR2Rmb0N1X0d4bUtfaXE3X2hSYmRyZjVfeEtZV2laZWpQcmtJWXJ5cnhvY1FhUXh0QXNEbF9RellUN2lTYWpteUFHQWxDbXVPSEJjUTU2V2lVTkRCLUpLcG9QaERvWVVQanBobU5Qd2tsVEEtN2lQaG5jTk1YV1p2OTdfMDNzbmZsMXR3RzBlODVXTlJKR3loMlRRSkZDVUk0T2J2NFZBTGh4X2Jnbk9hUnFSb25hVUh6QmRmZWowTmxXSkxmY2RCaWJCd0E4VVM3U3pNRlRrbjQ?oc=5",
+  "pdf": "",
+  "résumé": "Séquestration, logements précaires, annonces en ligne… Plongée dans l’envers d’un réseau de proxénétisme itinérant démantelé en Vendée &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "66f4456877f9",
+  "date": "2026-11-28 07:01",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Séquestration, logements précaires, annonces en ligne… Plongée dans l’envers d’un réseau de proxénétisme itinérant démantelé en Vendée",
+  "lien": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOanFfLXpYQ19ZVXp5U3lJYjFtMk1taS1PRFVqWUEweTBzS1BJemxURVh6RjUtdllaNEh4d2Z3TmpXMFNHRUhITzNZdnFaUDJGQU1nR2dTODVIUjhMN2lxYTBUUUNZSlNXMS1QR2Rmb0N1X0d4bUtfaXE3X2hSYmRyZjVfeEtZV2laZWpQcmtJWXJ5cnhvY1FhUXh0QXNEbF9RellUN2lTYWpteUFHQWxDbXVPSEJjUTU2V2lVTkRCLUpLcG9QaERvWVVQanBobU5Qd2tsVEEtN2lQaG5jTk1YV1p2OTdfMDNzbmZsMXR3RzBlODVXTlJKR3loMlRRSkZDVUk0T2J2NFZBTGh4X2Jnbk9hUnFSb25hVUh6QmRmZWowTmxXSkxmY2RCaWJCd0E4VVM3U3pNRlRrbjQ?oc=5",
+  "pdf": "",
+  "résumé": "Séquestration, logements précaires, annonces en ligne… Plongée dans l’envers d’un réseau de proxénétisme itinérant démantelé en Vendée &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "719655305f94",
+  "date": "2026-11-28 06:48",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "VIDÉO. Festival de Poupet, câble électrique, policiers en colère... Les cinq infos de la semaine dans le Choletais et les Mauges",
+  "lien": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQN1FwR1A1MV8wRFN2RE5nODBPRkYwLTU1VnVaSTRIWkdUamltTUJJdVZhaExaVnkyRlZrVmJUNDY0enJ0Z3ZNbF9iVFpMdUowN01LaGk0d0UyU29pZ2YyeXRxbGQ3YUxZQ3BSVzE0WXNZbXY4ZFpmY0VVSi1PRElLR0xxQnVBNXpZYTVMdGtveGdvc2p4MjM1bTlfSHdnTjBpT2dieXRKZlRKNTFZcWx3RzMydGlTWnU0ZEtfTm81NURPaDh4ck5MSi1EN1NmeUpKdy1fUEhmQ3RhcTRYN2RmRkpGemd6bHliZUNMT25PSXY1a1JMS0w2SjlaRHg0VUNZYWt4M0tWRF84azBmQmRodF9zMllWT0RiYmFmb3d6S21xMXpQTk8tVW42a194OHFubms0c1ZwOTVHSTB5OHc?oc=5",
+  "pdf": "",
+  "résumé": "VIDÉO. Festival de Poupet, câble électrique, policiers en colère... Les cinq infos de la semaine dans le Choletais et les Mauges &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "65ce28b39479",
+  "date": "2026-11-28 06:42",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Rink hockey. Nationale 1 : Dinan Quévert attend une équipe de La Vendéenne revancharde",
+  "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPV1JRNDZNTkNkRE9qNGNrOUdadWxOTHNxcElEby1JRlVjMjhkclRQTjZ6NlFxNE11anJBNnJ5TGpGZW93QWJGQzlHTnRFM3lZSXROSy1aVm9nWDY1QjZFZ2lTSm5qRlczWUhDZ3k4Tmt4bkNMam9CenpaSGlLNTM3RHFtd0EyZDVEM0lqWWRsSG1ZUXBiZlRiSWliTzhmWkNzTkZFWklWSmRNRGN5UzRiRG1GWGowSjgzNmZJODF1eU9sUnlHQ2ZwUVhKdmNiNGlhX0d4TlVHZjZMVE84UlR4SlJFUFBmLUNaTUl1Y1BrM2VEOXFmRk9uUmNQcTRSbkNrVWU0M1pSbkZ2aDc1cEpINQ?oc=5",
+  "pdf": "",
+  "résumé": "Rink hockey. Nationale 1 : Dinan Quévert attend une équipe de La Vendéenne revancharde &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "65ce28b39479",
+  "date": "2026-11-28 06:42",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Rink hockey. Nationale 1 : Dinan Quévert attend une équipe de La Vendéenne revancharde",
+  "lien": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPV1JRNDZNTkNkRE9qNGNrOUdadWxOTHNxcElEby1JRlVjMjhkclRQTjZ6NlFxNE11anJBNnJ5TGpGZW93QWJGQzlHTnRFM3lZSXROSy1aVm9nWDY1QjZFZ2lTSm5qRlczWUhDZ3k4Tmt4bkNMam9CenpaSGlLNTM3RHFtd0EyZDVEM0lqWWRsSG1ZUXBiZlRiSWliTzhmWkNzTkZFWklWSmRNRGN5UzRiRG1GWGowSjgzNmZJODF1eU9sUnlHQ2ZwUVhKdmNiNGlhX0d4TlVHZjZMVE84UlR4SlJFUFBmLUNaTUl1Y1BrM2VEOXFmRk9uUmNQcTRSbkNrVWU0M1pSbkZ2aDc1cEpINQ?oc=5",
+  "pdf": "",
+  "résumé": "Rink hockey. Nationale 1 : Dinan Quévert attend une équipe de La Vendéenne revancharde &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "98b46f25032c",
+  "date": "2026-11-28 06:30",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Dès le 1er décembre, la ligne de bus entre Cholet, Les Herbiers et La Roche devient plus rapide et s’adapte aux horaires domicile-travail",
+  "lien": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPTFJjdm5tQ3VXXy1zTDRXTGhWc0pOeGNsc2ktM280Y1FsVEc2NFVmWlhQUnotdVcxMWx6V1RtN3FqNTNpNGkzZFpLcElNS2lnaHY4X2YzOXd6RUNOX09Bd1d6c1RPMUxaR1FaUldoWTZvMEh3NV9QMDF2S19SNlJ6LXczMVpIZlBjRXIwRWtIX0pOTnp1clp4ZjhQZ3JBVTN2eHYwcHBlSEhLMl9UTW5FNTV1UmJKQ25heFNPa185Y2YxVEt5bDlVYUE5NS1KdXJXdFQ2SFFBQmhMc29lVzh0bEs4QURoY3pnYlNFNmRxdU1WTjR1Vlh6NEczeG05VlNVRG9zbTM3U2dsckRqR3RLVGF6MURXSEtJR2hkb3hXOEVpX3BvdGZLUEJVZkhFU0RvOWxwSmlaUzVqNlpZVGJmRjVZQUp1bHlzckFhZkdXbVFGLWd2UGc?oc=5",
+  "pdf": "",
+  "résumé": "Dès le 1er décembre, la ligne de bus entre Cholet, Les Herbiers et La Roche devient plus rapide et s’adapte aux horaires domicile-travail &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "98b46f25032c",
+  "date": "2026-11-28 06:30",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Dès le 1er décembre, la ligne de bus entre Cholet, Les Herbiers et La Roche devient plus rapide et s’adapte aux horaires domicile-travail",
+  "lien": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPTFJjdm5tQ3VXXy1zTDRXTGhWc0pOeGNsc2ktM280Y1FsVEc2NFVmWlhQUnotdVcxMWx6V1RtN3FqNTNpNGkzZFpLcElNS2lnaHY4X2YzOXd6RUNOX09Bd1d6c1RPMUxaR1FaUldoWTZvMEh3NV9QMDF2S19SNlJ6LXczMVpIZlBjRXIwRWtIX0pOTnp1clp4ZjhQZ3JBVTN2eHYwcHBlSEhLMl9UTW5FNTV1UmJKQ25heFNPa185Y2YxVEt5bDlVYUE5NS1KdXJXdFQ2SFFBQmhMc29lVzh0bEs4QURoY3pnYlNFNmRxdU1WTjR1Vlh6NEczeG05VlNVRG9zbTM3U2dsckRqR3RLVGF6MURXSEtJR2hkb3hXOEVpX3BvdGZLUEJVZkhFU0RvOWxwSmlaUzVqNlpZVGJmRjVZQUp1bHlzckFhZkdXbVFGLWd2UGc?oc=5",
+  "pdf": "",
+  "résumé": "Dès le 1er décembre, la ligne de bus entre Cholet, Les Herbiers et La Roche devient plus rapide et s’adapte aux horaires domicile-travail &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "164db932fea0",
+  "date": "2026-11-28 06:16",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Coupe de France : un exploit pour les Voltigeurs de Châteaubriant face à La Roche-sur-Yon, en Vendée ?",
+  "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMHpyWFFtb1A1N1BBOC14Z050NEhuN2I3ODRxRHhOdU0zVGl5ay1RSU96Z2oyNlVjUXM2RVNaN2dwQ1ZKeUE1YkQ0d0ZvekJSTnlFOFJLcEc3NVA4N1FENHM4cGxVM0RpV1V2dmgybHd2WWdjX3Jpb0tBMnBxX19XNmZBQ0hyZmhTZ21MSUVnSFFPZnlPNGVLVFZ6QVU3YndLU1E2cDNnZkxVbURfeXoxdWpUcG1XM2dxNUNIaHJOTGpXS2lFR3BlMEtlcWk2ZXF4Y1R0Q1BlUXc5MjR3LVRXVnU5NHgwNktyYjVTenNCckRqYkJrRzJF?oc=5",
+  "pdf": "",
+  "résumé": "Coupe de France : un exploit pour les Voltigeurs de Châteaubriant face à La Roche-sur-Yon, en Vendée ? &nbsp;&nbsp; Actu.fr"
+ },
+ {
+  "id": "164db932fea0",
+  "date": "2026-11-28 06:16",
+  "source": "actu.fr — Vendée",
+  "type": "presse",
+  "titre": "Coupe de France : un exploit pour les Voltigeurs de Châteaubriant face à La Roche-sur-Yon, en Vendée ?",
+  "lien": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMHpyWFFtb1A1N1BBOC14Z050NEhuN2I3ODRxRHhOdU0zVGl5ay1RSU96Z2oyNlVjUXM2RVNaN2dwQ1ZKeUE1YkQ0d0ZvekJSTnlFOFJLcEc3NVA4N1FENHM4cGxVM0RpV1V2dmgybHd2WWdjX3Jpb0tBMnBxX19XNmZBQ0hyZmhTZ21MSUVnSFFPZnlPNGVLVFZ6QVU3YndLU1E2cDNnZkxVbURfeXoxdWpUcG1XM2dxNUNIaHJOTGpXS2lFR3BlMEtlcWk2ZXF4Y1R0Q1BlUXc5MjR3LVRXVnU5NHgwNktyYjVTenNCckRqYkJrRzJF?oc=5",
+  "pdf": "",
+  "résumé": "Coupe de France : un exploit pour les Voltigeurs de Châteaubriant face à La Roche-sur-Yon, en Vendée ? &nbsp;&nbsp; Actu.fr"
+ },
+ {
   "id": "e71fdecb7a51",
   "date": "2026-11-28 06:01",
   "source": "Ouest-France — La Roche-sur-Yon",
@@ -350,6 +460,16 @@
   "résumé": "Soutenance de thèse &nbsp;&nbsp; Infolocale"
  },
  {
+  "id": "e05e21585ece",
+  "date": "2026-11-28 00:28",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Spectacle de marionnettes pour le Téléthon",
+  "lien": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcVlENGt6VGx4ZHhXdG9tY0ZjTEg4OHdkLVRtSHFjYllMZGZKaXk3Mk9sYjF5SzdXOGM0OUFwUnkwT2hjdDdGZnZkVkk1dmlsSFl1bEJ2a09sX3lvbHBCekhaVndLVFpGSlJZQ3luQlItV1R3V0NxemxsNTZZNWYydkVwQ3RRQ1Q3M1VtRS1vc2R0Vm1ETG9PT29PN1V6bGJEVUJ2d3FqelJMTlFZb0l0d2JEa2MxdEQ4bWNieWxqY0FPYVRNMkp0X05HOHE0VG1SZnZUWnBxZzRuT2tFNm95cTJReURIVHh5UnAwald6NU1wci1IRUdCMG14cWRLck1PYl9B?oc=5",
+  "pdf": "",
+  "résumé": "Spectacle de marionnettes pour le Téléthon &nbsp;&nbsp; Infolocale"
+ },
+ {
   "id": "b3545a3d309a",
   "date": "2026-11-28 00:26",
   "source": "Ouest-France — La Roche-sur-Yon",
@@ -480,6 +600,16 @@
   "résumé": "Vente de bottereaux au profit du Téléthon &nbsp;&nbsp; Infolocale"
  },
  {
+  "id": "7eb96537b8f0",
+  "date": "2026-11-28 00:26",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Club de la Détente",
+  "lien": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeFRfTzlackVDQTIxTTItdmtkbXo4ckxCUlM0RzJlbmpVSVlZVXpOemNjandpaFluenNUVzJXczZVcG5OTmctR182aERQazlISlNWNjBpbm5DZFVwalNwVk9LazIteUJnVkJxUXhObWRGal9WbTc2T0F1QXREYk50blFxbllDTXNJR2JFUVRETl9hd0t3OWM0VFJrbERTbkozMjFTYXVXVllFd05sYlVndHhKU2doZzZnMnktdFY0dVgwWUlNekNxczBRTEp3NDFvZnhENHRPb3ZWZ1dG?oc=5",
+  "pdf": "",
+  "résumé": "Club de la Détente &nbsp;&nbsp; Infolocale"
+ },
+ {
   "id": "81cd13a26bba",
   "date": "2026-11-27 23:50",
   "source": "Ouest-France — La Roche-sur-Yon",
@@ -490,6 +620,16 @@
   "résumé": "Loto organisé par le comité des fêtes &nbsp;&nbsp; Infolocale"
  },
  {
+  "id": "cda35025d44a",
+  "date": "2026-11-27 23:50",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Sapins de Noël des hospitaliers",
+  "lien": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNSmpVdEh1WkEtbXRVN2JmbGg1SzJ1TFd6NHVlaHQyc1JYN2RrY054eG1PM2tJbWNVaDJJNi1RUjllVU5URlFXX0RpazBidWd2eTM1cUpOZFo3LVhsdkZZSXBQZGxPOXR3MGVzYnVhWkJnX0RNMHl1QVMzVzVXcjAwVzUzMGtmZHlUMTRzYVNGSzZsTVZXZnl5eERXbDF4a29aVDhrbHNMdEl3d2lUcnkyRUpaeVhRMkhSWTVzV2ZBUjdwY2JnbnBTd1hLbnVQcWdHekxsX2dlTnJBTzA0Y19ZUG96WFZXRElydjNOdlFBOVRqeXZKOGVNa1U4R2c1THNEUTd1TThqcWVYWDlXTWFyNXJNNnUtUVpEakhzRQ?oc=5",
+  "pdf": "",
+  "résumé": "Sapins de Noël des hospitaliers &nbsp;&nbsp; Infolocale"
+ },
+ {
   "id": "790dbe94a50a",
   "date": "2026-11-27 23:48",
   "source": "Ouest-France — La Roche-sur-Yon",
@@ -498,6 +638,16 @@
   "lien": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeDBkZ29JOVJ2SVdLQkVtVTllbUdBbEdHU1YxZDhoaVcxalhTWmFsNHNYaGRodktJOEdfZ0ZWcVoxWEltRVppVkZPOXFHVTA1RjEzMGRIZkdNQk0zRDZ5UmE5OGdrOEVfXzRWUVd4NmUyTTJscGE5UFh4eWt3RVVta3A5TzRhTVFsaV9HbUJvei1qanFxY2t5QkNYNVhHczBpdXlpMw?oc=5",
   "pdf": "",
   "résumé": "ASBD foot animation &nbsp;&nbsp; Infolocale"
+ },
+ {
+  "id": "e15d4b145547",
+  "date": "2026-11-27 23:40",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Atelier croquis nomade",
+  "lien": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQckkwcHlyNy13aENJc0VpakgtUlZ6RGlpS1YzR2JBTXV3WW1YTmUzTjlWTG1qY3F1X1RzbS1mVTRBNmpVNDlOYlZ6V1E4dGIybUgzYlViOUlUa3RrcnVfbWpkbWpXWHVUUWVMdVdIUGg5Qk1qdkNOYzlnREk1akNZcVZaSlQ2SV92NklPZUdHaXpfSXhiRW1LVHJELUlpZnFDUHdnN0hHc0wyWF9aQ29CVS1pbi01SXBxU25xazYzY0t0M3RXYUF2cld0OUFiellGc1QxZE4wS3Z4TmpfOWc?oc=5",
+  "pdf": "",
+  "résumé": "Atelier croquis nomade &nbsp;&nbsp; Infolocale"
  },
  {
   "id": "5a196f1c9b49",
@@ -786,6 +936,16 @@
   "type": "presse",
   "titre": "Faute de salle à La Roche-sur-Yon, la conférence d’Éric Naulleau organisée par Reconquête ! se fera dans une autre ville de Vendée",
   "lien": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQdWxqMnhiYlBKa25VMDRGbjY5TTZYMllHSktOSlRCdlNXWUVHU3gxMHZvSGg2ckdoX3ZaODdpU2FSZ1dmZGIwRDZGcjJYd1EycllNS2lKc21TektkYXVGbFhPaFNoNkc5T2hkcDl2QnNrME5Td014TUNoaEZhWmFJNjhkSkJMdk5WeVVubG9XX2dxaVdTNG5qUmtEVFc2ajdIekd5eWt0dHM2ek9EcjE5d2xuUy0zZURIMnJVRGYyclVvNjNSdkdwOGQzZ2NWejF2ME9jLV9ZUFppS01GcHFZaXdnbFJPaGt2NHk0cnl2Vy1kUDhLVG9LOTI2UXdfOHVhb3ZaZmtXVU5uVEdLWm5MM1A5Y1VwY0JOcE5kdGpZX3BMZw?oc=5",
+  "pdf": "",
+  "résumé": "Faute de salle à La Roche-sur-Yon, la conférence d’Éric Naulleau organisée par Reconquête ! se fera dans une autre ville de Vendée &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "7c690fc62084",
+  "date": "2026-11-27 18:29",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Faute de salle à La Roche-sur-Yon, la conférence d’Éric Naulleau organisée par Reconquête ! se fera dans une autre ville de Vendée",
+  "lien": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPdmNlbTJMaEdiUjgzbVF4RDk3WjFEVmJiQUZtTzBMN2pJVHk1Vmc0ZHViUU5sNnJJWDRCLV9GYWhxVjBTZ3FCT3UzN01RaXFWLWRWT3JqaHkzOUF3TFFkSVJxOTktd1VXTWI5cjdGZmNiNU5jOFNsc25vSmlGRHlPd0FkemVUeWxyVHF4ckhvOTJqMnZNQnBYNVFnai1pTVI2NlFPR0tOSmhfZnlmRS10OF9VWC0wWWlHNVZ0SE1rbkFvMmE2VmgzZllnZHpMdWJjUG5URENkY094ajFCbmx6eWZRVFpDX2wzY0FfZDg2VTNZR0Jlbk9qQkJGalFPcnRFZnNwYmcyRlJzejUzRU9lbnhEMVc1Nmg5YlNLb2I2ZVdpLUJScEE?oc=5",
   "pdf": "",
   "résumé": "Faute de salle à La Roche-sur-Yon, la conférence d’Éric Naulleau organisée par Reconquête ! se fera dans une autre ville de Vendée &nbsp;&nbsp; maville.com"
  },
@@ -1880,6 +2040,16 @@
   "résumé": "Exposition-photo par l'Oeil du Semnon &nbsp;&nbsp; Infolocale"
  },
  {
+  "id": "54dd0587b3d5",
+  "date": "2026-11-27 08:05",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Offre d'emploi Maçon coffreur F/H - Maché (85)",
+  "lien": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vaWxZQkcya25HQzZKYU1RbmkyZDJQamNvcF9lUlpybl9aZUtHSkJjaEN1Z242Q19rT2drTUxzaXB3NE9mRGNkdTZPeUo0elBPMXZ2Y0tFM1o5NTV2UW80MFQ5a2JtMUt3Q3RJYmYzdDViT0xWU2hfZUplZkI5NkE?oc=5",
+  "pdf": "",
+  "résumé": "Offre d'emploi Maçon coffreur F/H - Maché (85) &nbsp;&nbsp; Ouest-France Emploi"
+ },
+ {
   "id": "66197008ba50",
   "date": "2026-11-27 07:23",
   "source": "actu.fr — Vendée",
@@ -2258,6 +2428,16 @@
   "lien": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeXlSMWtCVUhINk40N3lwNFVKWE1QMS1ndU5GaWhRRkdDeVBJT2JMNDh4MlotemxYTHZFYUJLTENkaDlCMGFxM1VVcjViRmZlNWQ0SXp0V3FzR2JtZ05ZQl9CUktHZ3h1Y0pnWTJ0V3pZVzM1dVkyUHo1UW55UHMzQ29SajRRNmNSMXlYMGJHRmdPV2dSRmx1YjIwY0Z6VEZUb0YybEJFemRzS2RsUjIwZVhfWlVpWUdWOVJPUUpIRDhXUXpEdUkxNzdMeUFnUUphdENfUkhXN2ExVWVqeTBpLWcyY19VX2N3Z0FhR08ydUtTam50d3hueGV0VFhicUhUS2tZSnp0cm5DR0JHbGVHY1Fn?oc=5",
   "pdf": "",
   "résumé": "Expertise comptable : Tyls conseil accélère avec six acquisitions en un mois &nbsp;&nbsp; Ouest-France"
+ },
+ {
+  "id": "a56c719bc02d",
+  "date": "2026-11-27 05:30",
+  "source": "Ouest-France — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Offre d'emploi Assistant Comptable H/F - La Roche sur Yon - Mouilleron-le-Captif (85)",
+  "lien": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ3N2NVV3TU1tSi1NbEhjaXMzTVFXaVVmZVNzaVQ0Uk8wVEJJRnFxOUEtV3RpcE1fWTBseDEydHNEY21XWmtOa1Jkb25rZ1J1V2EydkljRFJ1dzlhYUF1TnF4U2F0aDNZN19VRWwtOTFfNzB4SXFmUnlSakRLZWp5UGZYdzFIQ0tJekdsQUdaUzRROXc4UnBhaFJQdFE?oc=5",
+  "pdf": "",
+  "résumé": "Offre d'emploi Assistant Comptable H/F - La Roche sur Yon - Mouilleron-le-Captif (85) &nbsp;&nbsp; Ouest-France Emploi"
  },
  {
   "id": "c231502ae91f",
@@ -3336,6 +3516,16 @@
   "type": "presse",
   "titre": "Marché de Noël de Beaulieu-sous-la-Roche : programme et temps forts",
   "lien": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWW9UVXhOMjZoMUMtTFhwaHp6cl9PWldGZEZob2RtbVI4bkxuMHh0V0JUeWpWaVlFXzNWMlAwREpwWldHY0U4ZDRsb1MtUHE2Z0ctWVFwT2owZG9MWXlaWV9QLWM5bW5hMzAxM3NWVVZsYm9DVTh6VDRLRW1xaUZ6YUN1eXR5RVFHeHlIUTRqNGlOVXZHbVNOOWNRV1JNWFdtdXJvRzJyNXlzQUI3cXFQSnJiTHJXMzl5cUk0dmRTNi0wU1MzUEs3TW5jeXlwQ0l2RzV3Zw?oc=5",
+  "pdf": "",
+  "résumé": "Marché de Noël de Beaulieu-sous-la-Roche : programme et temps forts &nbsp;&nbsp; maville.com"
+ },
+ {
+  "id": "440798ff6dd0",
+  "date": "2026-11-26 13:13",
+  "source": "Google News — La Roche-sur-Yon",
+  "type": "presse",
+  "titre": "Marché de Noël de Beaulieu-sous-la-Roche : programme et temps forts",
+  "lien": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWDJLUlZNMFVUWXhxQi1BMVBlLXNDd0YxMTFha1ZnbkFFaTBfbWR6NUdnaUcwZllfTHV3YndqMnVDbWptRnNKR0JieXVBRWNnYk84Vl9SaktJOHZCQ1lCSDlFdlBrdUpWRTlmWHlwalBoMThzZTJNbjZ1cTY5LXhEZm13U1pUNGdLMGVCWXpUZmlDV2k3ZEdEMVZQTnNrOExIT2pJNkkyR19iOEo3eWM4b3drUHJTeE5nS09Vc2tEckQwZzd5WndKeDNvRHVQWUNQMlh2cmhTYw?oc=5",
   "pdf": "",
   "résumé": "Marché de Noël de Beaulieu-sous-la-Roche : programme et temps forts &nbsp;&nbsp; maville.com"
  },
